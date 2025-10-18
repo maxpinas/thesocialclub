@@ -13,12 +13,12 @@ The Social Hub's unique positioning lies in its **hybrid hospitality model**, wh
 Pricing for The Social Hub varies significantly by location, duration of stay, and room type. Data from 2024-2025 indicates a range of rates and membership costs:
 
 *   **Hotel Rooms**: A review mentioned a rate of €200 per night for a double room in October 2025 [9]. Another booking for November 16-17, 2025, was priced at $93 [10].
-*   **Monthly Accommodation (Student/Long-Stay)**:
-    *   Maastricht: €1,200/month for a room with 8 shared kitchen [11].
-    *   Rotterdam: €1,800/month [11].
-    *   Groningen: €1,209.93/month (September 2024 - June 2025) for a Standard Queen, with a current offer of €1,327.36/month [11].
-    *   The Hague: €1,414/month for a Double Standard Room (17m²) including utilities (September 2025 - January 2026) [11].
-    *   Amsterdam West: €1,375.80 - €1,421.60/month for an Executive Double (September 2024 - June 2025) [11].
+*   **Monthly Accommodation (Student/Long-Stay)**: 
+    *   Maastricht: €1,200/month for a room with 8 shared kitchen [11]
+    *   Rotterdam: €1,800/month [11]
+    *   Groningen: €1,209.93/month (Sept 2024-June 2025) for Standard Queen, current offer €1,327.36/month [11]
+    *   The Hague: €1,414/month for Double Standard Room (17m²) incl. utilities (Sept 2025-Jan 2026) [11]
+    *   Amsterdam West: €1,375.80-€1,421.60/month for Executive Double (Sept 2024-June 2025) [11]
 *   **Promotions**: 15% off stays for newsletter sign-ups [11].
 *   **Additional Costs**: Non-refundable deposit of 1 month rent and a €350 fee for contract takeover [11].
 *   **Other Services**: Parking at The Social Hub Groningen costs €15 per 24 hours [12]. Daily continental breakfast is €17.5 per person [13].

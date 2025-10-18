@@ -12,6 +12,33 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
   let processed = content.replace(/([^\n])\n+\[(\d+(?:,\s*\d+)*)\]\s*\.?\s*$/gm, '$1 [$2].');
   processed = processed.replace(/([^\n])\n+\[(\d+(?:,\s*\d+)*)\]\s*$/gm, '$1 [$2]');
   
+  // CRITICAL: Merge source references that appear on their own line after list items
+  // This handles cases like:
+  // * Item text
+  // [11].
+  // Should become:
+  // * Item text [11].
+  const lines = processed.split('\n');
+  const mergedLines: string[] = [];
+  
+  for (let i = 0; i < lines.length; i++) {
+    const currentLine = lines[i];
+    const nextLine = i + 1 < lines.length ? lines[i + 1] : '';
+    
+    // Check if next line is ONLY a source reference
+    const sourceOnlyMatch = nextLine.trim().match(/^\[(\d+(?:,\s*\d+)*)\]\.?$/);
+    
+    if (sourceOnlyMatch && currentLine.trim()) {
+      // Merge source reference with current line
+      mergedLines.push(currentLine + ' ' + nextLine.trim());
+      i++; // Skip the next line since we merged it
+    } else {
+      mergedLines.push(currentLine);
+    }
+  }
+  
+  processed = mergedLines.join('\n');
+  
   // Process markdown to HTML
 
   // Headings
@@ -40,29 +67,33 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
   processed = processed.replace(/^---$/gm, '<hr class="my-6 border-border" />');
 
   // Lists - unordered (handle both - and * prefixes)
-  const lines = processed.split('\n');
+  const listLines = processed.split('\n');
   let inList = false;
   let listItems: string[] = [];
   const processedLines: string[] = [];
 
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-    // Match both - and * for unordered lists
-    const unorderedMatch = line.match(/^[\-\*]\s+(.+)$/);
-    const orderedMatch = line.match(/^(\d+)\.\s+(.+)$/);
+  for (let i = 0; i < listLines.length; i++) {
+    const line = listLines[i];
+    // Match both - and * for unordered lists (including nested with spaces)
+    const unorderedMatch = line.match(/^(\s*)[\-\*]\s+(.+)$/);
+    const orderedMatch = line.match(/^(\s*)(\d+)\.\s+(.+)$/);
 
     if (unorderedMatch) {
       if (!inList) {
         inList = true;
         listItems = [];
       }
-      listItems.push(`<li class="ml-6 mb-2 leading-relaxed">• ${unorderedMatch[1]}</li>`);
+      const indent = unorderedMatch[1].length;
+      const indentClass = indent > 0 ? 'ml-12' : 'ml-6';
+      listItems.push(`<li class="${indentClass} mb-2 leading-relaxed">• ${unorderedMatch[2]}</li>`);
     } else if (orderedMatch) {
       if (!inList) {
         inList = true;
         listItems = [];
       }
-      listItems.push(`<li class="ml-6 mb-2 leading-relaxed">${orderedMatch[1]}. ${orderedMatch[2]}</li>`);
+      const indent = orderedMatch[1].length;
+      const indentClass = indent > 0 ? 'ml-12' : 'ml-6';
+      listItems.push(`<li class="${indentClass} mb-2 leading-relaxed">${orderedMatch[2]}. ${orderedMatch[3]}</li>`);
     } else {
       if (inList) {
         processedLines.push('<ul class="my-4 space-y-1">' + listItems.join('') + '</ul>');
