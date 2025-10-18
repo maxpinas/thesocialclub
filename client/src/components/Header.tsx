@@ -14,10 +14,9 @@ export default function Header() {
       <div className="container flex h-16 items-center justify-between">
         {/* Logo */}
         <Link href="/">
-          <a className="flex items-center space-x-2 font-bold text-xl">
-            <span className="border-2 border-foreground px-3 py-1 rounded-full text-sm">
-              THE SOCIAL HUB
-            </span>
+          <a className="flex items-center space-x-3">
+            <img src="/tsh-logo.png" alt="The Social Hub" className="h-10 w-10" />
+            <span className="font-bold text-lg hidden sm:inline">TSH Research</span>
           </a>
         </Link>
 
@@ -41,11 +40,11 @@ export default function Header() {
             onMouseEnter={() => setBrandsOpen(true)}
             onMouseLeave={() => setBrandsOpen(false)}
           >
-            <button className="text-sm font-medium hover:text-[#76a9f9] transition-colors">
+            <button className="text-sm font-medium hover:text-[#76a9f9] transition-colors py-2">
               Brands ▼
             </button>
             {brandsOpen && (
-              <div className="absolute top-full left-0 mt-2 w-56 bg-background border border-border rounded-lg shadow-lg py-2">
+              <div className="absolute top-full left-0 mt-0 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
                 <Link href="/brands">
                   <a className="block px-4 py-2 text-sm hover:bg-muted">
                     Overview
@@ -75,11 +74,11 @@ export default function Header() {
             onMouseEnter={() => setSentimentOpen(true)}
             onMouseLeave={() => setSentimentOpen(false)}
           >
-            <button className="text-sm font-medium hover:text-[#76a9f9] transition-colors">
+            <button className="text-sm font-medium hover:text-[#76a9f9] transition-colors py-2">
               Sentiment ▼
             </button>
             {sentimentOpen && (
-              <div className="absolute top-full left-0 mt-2 w-56 bg-background border border-border rounded-lg shadow-lg py-2">
+              <div className="absolute top-full left-0 mt-0 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
                 <Link href="/sentiment">
                   <a className="block px-4 py-2 text-sm hover:bg-muted">
                     Overview

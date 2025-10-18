@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Loader2, Users } from "lucide-react";
-import { loadMarkdown, parseMarkdownSections } from "@/lib/dataLoader";
+import { loadMarkdown } from "@/lib/dataLoader";
+import MarkdownRenderer from "@/components/MarkdownRenderer";
 
 export default function Personas() {
   const [content, setContent] = useState<string>("");
@@ -66,16 +67,14 @@ export default function Personas() {
               </Card>
             ))}
           </div>
-          <div className="prose prose-slate max-w-none">
+          <div className="max-w-none">
             <Card>
               <CardHeader>
                 <CardTitle>Methodology & Evidence</CardTitle>
                 <CardDescription>How these personas were developed from research data</CardDescription>
               </CardHeader>
               <CardContent>
-                <div className="whitespace-pre-wrap text-sm text-muted-foreground leading-relaxed">
-                  {content.substring(0, 2000)}...
-                </div>
+                <MarkdownRenderer content={content} />
               </CardContent>
             </Card>
           </div>

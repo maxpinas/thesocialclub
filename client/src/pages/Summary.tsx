@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { loadMarkdown, parseMarkdownSections } from "@/lib/dataLoader";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Loader2 } from "lucide-react";
+import MarkdownRenderer from "@/components/MarkdownRenderer";
 
 export default function Summary() {
   const [content, setContent] = useState<string>("");
@@ -58,11 +59,11 @@ export default function Summary() {
                 {Object.entries(sections).map(([title, content], idx) => (
                   <div key={idx} id={`section-${idx}`} className="mb-12">
                     <h2 className="text-2xl font-bold mb-4 border-b border-border pb-2">{title}</h2>
-                    <div className="whitespace-pre-wrap text-muted-foreground leading-relaxed">{content}</div>
+                    <MarkdownRenderer content={content} />
                   </div>
                 ))}
                 {Object.keys(sections).length === 0 && (
-                  <div className="whitespace-pre-wrap text-muted-foreground leading-relaxed">{content}</div>
+                  <MarkdownRenderer content={content} />
                 )}
               </div>
             </div>
