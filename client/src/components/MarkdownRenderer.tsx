@@ -8,8 +8,11 @@ interface MarkdownRendererProps {
 export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
   if (!content) return null;
 
+  // Preprocess: merge standalone source references with previous line
+  let processed = content.replace(/([^\n])\n+\[(\d+(?:,\s*\d+)*)\]\s*\.?\s*$/gm, '$1 [$2].');
+  processed = processed.replace(/([^\n])\n+\[(\d+(?:,\s*\d+)*)\]\s*$/gm, '$1 [$2]');
+  
   // Process markdown to HTML
-  let processed = content;
 
   // Headings
   processed = processed.replace(/^### (.+)$/gm, '<h3 class="text-xl font-bold mt-6 mb-3">$1</h3>');
@@ -77,9 +80,27 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
 
   processed = processedLines.join('\n');
 
+  // Merge standalone source references with previous paragraph before processing
+  const blocks = processed.split('\n\n');
+  const mergedBlocks: string[] = [];
+  
+  for (let i = 0; i < blocks.length; i++) {
+    const block = blocks[i].trim();
+    // Check if this block is just a source reference
+    if (/^__SOURCE_\d+__\.?$/.test(block)) {
+      // Merge with previous block
+      if (mergedBlocks.length > 0) {
+        mergedBlocks[mergedBlocks.length - 1] += ' ' + block;
+      } else {
+        mergedBlocks.push(block);
+      }
+    } else {
+      mergedBlocks.push(block);
+    }
+  }
+  
   // Paragraphs - wrap non-tagged content
-  processed = processed
-    .split('\n\n')
+  processed = mergedBlocks
     .map(block => {
       if (
         block.trim() &&
@@ -119,7 +140,7 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
             return (
               <Tooltip key={idx}>
                 <TooltipTrigger asChild>
-                  <sup className="cursor-help text-[#76a9f9] hover:text-[#7cbd8e] transition-colors ml-0.5 font-medium">
+                  <sup className="cursor-help text-[#76a9f9] hover:text-[#7cbd8e] transition-colors ml-0.5 font-medium inline-block whitespace-nowrap">
                     [{sourceNum}]
                   </sup>
                 </TooltipTrigger>
@@ -129,7 +150,10 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
               </Tooltip>
             );
           }
-          return <span key={idx} dangerouslySetInnerHTML={{ __html: part }} />;
+          // Remove standalone source references that are on their own line
+          const cleanedPart = part.replace(/^\s*<p[^>]*>\s*<\/p>\s*$/g, '');
+          if (!cleanedPart.trim()) return null;
+          return <span key={idx} dangerouslySetInnerHTML={{ __html: cleanedPart }} />;
         })}
       </div>
     </TooltipProvider>

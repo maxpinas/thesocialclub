@@ -177,3 +177,26 @@
     }
   }
 }
+/* Prevent source references from breaking to new line */
+.prose sup {
+  white-space: nowrap;
+  display: inline;
+}
+
+.prose li {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+
+/* Prevent source references from breaking to new line */
+.prose sup {
+  white-space: nowrap !important;
+  display: inline !important;
+}
+
+.prose li, .prose p {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
