@@ -37,11 +37,13 @@ export default function Home() {
       <section className="bg-gradient-to-b from-background to-muted/20 py-20">
         <div className="container">
           <div className="max-w-4xl">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-              TSH Competitive Research Platform
+            <h1 className="text-5xl md:text-6xl font-bold mb-3 leading-tight">
+              TSH Research Platform
             </h1>
-            <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Complete research package for The Social Hub's 4-star transformation and membership model strategy. 
+            <p className="text-2xl text-muted-foreground mb-6">
+              4-Star Transformation & Membership Strategy
+            </p>
+            <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
               Analyzing 8 hospitality brands across Europe with 10,000+ reviews and 55+ successful research subtasks.
             </p>
             <div className="flex flex-wrap gap-4">
@@ -87,7 +89,10 @@ export default function Home() {
       {/* Quick Links */}
       <section className="py-16">
         <div className="container">
-          <h2 className="text-3xl font-bold mb-8">Explore Research Sections</h2>
+          <div className="mb-8">
+            <h2 className="text-3xl font-bold mb-2">Research Sections</h2>
+            <p className="text-lg text-muted-foreground">Explore our comprehensive competitive analysis</p>
+          </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <Link href="/brands">
               <Card className="hover:shadow-lg transition-shadow cursor-pointer border-l-4" style={{ borderLeftColor: '#76a9f9' }}>
@@ -143,7 +148,10 @@ export default function Home() {
       {/* Membership Model Sweet Spot */}
       <section className="py-16 bg-muted/20">
         <div className="container">
-          <h2 className="text-3xl font-bold mb-8">Membership Model Sweet Spot</h2>
+          <div className="mb-8">
+            <h2 className="text-3xl font-bold mb-2">Membership Model</h2>
+            <p className="text-lg text-muted-foreground">Finding the sweet spot between value and accessibility</p>
+          </div>
           <div className="grid md:grid-cols-2 gap-8">
             <Card>
               <CardHeader>
@@ -184,66 +192,80 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Critical Success Factors */}
-      <section className="py-16">
+      {/* What Our Personas Want */}
+      <section className="py-16 bg-muted/20">
         <div className="container">
-          <h2 className="text-3xl font-bold mb-8">Critical Success Factors</h2>
-          <div className="grid md:grid-cols-2 gap-8">
-            <div>
-              <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
-                <span className="text-2xl" style={{ color: '#7cbd8e' }}>✓</span>
-                Must-Haves
-              </h3>
-              <ul className="space-y-3">
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">1.</span>
-                  <span className="text-sm">Excellent WiFi (100+ Mbps, backup connection)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">2.</span>
-                  <span className="text-sm">Quality workspace (ergonomic chairs, proper desks, quiet zones)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">3.</span>
-                  <span className="text-sm">Multi-property access (minimum 3-5 hotels)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">4.</span>
-                  <span className="text-sm">Clean, well-maintained facilities</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">5.</span>
-                  <span className="text-sm">Easy booking and access (app-based)</span>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
-                <span className="text-2xl text-destructive">✗</span>
-                Avoid
-              </h3>
-              <ul className="space-y-3">
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">1.</span>
-                  <span className="text-sm">Poor WiFi (#1 complaint killer)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">2.</span>
-                  <span className="text-sm">Overcrowding (cap members per hotel)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">3.</span>
-                  <span className="text-sm">Unclear value proposition</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">4.</span>
-                  <span className="text-sm">Single hotel only (not compelling)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-sm font-medium text-muted-foreground">5.</span>
-                  <span className="text-sm">Inconsistent service quality</span>
-                </li>
-              </ul>
+          <div className="mb-8">
+            <h2 className="text-3xl font-bold mb-2">What Our Personas Want</h2>
+            <p className="text-lg text-muted-foreground">Beyond hygiene factors - the real drivers of membership value</p>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <Card className="border-l-4" style={{ borderLeftColor: '#7cbd8e' }}>
+              <CardHeader>
+                <CardTitle className="text-lg">Vibe & Culture</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <ul className="space-y-2 text-sm text-muted-foreground">
+                  <li>• Design-forward spaces (not corporate)</li>
+                  <li>• Social atmosphere without forced networking</li>
+                  <li>• Curated community of like-minded people</li>
+                  <li>• Local cultural integration</li>
+                </ul>
+              </CardContent>
+            </Card>
+            
+            <Card className="border-l-4" style={{ borderLeftColor: '#76a9f9' }}>
+              <CardHeader>
+                <CardTitle className="text-lg">Right Pricing</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <ul className="space-y-2 text-sm text-muted-foreground">
+                  <li>• 60-85% cheaper than Soho House</li>
+                  <li>• 13-23x ROI for active users</li>
+                  <li>• Transparent value proposition</li>
+                  <li>• Flexible monthly & annual options</li>
+                </ul>
+              </CardContent>
+            </Card>
+            
+            <Card className="border-l-4" style={{ borderLeftColor: '#a4a4a5' }}>
+              <CardHeader>
+                <CardTitle className="text-lg">Amenities</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <ul className="space-y-2 text-sm text-muted-foreground">
+                  <li>• Multi-property access (3-5+ locations)</li>
+                  <li>• Quality co-working (not just desks)</li>
+                  <li>• Wellness facilities (gym, pool, spa)</li>
+                  <li>• Member-only events & perks</li>
+                </ul>
+              </CardContent>
+            </Card>
+            
+            <Card className="border-l-4" style={{ borderLeftColor: '#FFE0B2' }}>
+              <CardHeader>
+                <CardTitle className="text-lg">Experience</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <ul className="space-y-2 text-sm text-muted-foreground">
+                  <li>• Seamless booking (app-based)</li>
+                  <li>• Consistent quality across locations</li>
+                  <li>• Work-life integration (not separation)</li>
+                  <li>• Flexibility & convenience</li>
+                </ul>
+              </CardContent>
+            </Card>
+          </div>
+          
+          <div className="mt-8 p-6 bg-background rounded-lg border border-border">
+            <h3 className="font-bold mb-3 flex items-center gap-2">
+              <span className="text-xl text-destructive">⚠</span>
+              Deal Breakers
+            </h3>
+            <div className="grid md:grid-cols-3 gap-4 text-sm text-muted-foreground">
+              <div>• Poor WiFi (#1 complaint killer)</div>
+              <div>• Overcrowding (cap members per hotel)</div>
+              <div>• Single location only (not compelling)</div>
             </div>
           </div>
         </div>

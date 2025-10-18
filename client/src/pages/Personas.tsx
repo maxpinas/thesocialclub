@@ -42,10 +42,11 @@ export default function Personas() {
     <div className="min-h-screen">
       <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
         <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Target Personas</h1>
-          <p className="text-xl text-muted-foreground max-w-3xl">
-            5 validated personas developed from sentiment data across 8 brands
-          </p>
+          <h1 className="text-4xl md:text-5xl font-bold mb-3">Personas</h1>
+            <p className="text-2xl text-muted-foreground mb-4">Target Audience Profiles</p>
+            <p className="text-lg text-muted-foreground max-w-3xl">
+              5 validated personas developed from sentiment data across 8 brands
+            </p>
         </div>
       </section>
       <section className="py-12">

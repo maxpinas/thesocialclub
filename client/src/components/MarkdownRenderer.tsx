@@ -44,13 +44,16 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
       return `<a href="${url}" class="text-[#76a9f9] hover:underline">${text}</a>`;
     });
     
+    // Source references [1], [2] etc - convert to superscript with tooltip styling
+    processed = processed.replace(/\[(\d+)\]/g, '<sup class="cursor-help text-[#76a9f9] hover:text-[#7cbd8e] transition-colors ml-0.5" title="See sources at bottom">[$1]</sup>');
+    
     // Blockquotes
     processed = processed.replace(/^&gt; (.+)$/gm, '<blockquote class="border-l-4 border-[#76a9f9] pl-4 italic my-4">$1</blockquote>');
     
     // Horizontal rules
     processed = processed.replace(/^---$/gm, '<hr class="my-6 border-border" />');
     
-    // Lists - unordered
+    // Lists - unordered (handle both - and * prefixes)
     const lines = processed.split('\n');
     let inList = false;
     let listItems: string[] = [];
@@ -58,24 +61,25 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
     
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
-      const unorderedMatch = line.match(/^- (.+)$/);
-      const orderedMatch = line.match(/^(\d+)\. (.+)$/);
+      // Match both - and * for unordered lists
+      const unorderedMatch = line.match(/^[\-\*]\s+(.+)$/);
+      const orderedMatch = line.match(/^(\d+)\.\s+(.+)$/);
       
       if (unorderedMatch) {
         if (!inList) {
           inList = true;
           listItems = [];
         }
-        listItems.push(`<li class="ml-6 mb-2">• ${unorderedMatch[1]}</li>`);
+        listItems.push(`<li class="ml-6 mb-2 leading-relaxed">• ${unorderedMatch[1]}</li>`);
       } else if (orderedMatch) {
         if (!inList) {
           inList = true;
           listItems = [];
         }
-        listItems.push(`<li class="ml-6 mb-2">${orderedMatch[1]}. ${orderedMatch[2]}</li>`);
+        listItems.push(`<li class="ml-6 mb-2 leading-relaxed">${orderedMatch[1]}. ${orderedMatch[2]}</li>`);
       } else {
         if (inList) {
-          processedLines.push('<ul class="my-4">' + listItems.join('') + '</ul>');
+          processedLines.push('<ul class="my-4 space-y-1">' + listItems.join('') + '</ul>');
           listItems = [];
           inList = false;
         }
@@ -85,7 +89,7 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
     
     // Close any remaining list
     if (inList) {
-      processedLines.push('<ul class="my-4">' + listItems.join('') + '</ul>');
+      processedLines.push('<ul class="my-4 space-y-1">' + listItems.join('') + '</ul>');
     }
     
     processed = processedLines.join('\n');

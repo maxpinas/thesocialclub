@@ -11,7 +11,8 @@ export default function Brands() {
     <div className="min-h-screen">
       <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
         <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Brand Analysis</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-3">Brands</h1>
+            <p className="text-2xl text-muted-foreground mb-4">Competitive Analysis</p>
           <p className="text-xl text-muted-foreground max-w-3xl">
             Comprehensive competitive analysis of 8 hospitality brands across Europe
           </p>

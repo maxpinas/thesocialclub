@@ -31,7 +31,8 @@ export default function Summary() {
     <div className="min-h-screen">
       <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
         <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Executive Summary</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-3">Executive Summary</h1>
+            <p className="text-2xl text-muted-foreground mb-4">Transformation & Membership Strategy</p>
           <p className="text-xl text-muted-foreground max-w-3xl">
             The Social Hub transformation and membership model strategy
           </p>

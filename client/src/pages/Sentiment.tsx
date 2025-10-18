@@ -31,7 +31,8 @@ export default function Sentiment() {
     <div className="min-h-screen">
       <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
         <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Sentiment Analysis</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-3">Sentiment</h1>
+            <p className="text-2xl text-muted-foreground mb-4">Multi-Platform Analysis</p>
           <p className="text-xl text-muted-foreground max-w-3xl">
             Multi-platform sentiment data across 8 hospitality brands
           </p>
