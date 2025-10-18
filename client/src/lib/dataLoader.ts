@@ -26,6 +26,12 @@ export async function loadJSON<T>(filename: string): Promise<T | null> {
   }
 }
 
+export function simplifyTitle(title: string): string {
+  // Remove parenthetical details to make titles scannable
+  // "Brand overview (portfolio, ownership, positioning, history)" -> "Brand Overview"
+  return title.replace(/\s*\([^)]*\)\s*/g, '').trim();
+}
+
 export function parseMarkdownSections(markdown: string): Record<string, string> {
   const sections: Record<string, string> = {};
   const lines = markdown.split('\n');
@@ -40,8 +46,8 @@ export function parseMarkdownSections(markdown: string): Record<string, string> 
       if (currentSection) {
         sections[currentSection] = currentContent.join('\n').trim();
       }
-      // Start new section
-      currentSection = headingMatch[1];
+      // Start new section - simplify the title
+      currentSection = simplifyTitle(headingMatch[1]);
       currentContent = [];
     } else {
       currentContent.push(line);
