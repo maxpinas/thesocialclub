@@ -84,7 +84,7 @@ export default function BrandDetail() {
               {Object.entries(sections).map(([title, sectionContent], idx) => (
                 <div key={idx} id={`section-${idx}`} className="mb-12">
                   <h2 className="text-2xl font-bold mb-4 border-b border-border pb-2">{title}</h2>
-                  <MarkdownRenderer content={sectionContent} />
+                  <MarkdownRenderer content={sectionContent} brandId={brandId} />
                 </div>
               ))}
               {Object.keys(sections).length === 0 && <div className="whitespace-pre-wrap text-muted-foreground">{content}</div>}

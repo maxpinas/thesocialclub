@@ -200,3 +200,23 @@
   word-wrap: break-word;
 }
 
+
+
+/* Force source references to stay on same line as preceding text */
+.prose li {
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+
+/* Add non-breaking space before source reference in MarkdownRenderer */
+.prose sup[class*="cursor-help"] {
+  margin-left: 0 !important;
+}
+
+/* Prevent orphaned source references */
+.prose li::after {
+  content: '';
+  display: inline-block;
+  width: 0;
+}
+

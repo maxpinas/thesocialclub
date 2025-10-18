@@ -62,11 +62,7 @@ export default function DataSources() {
               <CardTitle>Data Quality Framework</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="prose prose-slate max-w-none">
-                <div className="whitespace-pre-wrap text-sm text-muted-foreground leading-relaxed">
-                  {content}
-                </div>
-              </div>
+              <MarkdownRenderer content={content} />
             </CardContent>
           </Card>
         </div>

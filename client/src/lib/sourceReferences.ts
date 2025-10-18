@@ -1,27 +1,44 @@
-// Source reference mapping for tooltips
-export const SOURCE_REFERENCES: Record<number, string> = {
-  1: "The Social Hub website - Official pricing and membership information",
-  2: "TripAdvisor reviews - Guest feedback and ratings",
-  3: "Booking.com - Room rates and availability",
-  4: "Google Reviews - Customer sentiment analysis",
-  5: "Reddit discussions - Community feedback and experiences",
-  6: "Instagram - Visual content and brand positioning",
-  7: "Twitter/X - Real-time customer feedback",
-  8: "Facebook - Community engagement and reviews",
-  9: "LinkedIn - Professional network and business positioning",
-  10: "The Social Hub Groningen - Specific location pricing",
-  11: "The Social Hub locations - Multi-property pricing data",
-  12: "The Social Hub Groningen - Parking services",
-  13: "The Social Hub Groningen - Breakfast pricing",
-  14: "The Social Hub - Membership program details",
-  15: "Soho House - Membership pricing comparison",
-  16: "WeWork - Co-working space pricing comparison",
-  17: "The Hoxton - Competitive analysis",
-  18: "CitizenM - Competitive analysis",
-  19: "Mama Shelter - Competitive analysis",
-  20: "Zoku - Competitive analysis"
-};
+// Source reference system that loads actual references from markdown files
+import sourceReferencesData from '../../public/data/source_references.json';
 
-export function getSourceReference(num: number): string {
-  return SOURCE_REFERENCES[num] || `Source reference [${num}]`;
+type SourceReferencesData = Record<string, Record<string, string>>;
+const references = sourceReferencesData as SourceReferencesData;
+
+// Get source reference text for a specific brand and reference number
+export function getSourceReference(num: number, brandId?: string): string {
+  // If brandId is provided, try to get brand-specific reference
+  if (brandId && references[brandId]) {
+    const brandRefs = references[brandId];
+    if (brandRefs[num.toString()]) {
+      return brandRefs[num.toString()];
+    }
+  }
+  
+  // Fallback: search all brands for this reference number
+  for (const brand in references) {
+    const brandRefs = references[brand];
+    if (brandRefs[num.toString()]) {
+      return brandRefs[num.toString()];
+    }
+  }
+  
+  // Final fallback
+  return `Source reference [${num}] - See References section at bottom of page`;
 }
+
+// Get all references for a specific brand
+export function getBrandReferences(brandId: string): Record<number, string> {
+  if (!references[brandId]) {
+    return {};
+  }
+  
+  const brandRefs = references[brandId];
+  const result: Record<number, string> = {};
+  
+  for (const key in brandRefs) {
+    result[parseInt(key)] = brandRefs[key];
+  }
+  
+  return result;
+}
+

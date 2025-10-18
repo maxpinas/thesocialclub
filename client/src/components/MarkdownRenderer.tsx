@@ -3,9 +3,10 @@ import { getSourceReference } from "@/lib/sourceReferences";
 
 interface MarkdownRendererProps {
   content: string;
+  brandId?: string;
 }
 
-export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
+export default function MarkdownRenderer({ content, brandId }: MarkdownRendererProps) {
   if (!content) return null;
 
   // Preprocess: merge standalone source references with previous line
@@ -155,7 +156,8 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
   }
 
   // Replace source references with unique markers
-  processed = processed.replace(/\[(\d+)\]/g, (_, num) => `__SOURCE_${num}__`);
+  // Add non-breaking space before to prevent line breaks
+  processed = processed.replace(/\s*\[(\d+)\]/g, (_, num) => `\u00A0__SOURCE_${num}__`);
 
   // Split by source markers and rebuild with React components
   const parts = processed.split(/(__SOURCE_\d+__)/);
@@ -167,7 +169,7 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
           const sourceMatch = part.match(/__SOURCE_(\d+)__/);
           if (sourceMatch) {
             const sourceNum = parseInt(sourceMatch[1]);
-            const sourceText = getSourceReference(sourceNum);
+            const sourceText = getSourceReference(sourceNum, brandId);
             return (
               <Tooltip key={idx}>
                 <TooltipTrigger asChild>
