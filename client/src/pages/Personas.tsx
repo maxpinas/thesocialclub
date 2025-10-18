@@ -1,0 +1,86 @@
+import { useEffect, useState } from "react";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Loader2, Users } from "lucide-react";
+import { loadMarkdown, parseMarkdownSections } from "@/lib/dataLoader";
+
+export default function Personas() {
+  const [content, setContent] = useState<string>("");
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function loadData() {
+      const personas = await loadMarkdown("pasted_file_Adg108_PersonaMethodologyDocument.md");
+      setContent(personas);
+      setLoading(false);
+    }
+    loadData();
+  }, []);
+
+  const personaData = [
+    { name: "Local Professional", percentage: 30, wtp: "€500-800/year", color: "#7cbd8e", 
+      desc: "Age 28-45, income €50-80K/year. Values convenience, networking, work-life balance. Primary use: Co-working, gym, networking events." },
+    { name: "Digital Nomad", percentage: 25, wtp: "€400-700/year", color: "#76a9f9",
+      desc: "Age 25-40, income €40-70K/year. Values flexibility, community, WiFi quality. Primary use: Co-working, accommodation discounts, multi-city access." },
+    { name: "Business Traveler", percentage: 20, wtp: "€600-1,000/year", color: "#a4a4a5",
+      desc: "Age 30-50, income €60-100K/year. Values efficiency, reliability, meeting spaces. Primary use: Hotel discounts, meeting rooms, business lounge." },
+    { name: "Wellness Enthusiast", percentage: 15, wtp: "€800-1,200/year", color: "#FFE0B2",
+      desc: "Age 30-55, income €50-90K/year. Values health, self-care, quality facilities. Primary use: Gym, pool, spa, wellness programs." },
+    { name: "Hybrid Worker", percentage: 10, wtp: "€500-700/year", color: "#C8E6C9",
+      desc: "Age 25-40, income €40-70K/year. Values flexibility, social connection, work-life integration. Primary use: Co-working, social events, occasional accommodation." },
+  ];
+
+  if (loading) {
+    return (
+      <div className="container py-12 flex items-center justify-center min-h-[60vh]">
+        <Loader2 className="h-8 w-8 animate-spin" style={{ color: "#76a9f9" }} />
+      </div>
+    );
+  }
+
+  return (
+    <div className="min-h-screen">
+      <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
+        <div className="container">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Target Personas</h1>
+          <p className="text-xl text-muted-foreground max-w-3xl">
+            5 validated personas developed from sentiment data across 8 brands
+          </p>
+        </div>
+      </section>
+      <section className="py-12">
+        <div className="container">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            {personaData.map((persona, idx) => (
+              <Card key={idx} className="border-l-4" style={{ borderLeftColor: persona.color }}>
+                <CardHeader>
+                  <div className="flex items-center justify-between mb-2">
+                    <Users className="h-6 w-6" style={{ color: persona.color }} />
+                    <span className="text-2xl font-bold" style={{ color: persona.color }}>{persona.percentage}%</span>
+                  </div>
+                  <CardTitle>{persona.name}</CardTitle>
+                  <CardDescription className="font-bold text-foreground">WTP: {persona.wtp}</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-sm text-muted-foreground">{persona.desc}</p>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+          <div className="prose prose-slate max-w-none">
+            <Card>
+              <CardHeader>
+                <CardTitle>Methodology & Evidence</CardTitle>
+                <CardDescription>How these personas were developed from research data</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="whitespace-pre-wrap text-sm text-muted-foreground leading-relaxed">
+                  {content.substring(0, 2000)}...
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+}

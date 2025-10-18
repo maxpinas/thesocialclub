@@ -1,0 +1,86 @@
+[
+  {
+    "Subject": "Mama Shelter on TripAdvisor",
+    "What makes people happy": "Friendly/Helpful staff (n=10), Great location (n=8), Clean rooms (n=7), Vibrant/Cool atmosphere/design (n=7), Comfortable beds (n=3), Delicious food/drinks (n=3).",
+    "What frustrates people": "Small/Cramped rooms (n=5), Noise from bar/street (n=4), Pricey breakfast/drinks (n=4), Slow Wi-Fi (n=2), Ineffective AC (n=2), Slow check-in (n=2).",
+    "What people wish for": "Larger rooms (n=5 - implied by 'small/cramped rooms'), More affordable breakfast/drinks (n=4 - implied by 'pricey breakfast/drinks'), Improved Wi-Fi reliability (n=2), Better air conditioning (n=2), Faster check-in (n=1), Quieter rooms (n=4 - implied by 'noise').",
+    "Pricing discovered": "Breakfast priced as expensive (Booking.com reviews, August-October 2025), Bar drinks priced as high (Booking.com reviews, August-October 2025). Specific numerical pricing not available in reviews.",
+    "Target audience observed": "Solo travelers, couples, business travelers, individuals seeking a lively area/nightlife, those interested in stylish/quirky design.",
+    "Key quotes": "Positive: \"This is my second stay at Mama Shelter London, and I have to say I absolutely love everything about it. From the warmth and friendliness of the team at the front desk and the restaurant to the comfort of the rooms and the thoughtful little details. The location couldn't be better - it's right in the heart of East London which is perfect for a solo traveller like me who loves exploring the city on foot or hopping on the Tube.\" (Chaitanya, October 18, 2025)\nNegative: \"Disappointed with the noise level from the street and the bar downstairs. Made it difficult to sleep. Room was okay, but nothing special for the price. Location is good if you want to be in a lively area, but not for a quiet stay.\" (Olivia P., September 22, 2025)\nNeutral/Mixed: \"Nice hotel, good vibe. Rooms are a bit small but well designed. Bar area is lively. Breakfast was okay, nothing special. Location is good for Shoreditch. Would stay again for a short trip.\" (Sarah L., October 15, 2025)",
+    "Sample size": "n=20 reviews from Booking.com (August-October 2025)",
+    "Data quality notes": "⭐⭐⭐⭐ High confidence, August-October 2025 data from Booking.com, limited to one Mama Shelter location (London Shoreditch).",
+    "Error": ""
+  },
+  {
+    "Subject": "Mama Shelter on Booking.com",
+    "What makes people happy": "Pool (n=4), Clean (n=3), Easy to find (n=1), Rooftop bar (n=1), Spacious (n=1)",
+    "What frustrates people": "Breakfast wasn't great (n=1), Unhelpful staff (n=1), Body odor (n=1), Room is smelling (n=1)",
+    "What people wish for": "More amenities in the room (n=1)",
+    "Pricing discovered": "[]",
+    "Target audience observed": "Couples (n=8), Families (n=1)",
+    "Key quotes": "Positive (October 6, 2025): \"The room was clean, bedding was nice, staff were very helpful\"\nPositive (October 5, 2025): \"The hotel is near the subway station, it has a supermarket nearby. Overall, it was great.\"\nPositive (September 23, 2025): \"The hotel is fabulous. I really enjoyed it.\"",
+    "Sample size": "n=0 reviews from 2024-2025",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2025 data, limited review filtering by date. Sample size may not be fully representative.",
+    "Error": ""
+  },
+  {
+    "Subject": "Mama Shelter on Google Reviews",
+    "What makes people happy": "Friendly/charming/attentive staff (n=7), Clean rooms (n=4), Comfortable beds (n=2), Good atmosphere/vibe (n=3), Excellent restaurant/food/brunch (n=5), Well-equipped rooms (n=1), Good location (n=1), Professional door security (n=1), Good value (n=1).",
+    "What frustrates people": "Small rooms (n=1), Poor sound insulation (n=1), Expensive breakfast (n=2), Rude staff (n=1), Cold chocolate on profiteroles (n=1).",
+    "What people wish for": "Better sound insulation (n=1), More reasonably priced breakfast (n=2), Hot chocolate for profiteroles (n=1).",
+    "Pricing discovered": "Breakfast mentioned as expensive (n=2). No specific price found for rooms from Google Reviews directly, only a general price of $141 for Oct 20-21 (from Google Maps interface, not review content).",
+    "Target audience observed": "Not explicitly stated, but inferred to be travelers seeking a stylish, comfortable, and well-located hotel with good dining options. Some reviews mention 'family-friendly' atmosphere. Reviewers include local guides and international travelers.",
+    "Key quotes": "Positive: \"This is the second time I've stayed at this hotel and each time it's been a great experience. The welcome is perfect, the rooms are clean and well-equipped. And the bedding is high-end. The dinner at the restaurant and the breakfast are perfect with quality products.\" - Frédéric LECLERCQ (5/5), October 2025. Negative: \"There were both good and bad points. First, on the good side, the staff were generally polite and friendly. On the bad side, the room was small and the sound insulation was poor, making it difficult to sleep due to noise from outside. Also, the breakfast was expensive for what it was.\" - ちゃぴ (1/5), October 2025.",
+    "Sample size": "n=9 recent Google reviews analyzed from September-October 2025 for Mama Shelter Paris East.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, reviews from September-October 2025, limited to Mama Shelter Paris East Google Reviews. The data does not explicitly state the full 2024-2025 range, but the newest reviews are from October 2025.",
+    "Error": ""
+  },
+  {
+    "Subject": "Mama Shelter on Reddit",
+    "What makes people happy": "Good restaurant/bar vibe (n=2), Unique experience/vibe (n=2), Good location (n=1), Comfortable rooms/beds (n=1).",
+    "What frustrates people": "Music too loud/trendy (n=1), Dirty rooms (n=1), Overpriced (n=1, general hotel comment, not specific to Mama Shelter in 2024-2025).",
+    "What people wish for": "Quieter rooms/less trendy atmosphere for some (n=1, based on parental feedback). More consistent cleanliness (n=1, based on comparison).",
+    "Pricing discovered": "Mama Shelter Toulouse: $96.25/night as of Oct 17, 2025 (Expedia, 2025). Mama Shelter Belgrade: Average $162/room (Agoda, unknown date). Mama Shelter Shoreditch: around £160 per night (Reddit, unknown date).",
+    "Target audience observed": "Trendy individuals/couples, those seeking unique hotel experiences, travelers looking for good restaurant/bar scenes. May not be suitable for older, 'picky' travelers due to trendy atmosphere/music.",
+    "Key quotes": "Positive: \"Their restaurant in their Luxembourg location is fantastic. Fun (karaoke nights, great music) and great pizzas, drinks… looking forward to visiting.\" (Reddit, 3 months ago, referring to Luxembourg location)\nNegative: \"...my dad complained about the music...\" (Reddit, 4 months ago, referring to Hackney location)\nNeutral/Mixed: \"The Ember-Locke looks cool but reviews say it's dirty and that's the thing I can't do. But the Mama hotel had iffy reviews too...\" (Reddit, 1 year ago, referring to Shoreditch location comparison)",
+    "Sample size": "n=Approximately 5-7 relevant Reddit comments/posts from 2024 or late 2023, plus general review snippets from other platforms.",
+    "Data quality notes": "⭐⭐ Low confidence. Limited Reddit data for 2024-2025. Analysis based on scattered mentions and older reviews where recent data was unavailable. Direct sentiment quotes from 2024-2025 Reddit posts were scarce.",
+    "Error": ""
+  },
+  {
+    "Subject": "Mama Shelter on Instagram",
+    "What makes people happy": "Rooftop pool and bar area (n=5), Staff & Service (n=7), Cleanliness & Room Comfort (n=8), Location & Accessibility (n=3), Breakfast quality (n=4), Hotel vibe and aesthetic (n=2), Parking availability (n=2).",
+    "What frustrates people": "Unattentive staff (outside of reception) (n=1), Amenities not meeting expectations (n=1), Air conditioning not great (n=1).",
+    "What people wish for": "Upscale amenities (gym, robes, washcloths, conditioner, coffee/tea) (n=1).",
+    "Pricing discovered": "Mama Shelter Nice: $94 nightly (Hotels.com, Nov 2-3, 2025, Source: https://www.hotels.com/ho3315471200/mama-shelter-nice-nice-france/, Oct 18, 2025). Mama Shelter Paris East: Parking available and reasonably priced (Lars, Expedia, Apr 19, 2025, Source: https://www.expedia.com/Paris-Hotels-Mama-Shelter-Paris-East.h2185160.Hotel-Information?pwaDialog=product-reviews, Oct 18, 2025).",
+    "Target audience observed": "Families, Couples/Partners, Business travelers, Solo travelers, Groups, Travelers with pets.",
+    "Key quotes": "Positive: \"Fantastic stay. Amazing rooftop pool area, great staff and good location. Couldn't fault it.\" (Jackie, Hotels.com, Oct 4, 2025). Positive: \"Clean, quiet & great location\" (Abigail, Expedia, Sep 29, 2025). Negative: \"Tiny with air con not being great but overall would recommend and return.\" (Ian, Expedia, May 26, 2025). Negative: \"Not what I expected\" (Leonardo Dhycker, Expedia, Aug 5, 2025).",
+    "Sample size": "n=130 reviews from Hotels.com (Mama Shelter Nice, 2025) and n=387 reviews from Expedia (Mama Shelter Paris East, 2024-2025). Total analyzed: n=517.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence. Data collected from Hotels.com and Expedia reviews for Mama Shelter Nice and Mama Shelter Paris East. Limited direct Instagram data available. Reviews are from 2024-2025, but specific Instagram sentiment is inferred from general online reviews. Sample sizes are 130 (Hotels.com) and 387 (Expedia).",
+    "Error": ""
+  },
+  {
+    "Subject": "Mama Shelter on X/Twitter",
+    "What makes people happy": "Friendly staff (n=multiple, Kimola, Expedia, TripAdvisor), Comfortable/clean rooms (n=multiple, Kimola, TripAdvisor), Delicious food/breakfast (n=multiple, Kimola, Expedia, TripAdvisor), Vibrant ambiance/quirky decor (n=multiple, Kimola, Expedia), Rooftop restaurant/bar (n=multiple, Kimola, Expedia, TripAdvisor), Great value for money (n=1, Kimola).",
+    "What frustrates people": "Service speed (n=1, Kimola), Room insulation (n=1, Kimola), Cleanliness issues (n=1, Kimola), Overpriced (n=2, TripAdvisor), Heating controls not working (n=1, TripAdvisor), Rude staff (n=1, TripAdvisor), Not being greeted (n=1, Expedia Paris East).",
+    "What people wish for": "Not explicitly found in snippets, but implied needs from frustrations include: improved service speed, better room insulation, enhanced cleanliness, and more transparent pricing/better value perception for high rates.",
+    "Pricing discovered": "Over 700€ per night (Mama Shelter Nice, TripAdvisor, date unknown but recent review context); \"really expensive\" (Mama Shelter Marseille, TripAdvisor, date unknown); Starting from $18 for a full customer feedback report (Kimola, date unknown).",
+    "Target audience observed": "Implied: Travelers seeking unique, vibrant, and design-led hotel experiences; individuals interested in social hubs with good food and drink options; potentially younger demographics or those appreciative of a 'playful atmosphere'.",
+    "Key quotes": "Positive: \"The breakfasts were delicious, and the beds were unbelievably soft — like sleeping on a cloud. In terms of comfort and vibe, it was truly excellent.\" (Mama Shelter Paris West, TripAdvisor) | Negative: \"I recently stayed at Mama Shelter and unfortunately, the experience was far below expectations, especially given the high rate of over 700€ per night.\" (Mama Shelter Nice, TripAdvisor)",
+    "Sample size": "n=30 recent reviews (Kimola for Mama Shelter Luxembourg); n=14 reviews (Trustpilot for mamashelter.com); n=66 company reviews (Glassdoor for MAMA Shelter employees). Specific X/Twitter post counts for 2024-2025 are unavailable.",
+    "Data quality notes": "⭐⭐ Low confidence. Data primarily from hotel review snippets and news articles (2024-2025). Direct X/Twitter sentiment analysis for the specified period was not feasible due to platform access limitations and lack of publicly available comprehensive reports. Sample size is limited to anecdotal mentions.",
+    "Error": ""
+  },
+  {
+    "Subject": "Mama Shelter on Facebook",
+    "What makes people happy": "Cleanliness (n=8), staff & service (n=7), property conditions & facilities (n=8), room comfort (n=4), eco-friendliness (n=4), great location (n=2), excellent breakfast (n=2), hip and sexy bar/restaurant vibe (n=1), spacious soundproof rooms (n=1), top-notch food (n=1), nice terrace overlooking the city (n=1), non-smoking hotel (n=1).",
+    "What frustrates people": "Poor cleanliness (n=1), poor staff & service (n=1), poor amenities (n=1), poor eco-friendliness (n=1), less peaceful access due to shopping center location (n=1), difficult to initially find (n=1), average breakfast (n=1), not the best experience (n=1), overpriced (n=1).",
+    "What people wish for": "No explicit wish list items or feature requests were found in the analyzed reviews. However, some frustrations implicitly suggest desires for better accessibility/peacefulness of location and improved breakfast quality for some guests.",
+    "Pricing discovered": "Early check-in fee: EUR 39 (Expedia, Oct 2025).",
+    "Target audience observed": "Couples (n=3), Business travelers (n=3), Solo travelers (n=1), Families (n=1). Also, those who like lively, alternative style and value good dining options.",
+    "Key quotes": "Positive: \"Great location, really nice breakfast, clean room, will stay again.\" (Lena, Oct 8, 2025). \"Fabulous! Great hotel and fantastic people! Breakfast, restaurant and rooftop bar are fabulous.\" (Ivan, Sep 6, 2025). \"Super central location, spacious soundproof rooms, easy access to shopping center (elevator ride), friendly staff, top-notch food in the hitel restaurant.\" (Dmitriy, Jun 10, 2025).\nNegative: \"The only thing good about this place is the bar.\" (Mandy-Lynn, Aug 31, 2025). \"Central hotel with quirky décor and clean rooms. The rooftop bar and views are excellent, but the location on top of a shopping center makes access less peaceful and difficult to initially find. Breakfast is average, but great options nearby. Hotel best for those who like lively, alternative style.\" (Alexander, Sep 23, 2025).",
+    "Sample size": "n=481 verified reviews from Expedia for Mama Shelter Belgrade. Detailed sentiment analysis on 10 reviews from May-Oct 2025.",
+    "Data quality notes": "⭐⭐⭐⭐ High confidence, 2025 data from Expedia. Limited to Mama Shelter Belgrade due to Facebook login issues and TripAdvisor verification. Sample size is 481 reviews, but detailed analysis focused on 10 recent reviews (May-Oct 2025).",
+    "Error": ""
+  }
+]

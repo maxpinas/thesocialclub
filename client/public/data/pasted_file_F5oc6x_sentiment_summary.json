@@ -1,0 +1,17 @@
+{
+  "total_records": 56,
+  "successful": 55,
+  "failed": 1,
+  "brands": {
+    "The Social Hub": 7,
+    "The Hoxton": 7,
+    "CitizenM": 7,
+    "Mama Shelter": 7,
+    "Soho House": 6,
+    "Zoku": 7,
+    "Working From_": 6,
+    "Conservatorium Hotel": 6,
+    "Dis-loyalty membership program": 1,
+    "Dis-loyalty membership program reviews and sentiment": 1
+  }
+}

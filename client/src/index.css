@@ -43,18 +43,25 @@
 }
 
 :root {
-  --primary: var(--color-blue-700);
-  --primary-foreground: var(--color-blue-50);
-  --sidebar-primary: var(--color-blue-600);
-  --sidebar-primary-foreground: var(--color-blue-50);
-  --chart-1: var(--color-blue-300);
-  --chart-2: var(--color-blue-500);
-  --chart-3: var(--color-blue-600);
-  --chart-4: var(--color-blue-700);
-  --chart-5: var(--color-blue-800);
+  /* TSH Brand Colors */
+  --tsh-blue: #76a9f9;
+  --tsh-green: #7cbd8e;
+  --tsh-grey: #a4a4a5;
+  --tsh-black: #000000;
+  --tsh-white: #ffffff;
+  
+  --primary: oklch(0.145 0 0); /* Black */
+  --primary-foreground: oklch(1 0 0); /* White */
+  --sidebar-primary: oklch(0.145 0 0);
+  --sidebar-primary-foreground: oklch(1 0 0);
+  --chart-1: #7cbd8e; /* TSH Green */
+  --chart-2: #76a9f9; /* TSH Blue */
+  --chart-3: #a4a4a5; /* TSH Grey */
+  --chart-4: oklch(0.5 0.1 200);
+  --chart-5: oklch(0.6 0.1 280);
   --radius: 0.65rem;
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.235 0.015 65);
+  --background: oklch(1 0 0); /* White */
+  --foreground: oklch(0.145 0 0); /* Black */
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.235 0.015 65);
   --popover: oklch(1 0 0);

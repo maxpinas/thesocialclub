@@ -1,0 +1,86 @@
+[
+  {
+    "Subject": "Zoku on TripAdvisor",
+    "What makes people happy": "Loft apartments and co-working space (n=1), Invigorating 21st-century style and ingenious design (n=1), Vibrant atmosphere and inclusive community (n=1), Friendly, relaxed, efficient staff (n=1), Wide scope of services (24-hour shop, freshening-up room, games, music corner, workshops, communal dinners) (n=1), Ingeniously designed rooms with kitchenettes (n=1), Well-outfitted kitchenettes (n=1), Buzzy all-day café-style bar with good food (n=1), Adventurous and varied food options (n=1), Good breakfast buffet with vegan options (n=1).",
+    "What frustrates people": "No explicit frustrations mentioned in this expert review.",
+    "What people wish for": "No explicit wish list items mentioned, but a larger bathroom and family-friendly options for those with older children could be inferred needs.",
+    "Pricing discovered": "Apartments from €130 (£120) in low season; and from €189 (£163) in high. Breakfast excluded (€20 [£17]). Discounts available for longer stays. XL Lofts are more spacious and worth extra money. Source: Telegraph.co.uk (June 2024), Rates provided by Booking.com.",
+    "Target audience observed": "Hip global nomads, digital nomads, business travelers, singles or couples (not really family-friendly), people on short and longer stays, those looking for co-working spaces and community.",
+    "Key quotes": "Positive: \"Zoku's loft apartments and co-working space are ideal for hip global nomads looking for both short and long stays. The style is invigoratingly 21st-century, the mood outgoing and the interior design ingenious. There's good food in a lively café-bar and a giddying range of services to make you feel at home.\" - Rodney Bolt, Telegraph Expert, June 2024.\nNegative: \"The cupboard-bed (comfortable, but not for the claustrophobic) means that the focus of the room is on a large and welcoming dining table and sofa.\" - Rodney Bolt, Telegraph Expert, June 2024 (implies a potential negative for some).",
+    "Sample size": "n=1 expert review from The Telegraph",
+    "Data quality notes": "⭐⭐⭐⭐ High confidence, 2024 data (June 2024 review), single source (The Telegraph). Limited sample size (n=1 expert review).",
+    "Error": ""
+  },
+  {
+    "Subject": "Zoku on Booking.com",
+    "What makes people happy": "Positive sentiment (n=261), Well-designed/comfortable rooms (n=257), Friendly staff (n=249), Great location (n=209), Excellent facilities (coworking, rooftop bar) (n=108)",
+    "What frustrates people": "Negative sentiment (n=1), Safety concerns (slippery shower) (n=1)",
+    "What people wish for": "Anti-skid strips in shower (n=1)",
+    "Pricing discovered": "All was good for the price.\nRoom was nice and compact but had all the needed facilities. Bed was neat and very comfortable and the couch was also. Bathroom was great and we were able to come and go as we pleased but with the reception there if needed. (Reviewed: October 5, 2025); it was relatively expensive for its size, but not out of line with others.\nexcellent location with lots of narrow walking streets in the neighbourhood. Easy access to the metro and trams, and supermarkets were within walking distance. Like everything else in Amsterdam, it was expensive, but this small room with sufficient facilities was a good compromise for us. The room was small, the bed location (loft) ingenious and comfortable. (Reviewed: September 15, 2025)",
+    "Target audience observed": "Business travelers/Digital nomads (n=24), City break tourists (n=19)",
+    "Key quotes": "\"“Stuff for great food was great. The hotel was great.”\" - Absolutely nothing\nEverything about this hotel was amazing (Reviewed: October 12, 2025)\n\"“Very nice place to stay”\" - Nothing\nEverything is great : the room, the staff, the breakfast, the location (Reviewed: October 9, 2025)\n\"“Generally very good”\" - Need to add anti skid strips to stairs Also a in shower bath mate …shower very slippery (Reviewed: October 14, 2025)",
+    "Sample size": "n=264 reviews from 2024-2025 (Source: Booking.com)",
+    "Data quality notes": "⭐⭐⭐ Moderate confidence, 2024-2025 data from Booking.com, automated sentiment analysis and keyword extraction. Limited to available review text.",
+    "Error": ""
+  },
+  {
+    "Subject": "Zoku on Google Reviews",
+    "What makes people happy": "Cleanliness (n=4), Great views/Rooftop terrace (n=4), Friendly/Helpful staff (n=2), Great location (n=2), Comfortable beds/sleep (n=2)",
+    "What frustrates people": "False fire alarm/Staff interaction (n=1)",
+    "What people wish for": "",
+    "Pricing discovered": "$154 for Dec 21–22 (Google Maps)",
+    "Target audience observed": "Business travelers, long-term guests, individuals on long weekends",
+    "Key quotes": "Positive: New\nDon't get me wrong, very nice hotel and the rooms are homely, clean and well equipped. Staff are friendly and the terrace has a great view. Break... (Source: Google Maps, a week ago on Google)\nPositive: New\nI stayed for a long weekend and felt completely at home here. The hotel is located in a quiet area within walking distance of the train and the l... (Source: Google Maps, a week ago on Google)",
+    "Sample size": "n=2,878 reviews from 2024-2025",
+    "Data quality notes": "⭐⭐⭐ High confidence, 2024-2025 data, Google Maps reviews",
+    "Error": ""
+  },
+  {
+    "Subject": "Zoku on Reddit",
+    "What makes people happy": "**Trip.com (Zoku Amsterdam, 2024-2025):** Nice location (n=1), wonderful and helpful staff (n=1), perfect room (n=1), clean room with induction cooker hood and dishwasher (n=1), sunny terrace on the top floor (n=1), beautiful environment (n=1), very attentive service (n=1), convenient traffic (n=1), very nice shop (n=1), very friendly service (n=1). **lesboutiquehotels.com (Zoku Amsterdam, implied 2025):** Long-term offerings and co-living space (n=1), co-working spaces and living areas (n=1), gorgeous city view and hammock-lined roof terrace (n=1), spacious lofts with amenities (flat-screen TVs, sofas, well-equipped kitchenette, private bathrooms) (n=1), free high-speed WiFi (n=1), 24-hour \\'everything store\\'(n=1), regular events (yoga, talks, cheese tasting) (n=1), delicious creative menus at on-site restaurant (n=1), professional and friendly staff (n=1). **livezoku.com (General, 2025 reviews):** Feeling part of the community (n=1), feeling like staying at a friend\\''s home (n=1), great staff (n=1), tasty breakfast (n=1), room feeling like home (n=1), wonderful place for business trip (n=1), mix between apartment, hotel and coworking space (n=1), sense of belonging and community (n=1), atmosphere that fosters creativity and productivity (n=1).",
+    "What frustrates people": "**Trip.com (Zoku Amsterdam, 2024-2025):** Bed size smaller than booked and against the wall (n=1), facilities worse than a budget hotel (n=1), not worth the nearly 2,000 yuan price (n=1), shabby surroundings (n=1), room arranged in a terrible corner on the first floor along the road (n=1), no toothbrush and conditioner (n=1). **lesboutiquehotels.com (Zoku Amsterdam, implied 2025):** None explicitly mentioned, but notes the absence of usual room service which could be a frustration for some. **livezoku.com (General, 2025 reviews):** No explicit frustrations mentioned.",
+    "What people wish for": "**Trip.com (Zoku Amsterdam, 2024-2025):** Toothbrush and conditioner (implied from missing items) (n=1). **lesboutiquehotels.com (Zoku Amsterdam, implied 2025):** None explicitly mentioned. **livezoku.com (General, 2025 reviews):** No explicit wishes mentioned.",
+    "Pricing discovered": "**Trip.com (Zoku Amsterdam, 2024-2025):** Nearly 2,000 yuan price (for a room with issues) - Posted Oct 13, 2024. **lesboutiquehotels.com (Zoku Amsterdam, implied 2025):** Prices start from 150 US$ (Source: lesboutiquehotels.com, 2025). No specific pricing found on livezoku.com, only a booking widget.",
+    "Target audience observed": "**Trip.com (Zoku Amsterdam, 2024-2025):** Business traveler (n=1), Couple (n=2), Family (n=2). **lesboutiquehotels.com (Zoku Amsterdam, implied 2025):** Global business travelers, digital nomads, traveling professionals, nomadic workers. **livezoku.com (General):** New generation of business travelers, long-stay guests, global professionals, creative minds, remote workers.",
+    "Key quotes": "**Positive:** \\\"We had such a lovely time at Zoku Hotel. The staff were wonderful and helpful and our room was perfect. We would totally come back here again.\\\" (Bronbi, Trip.com, Jan 2024). \\\"I have been living and working here for a little over a month now, and I have been wowed by the sense of belonging and community this place conveys. So much so, that I have extended my stay by another month.\\\" (Chris, livezoku.com, Amsterdam Relocation, 2025). **Negative:** \\\"The 1.8-meter bed I booked was actually less than 1.5 meters long and one side was against the wall. The facilities were worse than those of a budget hotel and it was really not worth the nearly 2,000 yuan price. The surroundings were also shabby. The room was arranged in the corner of the first floor along the road, which was really terrible.\\\" (205776****, Trip.com, Oct 2024).",
+    "Sample size": "Analyzed 7 reviews from Trip.com (Zoku Amsterdam, 2024-2025), 1 comprehensive review from lesboutiquehotels.com (Zoku Amsterdam, implied 2025), and 4 testimonial quotes from livezoku.com (General, 2025). Total of 12 unique data points for sentiment analysis. Reddit data could not be accessed due to network security blocks.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2024-2025 data, limited to Trip.com, lesboutiquehotels.com, and livezoku.com. No Reddit data due to network security blocks. Sentiment analysis is based on a relatively small sample size and may not fully represent all Zoku locations or the broader online sentiment.",
+    "Error": ""
+  },
+  {
+    "Subject": "Zoku on Instagram",
+    "What makes people happy": "Amazing hotel/everything great (n=5), Well-designed/practical/cozy rooms (n=4), Good location (n=4), Friendly/welcoming staff (n=3), Comfortable bed (n=2), Great facilities/amenities (n=3), Rooftop/social areas (n=2), Laundrette (n=1), Bike rental (n=1), B Corp status (n=1), Delicious food/drinks (n=1), Spacious room (n=1), Well-stocked kitchen (n=1)",
+    "What frustrates people": "AC difficult to understand (n=1), Room worn out (n=1), Dirty bedding/general cleanliness (n=2), Noise from restaurant (n=1), Slippery shower/no anti-skid (n=1), Hard mattress/uncomfortable sofa (n=2), Bed location/noisy steps (n=1), Relatively expensive for size (n=2), Bathroom cleanliness (n=1)",
+    "What people wish for": "Anti-skid strips for stairs/shower mat (n=1), Easier to understand AC controls (n=1), Softer mattress/more comfortable sofa (n=2), Less noise from restaurant (n=1)",
+    "Pricing discovered": "Relatively expensive for its size (n=2), All was good for the price (n=1). No specific numerical pricing found. Source: Booking.com reviews, 2025.",
+    "Target audience observed": "Leisure travelers (couples, solo travelers, families with young children), Business travelers, Digital nomads (implied by 'home-office hybrid' concept in search snippets), Guests seeking well-designed, functional spaces for short or long stays.",
+    "Key quotes": "Positive: \"One of the best places i’ve stayed in Amsterdam! Location wise, hotel facilities, welcoming staff. you can even rent a bike from them and loved that they have a locker room and a shower/changing room for when you check out.\" - Wadima, United Arab Emirates, September 15, 2025. Negative: \"The bed is not the easiest to get in and out of gracefully and the mattress is HARD! Also the sofa is pretty uncomfortable and really low to get up from.\" - Vjparfitt, United Kingdom, August 24, 2025.",
+    "Sample size": "n=20 reviews from Booking.com for Zoku Amsterdam, reviewed between August and October 2025.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2025 data from Booking.com reviews for Zoku Amsterdam. Limited to one platform and one location. Direct Instagram sentiment analysis was not possible.",
+    "Error": ""
+  },
+  {
+    "Subject": "Zoku on X/Twitter",
+    "What makes people happy": "Helpful and friendly staff (n=5), Cleanliness (n=4), Spacious and unique lofts/rooms (n=3), Awesome rooftop/coworking spaces (n=2), Home-office hybrid setup (n=1)",
+    "What frustrates people": "Limited breakfast choices (n=1), Room temperature not adjustable/too warm (n=1), Loft bed up stairs can be a hazard for older guests (n=1)",
+    "What people wish for": "More flexible breakfast options (n=1), Adjustable room temperature (n=1), Alternative bed arrangements for guests with mobility concerns (n=1)",
+    "Pricing discovered": "Not explicitly found in the analyzed reviews. Expedia showed nightly rates for other hotels but not Zoku directly.",
+    "Target audience observed": "Remote workers, solo travelers, business travelers, digital nomads, guests looking for a home-office hybrid experience.",
+    "Key quotes": "\"We just wish the room temperature was something that we could adjust! The room was too warm for us and we couldn't adjust the temperature. This impacted our sleep.\" (Expedia, Jul 2025)\n\"I stayed here solo and really liked having a space that felt like home in which to relax. Plus, because Zoku is more social, it was easier to make friends while traveling there.\" (Meghan The Traveling Teacher, Feb 2025)\n\"Always a good stay at Zoku, it's quirky and modern and very well equipped. Stayed in a grand loft which was nice and roomy. Obviously the big issue is bed here, which is up a set of stairs on a platform, when I first started staying here many years ago, this was great, now I'm a bit older it's a bit more of a hazard but otherwise great.\" (Expedia, May 2025)",
+    "Sample size": "n=1 blog review (Meghan The Traveling Teacher, Feb 2025) and n=10 Expedia reviews (Oct 2024 - Oct 2025), totaling 11 analyzed reviews/comments.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2024-2025 data, limited to publicly available reviews on Expedia and a travel blog. No direct X/Twitter data was found. Sentiment analysis is based on qualitative review content. Sample size is small for comprehensive analysis.",
+    "Error": ""
+  },
+  {
+    "Subject": "Zoku on Facebook",
+    "What makes people happy": "Cleanliness (n=8), Staff & service (n=8), Property conditions & facilities (n=8), Eco-friendliness (n=4), Room comfort (n=2), Great location/close to Metro (n=2), Awesome rooftop/restaurant/bar (n=3), Quirky and modern design (n=1), Well-equipped rooms (n=1), Quiet rooms (n=1), Good vibe (n=1)",
+    "What frustrates people": "Room temperature control (n=1), Loft bed setup (n=1), Limited breakfast choices (n=1)",
+    "What people wish for": "Better control over room temperature (n=1), More varied breakfast choices beyond coffee/croissant or full buffet (n=1), Easier access to loft beds for older guests (n=1)",
+    "Pricing discovered": "Not explicitly mentioned in reviews. Expedia page shows example pricing for other hotels (e.g., Leonardo Boutique Museumhotel $130 nightly, Ambassade Hotel $258 nightly, De L'Europe Amsterdam $535 nightly) but not for Zoku itself. Zoku Amsterdam offers continental breakfast for EUR 25 per person (Expedia.com, 2025).",
+    "Target audience observed": "Business travelers (n=1), Couples (n=3), Groups (n=2), Families (n=1), Nomadic workers (implied by amenities like co-working spaces and kitchenettes)",
+    "Key quotes": "Positive: \"we found the property to well positioned and very clean. staff were very nice and helpful and the place just had a great vibe to it.\" (David, Sep 2025)\nNegative: \"We just wish the room temperature was something that we could adjust! The room was too warm for us and we couldn't adjust the temperature. This impacted our sleep.\" (Sepideh, Jul 2025)\nMixed: \"Always a good stay at Zoku, it's quirky and modern and very well equipped. Stayed in a grand loft which was nice and roomy. Obviously the big issue is bed here, which is up a set of stairs on a platform, when I first started staying here many years ago, this was great, now I'm a bit older it's a bit more of a hazard but otherwise great. The bar/restaurant/workspace is always good and the staff are really helpful and friendly.\" (Victoria, May 2025)",
+    "Sample size": "n=10 reviews from Expedia.com (Oct 2024 - Oct 2025)",
+    "Data quality notes": "⭐⭐⭐ Medium confidence. Data extracted from Expedia.com reviews for Zoku Amsterdam, covering October 2024 to October 2025. Limited to reviews available on Expedia, not Facebook as initially requested due to access restrictions. Sample size is 10 reviews. No specific membership model details were found in these reviews.",
+    "Error": ""
+  }
+]

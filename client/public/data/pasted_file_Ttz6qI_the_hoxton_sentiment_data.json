@@ -1,0 +1,86 @@
+[
+  {
+    "Subject": "The Hoxton on TripAdvisor",
+    "What makes people happy": "Friendly and helpful staff/service (n=6), Cleanliness (n=10), Great atmosphere/vibe (n=4), Stylish design/decor/rooms (n=2), Good breakfast/food/drinks (n=2), Comfortable rooms/beds (n=4), Good location (n=1)",
+    "What frustrates people": "No significant frustration themes were explicitly mentioned in the analyzed reviews. All reviews were positive or neutral.",
+    "What people wish for": "No specific wish list items or unmet needs were explicitly mentioned in the analyzed reviews.",
+    "Pricing discovered": "No specific pricing information was found in the reviews. The Expedia page showed general room rates but not specific to 2024-2025.",
+    "Target audience observed": "Couples, groups, families, and solo travelers. Guests appreciate stylish design, lively atmosphere, and good service.",
+    "Key quotes": "\"Hotel was super cute and staff very friendly and helpful\" - Francesca (Sep 29, 2025)\n\"Incredibly stylish hotel in a completely updated former factory building. Very popular bar and restaurant in lobby. Rooms were elegant and thoughtfully appointed. Would definitely stay there again.\" - Dennis (Sep 29, 2025)\n\"The staff were amazing and drinks great, Its the place to be on a friday and saturday night.\" - Matt (Aug 18, 2025)",
+    "Sample size": "n=10 reviews analyzed from Expedia (Sep 2025 - Jun 2025)",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2025 data, limited to Expedia reviews for The Hoxton Paris. No specific pricing or membership model details found in reviews.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Hoxton on Booking.com",
+    "What makes people happy": "Location, staff. (n=17), Excellent location, great staff, clean rooms. (n=16), Location, comfortable bed, good shower. (n=16), Location, modern decor. (n=16), Great location, friendly staff, clean. (n=16)",
+    "What frustrates people": "Room was small, no iron. (n=16), Room was small, not enough space. (n=16), Room was tiny, no view. (n=16), Room was small, noisy from bar. (n=16), Room was small, limited power outlets. (n=16)",
+    "What people wish for": "Pillows in bed (n=1)",
+    "Pricing discovered": "'Matthew, United Kingdom, 2 Reviews, 7.0 “Great location but not worth the money” (Leisure trip, Couple, Cozy Up, Stayed 1 night, Submitted from a mobile device)' (Review by Matthew from United Kingdom, September 22, 2025)",
+    "Target audience observed": "Leisure trip (n=234), Couple (n=155), Solo traveler (n=79), Business trip (n=2), Travelers with friends (n=1)",
+    "Key quotes": "Positive: 'location, quick room service' (Review by Megan from Australia, October 6, 2025); 'Great vibe in the lobby with lots of people in to hang out or visit the restaurant. The hotel's location was very convenient to the places we wanted to visit - easily walkable.' (Review by Annie from United States, October 1, 2025) | Negative: 'my online room service didn't work, I had to call on the phone.' (Review by Megan from Australia, October 6, 2025); 'The rooms are extremely small We booked the \"Cozy\" size and there was barely room to open our suitcases.' (Review by Annie from United States, October 1, 2025)",
+    "Sample size": "n=237 reviews from 2024-2025",
+    "Data quality notes": "⭐⭐⭐ Moderate confidence, 2024-2025 data from Booking.com reviews. Analysis limited to available review text, potential for selection bias.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Hoxton on Google Reviews",
+    "What makes people happy": "Great service (n=3), Renovated rooms (n=1), Excellent location (n=2), Clean and tidy (n=1), Amazing experience (n=2), Stylish/welcoming atmosphere (n=2), Exceptional staff (n=2)",
+    "What frustrates people": "Lost its mojo/changes disappoint (n=1), Misleading/disruptive experience (n=1)",
+    "What people wish for": "More room space (n=1), not missing restaurant openings (n=2)",
+    "Pricing discovered": "No specific pricing information found within the reviews.",
+    "Target audience observed": "Business travelers (n=1), general leisure travelers, long-term stay guests.",
+    "Key quotes": "Positive: \"if you want great service, this is the place to stay.\" (Matthew Bowers, Oct 2025). \"The location is excellent, the rooms are a decent size, and everything was kept clean and tidy.\" (André Nesheim, Sept 2025). \"From the chic interiors to the vibrant atmosphere, everything about the hotel exudes charm and comfort. But what truly elevated my experience was the exceptional service at ...\" (Ameri Mohammad zakria, Oct 2025).\nNegative: \"I’ve been staying at the Hoxton, on and off, since 2012 and, I’m sorry to say that it’s lost its mojo. While the recent room improvements are appreciated, other changes disappoint.\" (Buck Smith, Oct 2025). \"Our experience at The Hoxton Shoreditch was so misleading and disruptive that I feel other travellers should be aware.\" (Kyle G, Oct 2025).",
+    "Sample size": "n=8 Google reviews from The Hoxton, Shoreditch (Sept-Oct 2025)",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, reviews from Sept-Oct 2025. Limited sample size (n=8) from a single Google Maps listing (The Hoxton Shoreditch). No specific pricing or membership details found within the reviews.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Hoxton on Reddit",
+    "What makes people happy": "Good location/walkability (n=4), Good value/discounts (n=2), Free daily coffees (n=2), Membership benefits (n=2), Lively/bustling lobby (n=1), Aesthetically pleasing/comfortable rooms (n=1), Great on-site restaurants (n=1), Good public transport access (n=2), Views of Manhattan (n=1), Proximity to East River Ferry (n=1)",
+    "What frustrates people": "Noise issues (n=1), Monthly loyalty program contract changes (n=1), Effort for free coffee benefit (n=1), Smaller rooms compared to competitors (n=1)",
+    "What people wish for": "Clearer contract terms for Dis-loyalty membership (n=1), Quieter rooms (n=1), Larger rooms for the price (n=1)",
+    "Pricing discovered": "Dis-loyalty program: monthly rolling, but can be a 1-year minimum commitment (Source: Reddit user 'and_what_army', August 2025). User in Paris looking for hotels under $350/night, found Hoxton to have \"good prices\" (Source: Reddit user, February 2025).",
+    "Target audience observed": "Young adults (20s-30s) and mid-20s couples, tourists interested in lively areas, nightlife, shopping, and walkable attractions (e.g., Williamsburg, Paris). Individuals who frequently stay in Hoxton hotels for work or vacation, and those interested in loyalty programs (HENRYUK demographic).",
+    "Key quotes": "Positive: \"I would highly recommend The Hoxton in the 2nd (Sentier.) It's in a great location on the right bank that is walkable to just about everything you want to do. It also caters to a younger crowd and has a bustling and great lobby with multiple restaurants, bars and a coffee shop. The hotel is very aesthetically pleasing, rooms are very comfortable, and prices are good. I've stayed many times.\" (u/One_Walrus_809, Feb 2025)\nNegative: \"Hoxton is generally nice. I’ve stayed a few times. But I’m wrapping up a stay there which was pretty bad due to noise. Don’t let them put you in a room by the elevator, or you’ll hear it all night. Lots of drunks roaming the halls, and the plumbing has issues.\" (u/Hot-Freedom-1044, Jan 2025)\nNegative: \"When I signed up in August 2025 it was monthly rolling, but when I went to cancel month-to-month they began claiming the monthly rate is actually a yearly contract. The website now says \"Dis-loyalty is a 1-year minimum commitment\".\" (u/and_what_army, Aug 2025)",
+    "Sample size": "n=12 comments analyzed from Reddit threads (July 2025, January 2025, February 2025)",
+    "Data quality notes": "⭐⭐⭐ Moderate confidence, 2024-2025 data, limited number of Reddit threads analyzed. Some threads were comparison-based, not solely focused on The Hoxton.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Hoxton on Instagram",
+    "What makes people happy": "Stylish and Modern Design/Vibe (n=5): Many snippets mention \"stylish hotel,\" \"modern design,\" \"great vibe,\" \"cool interiors,\" and \"cosy boutique rooms.\" Friendly and Helpful Staff/Service (n=4): Repeated mentions of \"friendly staff,\" \"amazing service,\" and \"accommodating service.\" Comfortable and Clean Rooms (n=3): Snippets highlight \"comfortable accommodations,\" \"clean rooms,\" and positive comments on the quality of beds/pillows. Great Location (n=2): Mentions of hotels being \"centrally located\" or in \"heart of\" a city. Good Food/Restaurant/Bar (n=3): Several snippets refer to \"solid breakfast,\" \"fantastic restaurant,\" and \"popular bar.\"",
+    "What frustrates people": "Location/Safety Concerns (n=1): One snippet mentions a location being \"not walkable and is potentially dangerous.\" Room Maintenance (n=1): One mention of a room needing \"a bit of maintenance.\" Bed Firmness (n=1): One specific complaint about the bed not being firm enough.",
+    "What people wish for": "No explicit mentions of unmet needs or feature requests were found in the provided snippets. (n=0)",
+    "Pricing discovered": "The Hoxton Portland: \"We paid $143 for one night for a standard room through a third party; we paid $34 at the site.\" (TripAdvisor, 2025 Prices). The Hoxton Chicago: \"With an average room price of just $470, this stylish hotel offers a truly exceptional experience without breaking the bank.\" (Agoda.com). Offers: \"50% off just-opened hotels, 20% off first time stays (that's the first time you book every hotel after signing up) and 10% off return stays.\" (The Hoxton Chicago offers page).",
+    "Target audience observed": "Younger Travelers/Millennials: One snippet suggests: \"This hotel is a perfect fit for younger travellers with son expendable cash flow who sometimes work remote or just want a more chilled lobby ...\" (Instagram, The Hoxton, Rome, 2 months ago). Business Travelers/Digital Nomads: Implied by mentions of working remotely and a need for a \"chilled lobby\" for work.",
+    "Key quotes": "Positive: \"Incredibly stylish hotel in a completely updated former factory building. Very popular bar and restaurant in lobby. Rooms were elegant and thoughtfully ...\" (Expedia, The Hoxton Paris); \"The service was amazing thanks to the staff that listened ...\" (TripAdvisor, The Hoxton Downtown LA, 2024); \"The restaurant is fantastic at all points of the day in terms of food quality, service and food standard.\" (TripAdvisor, The Hoxton Holborn, 2024). Negative: \"The Hoxton has great décor and a solid breakfast downstairs, but the location in downtown LA is not walkable and is potentially dangerous.\" (TripAdvisor, The Hoxton Downtown LA); \"I felt the room could use a bit of maintenance, that was the reason for ...\" (Michelin Guide, The Hoxton, Chicago).",
+    "Sample size": "Due to limitations in accessing full review content from Instagram and other platforms, a precise sample size of individual reviews or comments cannot be provided. The analysis is based on aggregated sentiment from search result snippets across various platforms, primarily TripAdvisor, Expedia, Hotels.com, Michelin Guide, and Instagram posts. The number of mentions for each theme is an approximation based on the frequency of keywords in these snippets.",
+    "Data quality notes": "⭐⭐ Low confidence. Data is derived from search result snippets and not full reviews, which limits depth and context. Date range is primarily 2024-2025, but some snippets lacked precise dates. The inability to directly access Instagram comments means the analysis is not directly from the requested platform. Limitations include lack of comprehensive quantitative data and inability to verify the full context of quotes.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Hoxton on X/Twitter",
+    "What makes people happy": "Vibes / Chic industrial Victorian aesthetic (n=2), Excellent location (n=1), Trendy Seabird rooftop restaurant (n=1), Casual Albie restaurant/cafe/bar (n=1), Friendly & welcoming staff (implied)",
+    "What frustrates people": "Small rooms (n=3), High prices (n=1), Breakfast service confusion (n=1), Dis-Loyalty program not integrated with Accor Live Limitless (n=1)",
+    "What people wish for": "Larger rooms (implied from frustration with small rooms), Clearer breakfast reservation process (implied from frustration).",
+    "Pricing discovered": "The Hoxton, Williamsburg: Rates start from $490 (newyorkhotels.org), average around $372 (agoda.com). The Hoxton Shoreditch: As of Oct 17, 2025, 1-night stay for 2 adults starts from $220.14 (Expedia). The Hoxton, Downtown LA: Approximately $200/night (TripAdvisor snippet). The Hoxton Southwark: Smallest 'Shoebox' rooms vary from £200 to over £400 per night (Head for Points review). Dis-Loyalty Membership: Monthly cost: £12 / 15€ / $18 / AED 60; Annual cost: Under $220, or £93.60 during Birthday Sale (Head for Points review).",
+    "Target audience observed": "Broad range of demographics, including locals for social spaces, business travelers during weekdays, and recreational guests on weekends. Specific audience personas targeted for each hotel through marketing campaigns. (Implied: design-conscious individuals, those seeking a 'vibe' and community feel, potentially younger demographics or those valuing modern aesthetics over traditional luxury).",
+    "Key quotes": "Positive: \"What The Hoxton does deliver on is (as the yoofs say!) the vibes.\" (Rhys Jones); Positive: \"Seabird is very trendy, and for good reason: the setting is stunning, particularly on the balmy summer evening we had, with a beautiful outdoor terrace looking towards the One Blackfriars tower and the river.\"; Negative: \"Let’s be clear about what The Hoxton Southwark has to offer, because it isn’t going to be for everyone. The small rooms are unsuitable for anyone with lots of luggage or families – if that’s you, then somewhere else may be better.\"; Negative: \"That said, prices can be punchy: even the smallest Shoebox rooms vary from £200 to over £400, depending on the night.\"",
+    "Sample size": "1 detailed review (Head for Points) and 1 marketing case study (Mention Me) analyzed. Total of 35 comments noted on the Head for Points review.",
+    "Data quality notes": "⭐⭐ Low confidence, 2024-2025 data, limited review analysis (1 detailed review, 1 marketing case study). Initial goal of X/Twitter sentiment could not be achieved due to CAPTCHAs and API restrictions.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Hoxton on Facebook",
+    "What makes people happy": "Customizable check-in/check-out (n=1); Excellent, safe location (n=1); Accommodating staff (n=1); Clean, modern bathroom (n=1); Responsive customer service (n=1).",
+    "What frustrates people": "Small, non-functional rooms (n=3); High price point (n=2); Lack of storage/seating in rooms (n=1); Mediocre on-site restaurant food/service (n=1).",
+    "What people wish for": "Larger, more functional rooms with adequate storage and seating (n=1).",
+    "Pricing discovered": "\"Very expensive hotel\" (Facebook group post, May 2025); \"For the price point, I was disappointed...\" (Facebook group post, May 2025); 10% refund received after survey feedback (Facebook group post, May 2025); \"£20/20€ off...\" for multi-Hox trips (thehoxton.com/offers, undated).",
+    "Target audience observed": "Travelers (e.g., from US) prioritizing safety, location, and flexible check-in/out; individuals not strictly budget-conscious but expecting functionality; locals using lobby for socializing/coffee.",
+    "Key quotes": "Positive: \"One thing that immediately attracted me to the Hoxton was the ability to choose your own check in and check out time. Coming from the US and arriving very early in the day this was very important to me to maximize our time in Amsterdam.\" Negative: \"The cosy room was certainly that… And I do realize that a lot of hotel rooms in renovated Canal houses, etc. in Europe in general are smaller than a newly built chain. I expected that. However, there have to be minimum functionalities available in order for a room to be accommodating. This room did not have any place to place a piece of luggage and open it.\"",
+    "Sample size": "n=1 detailed review from a Facebook group; n=~20 general search snippets/titles.",
+    "Data quality notes": "⭐⭐ Low confidence. Analysis primarily based on one detailed Facebook group review from May 2025 (Amsterdam location) and general sentiment from search snippets. Direct access to Facebook content for 2024-2025 proved difficult due to login requirements and captcha. Limited data for a comprehensive sentiment analysis across all Hoxton locations and the full 2024-2025 period. Membership model details were not found.",
+    "Error": ""
+  }
+]
