@@ -18,14 +18,14 @@ export default function SentimentDetail() {
     async function loadData() {
       if (!brand) { setLoading(false); return; }
       const fileMap: Record<string, string> = {
-        "the-social-hub": "pasted_file_a0fYPP_the_social_hub_sentiment_data.json",
-        "the-hoxton": "pasted_file_Ttz6qI_the_hoxton_sentiment_data.json",
-        "citizenm": "pasted_file_1kOuBY_citizenm_sentiment_data.json",
-        "mama-shelter": "pasted_file_zdJyAa_mama_shelter_sentiment_data.json",
-        "soho-house": "pasted_file_e9pm7l_soho_house_sentiment_data.json",
-        "zoku": "pasted_file_wrboig_zoku_sentiment_data.json",
-        "working-from": "pasted_file_oeNuVt_working_from__sentiment_data.json",
-        "conservatorium": "pasted_file_a3FQLe_conservatorium_hotel_sentiment_data.json",
+        "the-social-hub": "the_social_hub_sentiment_data.json",
+        "the-hoxton": "the_hoxton_sentiment_data.json",
+        "citizenm": "citizenm_sentiment_data.json",
+        "mama-shelter": "mama_shelter_sentiment_data.json",
+        "soho-house": "soho_house_sentiment_data.json",
+        "zoku": "zoku_sentiment_data.json",
+        "working-from": "working_from__sentiment_data.json",
+        "conservatorium": "conservatorium_hotel_sentiment_data.json",
         "dis-loyalty": "pasted_file_OfnmwL_dis-loyalty_membership_program_sentiment_data.json",
       };
       const filename = fileMap[brandId || ""];

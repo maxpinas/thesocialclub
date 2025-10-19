@@ -1,0 +1,15 @@
+{
+  "total_records": 8,
+  "successful": 8,
+  "failed": 0,
+  "brands": {
+    "The Social Hub": 1,
+    "The Hoxton": 1,
+    "CitizenM": 1,
+    "Mama Shelter": 1,
+    "Soho House": 1,
+    "Zoku": 1,
+    "Working From_": 1,
+    "Conservatorium Hotel": 1
+  }
+}

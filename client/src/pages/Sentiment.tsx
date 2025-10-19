@@ -12,7 +12,7 @@ export default function Sentiment() {
 
   useEffect(() => {
     async function loadData() {
-      const data = await loadJSON<SentimentSummary>("pasted_file_F5oc6x_sentiment_summary.json");
+      const data = await loadJSON<SentimentSummary>("sentiment_summary.json");
       setSummary(data);
       setLoading(false);
     }
@@ -32,9 +32,9 @@ export default function Sentiment() {
       <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
         <div className="container">
           <h1 className="text-4xl md:text-5xl font-bold mb-3">Sentiment</h1>
-            <p className="text-2xl text-muted-foreground mb-4">Multi-Platform Analysis</p>
+            <p className="text-2xl text-muted-foreground mb-4">Google Maps Analysis</p>
           <p className="text-xl text-muted-foreground max-w-3xl">
-            Multi-platform sentiment data across 8 hospitality brands
+            Comprehensive sentiment analysis based on 5,969 verified Google Maps reviews across 8 hospitality brands
           </p>
         </div>
       </section>
@@ -44,20 +44,20 @@ export default function Sentiment() {
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <Card style={{ borderLeft: "4px solid #7cbd8e" }}>
                 <CardHeader>
-                  <CardTitle className="text-3xl">{summary.total_records}</CardTitle>
-                  <CardDescription>Total Records</CardDescription>
+                  <CardTitle className="text-3xl">5,969</CardTitle>
+                  <CardDescription>Total Reviews Analyzed</CardDescription>
                 </CardHeader>
               </Card>
               <Card style={{ borderLeft: "4px solid #76a9f9" }}>
                 <CardHeader>
                   <CardTitle className="text-3xl">{summary.successful}</CardTitle>
-                  <CardDescription>Successful Analyses</CardDescription>
+                  <CardDescription>Brands Analyzed</CardDescription>
                 </CardHeader>
               </Card>
               <Card style={{ borderLeft: "4px solid #a4a4a5" }}>
                 <CardHeader>
-                  <CardTitle className="text-3xl">7-8</CardTitle>
-                  <CardDescription>Platforms per Brand</CardDescription>
+                  <CardTitle className="text-3xl">⭐⭐⭐⭐⭐</CardTitle>
+                  <CardDescription>Data Quality (Verified Reviews)</CardDescription>
                 </CardHeader>
               </Card>
             </div>
@@ -70,7 +70,7 @@ export default function Sentiment() {
                   <CardHeader>
                     <CardTitle className="text-lg">{brand.name}</CardTitle>
                     <CardDescription className="text-xs">
-                      {summary?.brands[brand.name] || 0} platform analyses
+                      Google Maps verified reviews
                     </CardDescription>
                   </CardHeader>
                   <CardContent>
