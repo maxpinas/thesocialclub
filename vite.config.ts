@@ -9,7 +9,7 @@ import { vitePluginManusRuntime } from "vite-plugin-manus-runtime";
 const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime()];
 
 export default defineConfig({
-  base: '/tsh/',
+  // base: '/tsh/', // Removed for VPS deployment on root domain
   plugins,
   resolve: {
     alias: {

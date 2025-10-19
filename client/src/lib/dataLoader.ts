@@ -2,7 +2,7 @@
 
 export async function loadMarkdown(filename: string): Promise<string> {
   try {
-    const response = await fetch(`/tsh/data/${filename}`);
+    const response = await fetch(`/data/${filename}`);
     if (!response.ok) {
       throw new Error(`Failed to load ${filename}`);
     }
@@ -15,7 +15,7 @@ export async function loadMarkdown(filename: string): Promise<string> {
 
 export async function loadJSON<T>(filename: string): Promise<T | null> {
   try {
-    const response = await fetch(`/tsh/data/${filename}`);
+    const response = await fetch(`/data/${filename}`);
     if (!response.ok) {
       throw new Error(`Failed to load ${filename}`);
     }

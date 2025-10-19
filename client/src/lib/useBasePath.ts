@@ -1,6 +1,6 @@
 import { useBrowserLocation } from "wouter/use-browser-location";
 
-const base = "/tsh";
+const base = ""; // Empty for VPS deployment on root domain
 
 export const useBasePathLocation = (): [string, (to: string) => void] => {
   const [location, setLocation] = useBrowserLocation();
