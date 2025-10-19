@@ -80,14 +80,14 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
     // Build HTML table
     let html = '<table class="min-w-full border-collapse my-6"><thead><tr>';
     headerCells.forEach(cell => {
-      html += `<th class="border border-gray-300 px-4 py-2 bg-gray-100 font-bold text-left">${cell}</th>`;
+      html += `<th class="border border-gray-300 px-3 py-1.5 bg-gray-100 font-bold text-left text-sm">${cell}</th>`;
     });
     html += '</tr></thead><tbody>';
     
     bodyRows.forEach(row => {
       html += '<tr>';
       row.forEach(cell => {
-        html += `<td class="border border-gray-300 px-4 py-2">${cell}</td>`;
+        html += `<td class="border border-gray-300 px-3 py-1.5 text-sm">${cell}</td>`;
       });
       html += '</tr>';
     });

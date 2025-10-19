@@ -257,15 +257,53 @@ export default function Home() {
             </Card>
           </div>
           
-          <div className="mt-8 p-6 bg-background rounded-lg border border-border">
-            <h3 className="font-bold mb-3 flex items-center gap-2">
-              <span className="text-xl text-destructive">⚠</span>
+          <div className="mt-8">
+            <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
+              <span className="text-2xl text-destructive">⚠</span>
               Deal Breakers
             </h3>
-            <div className="grid md:grid-cols-3 gap-4 text-sm text-muted-foreground">
-              <div>• Generic hotel vibe (lacks authentic community)</div>
-              <div>• Inconsistent service quality (breaks trust)</div>
-              <div>• No cultural programming (just amenities)</div>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Card className="border-l-4 border-destructive">
+                <CardHeader>
+                  <CardTitle className="text-lg flex items-center gap-2">
+                    <span className="text-2xl">🏨</span>
+                    Generic Hotel Vibe
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-sm text-muted-foreground">
+                    Lacks authentic community and soul. Members seek genuine connections and a sense of belonging, not just a place to stay.
+                  </p>
+                </CardContent>
+              </Card>
+              
+              <Card className="border-l-4 border-destructive">
+                <CardHeader>
+                  <CardTitle className="text-lg flex items-center gap-2">
+                    <span className="text-2xl">⚖️</span>
+                    Inconsistent Quality
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-sm text-muted-foreground">
+                    Service quality that varies breaks trust. 4-star subscribers expect reliability and excellence at every touchpoint.
+                  </p>
+                </CardContent>
+              </Card>
+              
+              <Card className="border-l-4 border-destructive">
+                <CardHeader>
+                  <CardTitle className="text-lg flex items-center gap-2">
+                    <span className="text-2xl">🎭</span>
+                    No Cultural Programming
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-sm text-muted-foreground">
+                    Just amenities isn't enough. Members want curated experiences, events, and cultural engagement that enrich their lifestyle.
+                  </p>
+                </CardContent>
+              </Card>
             </div>
           </div>
         </div>
