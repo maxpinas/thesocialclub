@@ -70,9 +70,9 @@ export default function Header() {
             </a>
           </Link>
 
-          <Link href="/data-validity">
+          <Link href="/data-methodology">
             <a className="text-sm font-medium hover:text-[#76a9f9] transition-colors">
-              Data Validity
+              Data & Methodology
             </a>
           </Link>
 
@@ -153,9 +153,9 @@ export default function Header() {
                 Sentiment
               </a>
             </Link>
-            <Link href="/data-validity">
+            <Link href="/data-methodology">
               <a className="text-sm font-medium hover:text-[#76a9f9]" onClick={() => setMobileMenuOpen(false)}>
-                Data Validity
+                Data & Methodology
               </a>
             </Link>
           </nav>

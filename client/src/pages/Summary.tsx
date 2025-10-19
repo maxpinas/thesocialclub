@@ -29,12 +29,18 @@ export default function Summary() {
 
   return (
     <div className="min-h-screen">
-      <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
-        <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-3">Executive Summary</h1>
-            <p className="text-2xl text-muted-foreground mb-4">Transformation & Membership Strategy</p>
-          <p className="text-xl text-muted-foreground max-w-3xl">
-            The Social Hub transformation and membership model strategy
+      <section className="relative bg-gradient-to-b from-background to-muted/20 py-24 border-b border-border overflow-hidden">
+        <div className="absolute inset-0 opacity-5">
+          <img 
+            src="/images/tsh-coworking-space.jpg" 
+            alt="" 
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div className="container relative z-10">
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">Your roadmap to 4-star leadership</h1>
+          <p className="text-xl text-muted-foreground max-w-2xl">
+            Strategic recommendations backed by comprehensive competitive analysis
           </p>
         </div>
       </section>

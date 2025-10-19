@@ -42,15 +42,38 @@ export default function Personas() {
 
   return (
     <div className="min-h-screen">
-      <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
-        <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-3">Personas</h1>
-            <p className="text-2xl text-muted-foreground mb-4">Target Audience Profiles</p>
-            <p className="text-lg text-muted-foreground max-w-3xl">
-              5 validated personas developed from 5,969 verified Google Maps reviews across 8 brands
-            </p>
+      <section className="relative bg-gradient-to-b from-background to-muted/20 py-24 border-b border-border overflow-hidden">
+        <div className="absolute inset-0 opacity-5">
+          <img 
+            src="/images/tsh-lobby-space.jpg" 
+            alt="" 
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div className="container relative z-10">
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">Know your audience. Shape your strategy.</h1>
+          <p className="text-xl text-muted-foreground max-w-2xl">
+            Five validated personas representing your target market
+          </p>
         </div>
       </section>
+      {/* Persona Distribution Graph */}
+      <section className="py-12 bg-muted/20">
+        <div className="container">
+          <div className="max-w-5xl mx-auto mb-12">
+            <Card>
+              <CardContent className="p-8">
+                <img 
+                  src="/images/persona_tsh_competitive_position.png" 
+                  alt="TSH Competitive Position by Persona" 
+                  className="w-full rounded-lg"
+                />
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </section>
+      
       <section className="py-12">
         <div className="container">
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
