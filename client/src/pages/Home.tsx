@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Building2, Users, TrendingUp, Database } from "lucide-react";
+import { Building2, Users, TrendingUp, Database, Hotel, Scale, Theater, AlertTriangle } from "lucide-react";
 import { loadMarkdown } from "@/lib/dataLoader";
 
 export default function Home() {
@@ -259,14 +259,14 @@ export default function Home() {
           
           <div className="mt-8">
             <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
-              <span className="text-2xl text-destructive">⚠</span>
+              <AlertTriangle className="h-6 w-6 text-destructive" />
               Deal Breakers
             </h3>
             <div className="grid md:grid-cols-3 gap-6">
               <Card className="border-l-4 border-destructive">
                 <CardHeader>
                   <CardTitle className="text-lg flex items-center gap-2">
-                    <span className="text-2xl">🏨</span>
+                    <Hotel className="h-5 w-5" />
                     Generic Hotel Vibe
                   </CardTitle>
                 </CardHeader>
@@ -280,7 +280,7 @@ export default function Home() {
               <Card className="border-l-4 border-destructive">
                 <CardHeader>
                   <CardTitle className="text-lg flex items-center gap-2">
-                    <span className="text-2xl">⚖️</span>
+                    <Scale className="h-5 w-5" />
                     Inconsistent Quality
                   </CardTitle>
                 </CardHeader>
@@ -294,7 +294,7 @@ export default function Home() {
               <Card className="border-l-4 border-destructive">
                 <CardHeader>
                   <CardTitle className="text-lg flex items-center gap-2">
-                    <span className="text-2xl">🎭</span>
+                    <Theater className="h-5 w-5" />
                     No Cultural Programming
                   </CardTitle>
                 </CardHeader>
