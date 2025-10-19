@@ -69,7 +69,7 @@ export default function Summary() {
                       <a
                         key={idx}
                         href={`#section-${idx}`}
-                        className="block text-sm text-muted-foreground hover:text-foreground hover:bg-muted px-3 py-2 rounded-md transition-colors"
+                        className="block text-sm text-muted-foreground hover:text-foreground hover:bg-black hover:text-white px-3 py-2 rounded-md transition-colors"
                       >
                         {section}
                       </a>

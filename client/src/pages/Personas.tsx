@@ -128,11 +128,11 @@ export default function Personas() {
                 </CardHeader>
                 <CardContent>
                   <nav className="space-y-2">
-                    {Object.keys(sections).map((section) => (
+                    {Object.keys(sections).map((section, idx) => (
                       <a
                         key={section}
-                        href={`#${section.toLowerCase().replace(/\s+/g, '-')}`}
-                        className="block text-sm text-muted-foreground hover:text-foreground hover:bg-muted px-3 py-2 rounded-md transition-colors"
+                        href={`#section-${idx}`}
+                        className="block text-sm text-muted-foreground hover:text-foreground hover:bg-black hover:text-white px-3 py-2 rounded-md transition-colors"
                       >
                         {section}
                       </a>
@@ -146,7 +146,15 @@ export default function Personas() {
             <div className="lg:col-span-3">
               <Card>
                 <CardContent className="p-8 prose prose-slate max-w-none">
-                  <MarkdownRenderer content={content} />
+                  {Object.entries(sections).map(([title, sectionContent], idx) => (
+                    <div key={idx} id={`section-${idx}`} className="mb-12">
+                      <h2 className="text-2xl font-bold mb-4 border-b border-border pb-2">{title}</h2>
+                      <MarkdownRenderer content={sectionContent} />
+                    </div>
+                  ))}
+                  {Object.keys(sections).length === 0 && (
+                    <MarkdownRenderer content={content} />
+                  )}
                 </CardContent>
               </Card>
             </div>

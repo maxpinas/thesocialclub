@@ -168,11 +168,11 @@ This reveals where TSH is strong vs. where competitors dominate.
 
 ### Strengths
 
-✅ **Large sample size:** 5,969 reviews provide statistical significance
-✅ **Verified reviews:** Google Maps reviews are linked to actual visits
-✅ **Recent data:** 2024-2025 timeframe reflects current market conditions
-✅ **Cross-brand consistency:** Same methodology applied to all 8 brands
-✅ **Transparent sourcing:** All data sources clearly labeled with sample sizes
+****Large sample size:** 5,969 reviews provide statistical significance
+****Verified reviews:** Google Maps reviews are linked to actual visits
+****Recent data:** 2024-2025 timeframe reflects current market conditions
+****Cross-brand consistency:** Same methodology applied to all 8 brands
+****Transparent sourcing:** All data sources clearly labeled with sample sizes
 
 ### Limitations
 
@@ -198,10 +198,10 @@ This reveals where TSH is strong vs. where competitors dominate.
 | Metric                  | Google Maps (Primary) | Multi-Platform (Supplementary) |
 | ----------------------- | --------------------- | ------------------------------ |
 | **Sample Size**           | 5,969 reviews         | 580 reviews                    |
-| **Verification**          | ⭐⭐⭐⭐⭐ (Verified visits) | ⭐⭐⭐ (Mixed verification)       |
+| **Verification**          | ********** (Verified visits) | ****** (Mixed verification)       |
 | **Recency**               | 2024-2025             | 2023-2025 (some older)         |
-| **Statistical Significance** | ⭐⭐⭐⭐⭐ (Large samples) | ⭐⭐⭐ (Smaller samples)          |
-| **Consistency**           | ⭐⭐⭐⭐⭐ (Standardized)  | ⭐⭐⭐ (Platform-dependent)       |
+| **Statistical Significance** | ********** (Large samples) | ****** (Smaller samples)          |
+| **Consistency**           | ********** (Standardized)  | ****** (Platform-dependent)       |
 
 ### When to Use Each Source
 
