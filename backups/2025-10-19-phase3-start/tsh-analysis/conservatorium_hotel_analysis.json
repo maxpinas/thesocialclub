@@ -1,0 +1,2336 @@
+{
+  "brand_name": "Conservatorium Hotel",
+  "total_reviews": 200,
+  "locations": {
+    "Conservatorium Hotel": 200
+  },
+  "sentiment_distribution": {
+    "positive": 142,
+    "negative": 16,
+    "neutral": 42
+  },
+  "star_distribution": {
+    "5": 133,
+    "1": 13,
+    "": 38,
+    "4": 9,
+    "3": 4,
+    "2": 3
+  },
+  "themes": {
+    "room_quality": {
+      "positive": [
+        {
+          "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Riana Ilango"
+        },
+        {
+          "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many mus",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shai N"
+        },
+        {
+          "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "I zein"
+        },
+        {
+          "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — ev",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Fajer KH"
+        },
+        {
+          "text": "The Conservatorium Hotel is an absolute must-stay when visiting Amsterdam. My partner and I stayed here in July for our first trip to the city, and it was truly stunning. From the moment you walk in, ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "L G"
+        },
+        {
+          "text": "We had an amazing experience at the Conservatorium Hotel in Amsterdam. From the moment we arrived, the service was exceptional—warm, attentive, and truly five-star.\n\nThe architecture of the hotel is a",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Kari Riley"
+        },
+        {
+          "text": "Our stay at CH was truly excellent. The staff were responsive and so helpful (thank you). The architecture of the hotel is amazing, with old-world stonework coupled with a modern glass partial enclosu",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Brady"
+        },
+        {
+          "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "LR Libby"
+        },
+        {
+          "text": "這是一間非常高級的下午茶餐廳，早午餐時間的體驗超出預期。服務人員專業又親切，整體氛圍優雅安靜。\n在阿姆斯特丹市中心這樣寸土寸金的地段，竟然可以擁有挑高大廳與露天陽台的用餐空間，讓人感受到一種「被寵愛」的自由感。\n\n不只是適合吃早午餐，更是適合開會、拍照、放空、約會的理想場所。\n調酒品質非常頂級，調得細緻又有層次感。\n如果有機會選擇在這裡住上一晚，我會毫不猶豫推薦 —— 因為真的太值得了！\n\nThi",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ShinyVbeauty"
+        },
+        {
+          "text": "Rooms are nice, but a bit funky.  Lighting is sparse, shades are electric and don’t always function properly. Great use of a renovation of a historic building",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "John Aalbregtse"
+        },
+        {
+          "text": "I cannot begin to express how great our stay was at conservatorium hotel. Besides the amazing location, amenities and luxurious rooms, what blew us away was the staff in every single department that w",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jin Hahm"
+        },
+        {
+          "text": "An exceptional luxury stay in the heart of Amsterdam. The Conservatorium Hotel blends historic charm with modern elegance. The service was truly world-class: warm, attentive, and personal without ever",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Samira Abdulrahman"
+        },
+        {
+          "text": "I'd say this is the best hotel in Amsterdam. They rooms are a good size and the amenities are top notch. My rood had a particularly low ceiling, but this is an old building, so it's just an inherent t",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Tigerbalm 1"
+        },
+        {
+          "text": "For our little holiday, this was the perfect location and features. Cherry on top was the wonderful service staff!\n\nEspecially Sara (or Sarah, sorry didn't get exact spelling) at front desk was very h",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Chuck S"
+        },
+        {
+          "text": "From the moment we arrived, everything was top-notch! Elegant decor, spacious and spotless rooms, and a staff that went above and beyond. The ambiance was both relaxing and luxurious, with fantastic d",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Michael Ionitsa"
+        },
+        {
+          "text": "The Conservatorium Hotel in Amsterdam is a luxury establishment that seamlessly blends historic architecture with modern design. Originally constructed in 1897 as a bank and later serving as a music s",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Meet Bhavsar"
+        },
+        {
+          "text": "We had the most amazing stay at the Conservatorium Hotel! The service was truly exceptional—every staff member went out of their way to make us feel welcome and cared for. A special shoutout to Maryam",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Rashid Laroussi"
+        },
+        {
+          "text": "Great hotel, amazing rooms and interior, good location in a quiet neighborhood of an otherwise very crowded Amsterdam. Within walking distance to all prominent museums (Rijkmuseum, Van Gogh Museum, St",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Antonius Howard"
+        },
+        {
+          "text": "Het Conservatorium Hotel in Amsterdam biedt een unieke combinatie van historische charme en modern design. Gelegen in het culturele hart van de stad, op loopafstand van het Museumplein, is het de perf",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "R. D."
+        },
+        {
+          "text": "Very cozy and comfortable hotel, booked for my friends during their stay in Amsterdam!",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sergey Shevelev"
+        },
+        {
+          "text": "Rooms are very best\nAnd also service♥️",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Afran Kasmani"
+        },
+        {
+          "text": "Everything about this hotel is exceptional. From the moment you walk into the lobby to the welcome of the front desk/staff who were amazing and spent some time to ensure that we know the nice restaura",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Abdulrahman Nasser"
+        },
+        {
+          "text": "Amazing hotel basically across the street from the Van Gogh Museum and a short walk to the Rijks Museum. Beautiful rooms, amazing staff. We stayed for more than a week. Partner enjoyed the spa, and I ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Mike Couturie"
+        },
+        {
+          "text": "I haven't stayed in the hotel, but I have had the privilege to get to know the Akasha spa team and all I can say is I didn't want to leave!\nDo yourself a favour and book a massage or spa session! They",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Nix van Zyl"
+        },
+        {
+          "text": "A beautiful hotel with impeccable service! Our stay was truly magical, and I highly recommend adding the breakfast—it’s absolutely worth it!\n\nWe experienced a few electrical issues with our room, but ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Emily Scholten"
+        }
+      ],
+      "negative": [
+        {
+          "text": "The worst hotel ever… shower room had very bad odor, like an old sewage pipe not working… room had many set up issues such as lights blinking and not all lights would go off even after turning off the",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Ying Wu"
+        },
+        {
+          "text": "Upon arrival at the hotel, we weren't given the room we booked because it was occupied! The two-story rooms were terribly uncomfortable and already shabby. On the second day, they gave us a room simil",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Albert B"
+        },
+        {
+          "text": "I was very disappointed with the hygiene and service quality during my stay. Today was my first day checking into the room, and I immediately noticed some concerning issues. There was ketchup on the f",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "نورة النقير"
+        },
+        {
+          "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hot",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "John Martens"
+        },
+        {
+          "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Alta. jp"
+        },
+        {
+          "text": "Worst 5 star hotel/restaurant experience in my whole life. On 12.05.2024 i went there with my sister and friend to have a bday dinner, first of all the staff is rude and not interested at all ,it take",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Anco 007"
+        },
+        {
+          "text": "Don't go there this hotel using hire people working on zzp paying them almost nothing for they hard work .So if u stay there just know u support slavery.story is from one person which was clean there ",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Tomasz Linde"
+        }
+      ],
+      "neutral": [
+        {
+          "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with lar",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "lebl2025"
+        },
+        {
+          "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "A3712GBtg"
+        },
+        {
+          "text": "The Hotel is conveniently located in the Museum District.  Close to the City Center, yet, a short walk away from the hustle & bustle of the city center.   Rooms are beautiful.  You will get a good nig",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "GoPlaces39026246758"
+        },
+        {
+          "text": "Great sincronism between the arquitecture of the old building with modern arquitecture. Beautiful hotel with great, friendly service. A must in Amsterdam",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "enriqueaS4684YN"
+        },
+        {
+          "text": "Our duplex suite was beautiful and spacious and the staff were very warm and helpful.  It's great location near all of the museums and the high shopping street",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "jr0331"
+        },
+        {
+          "text": "Not a top hotel...\nI had a great expectation but it came very short, the rooms are simple and lacks of luxury in relation of the price.\nThe service at the rooms is very basic, and the bars at the hote",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sebastián Casares"
+        },
+        {
+          "text": "Great experience! Clean and good service. Very close to the big museums.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Trip.com Member"
+        },
+        {
+          "text": "The Conservatorium is a striking property in a great location.\n\nOur room was nice enough with one unfortunate issue — noise from the elevator motor audible throughout the night.\n\nWe ate breakfast in t",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Paul Wiggin"
+        },
+        {
+          "text": "i spent 3 nights in the hotel . in one of their suites . big rooms . but the \"advertised\" soundproofing doesn't exist you can hear everything from everywhere, so if you are sensitive to noise, i would",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Games,Movies and Tech Clips [HD]"
+        },
+        {
+          "text": "Der Service ist einzigartig. Ich habe mich sehr wohl und gut behandelt gefühlt. |Die Zimmer sind sehr stilvoll und modern eingerichtet. |Die Lage des Hotels ist optimal und man kann die wesentlichen A",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Stay16864185113"
+        }
+      ]
+    },
+    "service": {
+      "positive": [
+        {
+          "text": "This is our favorite coffee spot in Amsterdam to relax after a day of shopping. The atmosphere is cozy, the staff are super friendly, and the cheese croquettes are a must-try — we often come here just",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sema Özkan Çetin"
+        },
+        {
+          "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shripal Doshi"
+        },
+        {
+          "text": "Amazing staff and quiet atmosphere. Superb attention to detail, family friendly.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Inês Pizarro Correia"
+        },
+        {
+          "text": "Dropped in for lunch!  The food was delicious and the service superb!  Thank you Noelia for a lovely experience!",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Judith Mackin"
+        },
+        {
+          "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Riana Ilango"
+        },
+        {
+          "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many mus",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shai N"
+        },
+        {
+          "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "I zein"
+        },
+        {
+          "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — ev",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Fajer KH"
+        },
+        {
+          "text": "The Conservatorium Hotel is an absolute must-stay when visiting Amsterdam. My partner and I stayed here in July for our first trip to the city, and it was truly stunning. From the moment you walk in, ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "L G"
+        },
+        {
+          "text": "We had an amazing experience at the Conservatorium Hotel in Amsterdam. From the moment we arrived, the service was exceptional—warm, attentive, and truly five-star.\n\nThe architecture of the hotel is a",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Kari Riley"
+        },
+        {
+          "text": "Wonderful location-close to museums, restaurants and concert hall! Loved the atmosphere and service while we stayed there for 3 nights in June 2025. Would definitely recommend and hope to stay here ag",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Julie Kurtz"
+        },
+        {
+          "text": "Good hotel\nNice staff\nBreakfast can be improved",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Samira Calehr"
+        },
+        {
+          "text": "The view is very nice, and the place is quiet, the service is friendly, the well-equipped hotel has a spa gym etc",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Radit"
+        },
+        {
+          "text": "Our stay at CH was truly excellent. The staff were responsive and so helpful (thank you). The architecture of the hotel is amazing, with old-world stonework coupled with a modern glass partial enclosu",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Brady"
+        },
+        {
+          "text": "Gorgeous historic hotel with first class service",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Andrew Kurtz"
+        },
+        {
+          "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "LR Libby"
+        },
+        {
+          "text": "Attended an event there, it was lovely place and seems to be expensive. Very well maintained, awesome service, great facilities and good was yummy, especially at the Asian cafe",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sandeep Bhogaraju"
+        },
+        {
+          "text": "Wow! What a beautiful hotel in the centre of Amsterdam. Luxurious and the staff are brilliant. Highly recommend",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Yvon X"
+        },
+        {
+          "text": "這是一間非常高級的下午茶餐廳，早午餐時間的體驗超出預期。服務人員專業又親切，整體氛圍優雅安靜。\n在阿姆斯特丹市中心這樣寸土寸金的地段，竟然可以擁有挑高大廳與露天陽台的用餐空間，讓人感受到一種「被寵愛」的自由感。\n\n不只是適合吃早午餐，更是適合開會、拍照、放空、約會的理想場所。\n調酒品質非常頂級，調得細緻又有層次感。\n如果有機會選擇在這裡住上一晚，我會毫不猶豫推薦 —— 因為真的太值得了！\n\nThi",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ShinyVbeauty"
+        },
+        {
+          "text": "I cannot begin to express how great our stay was at conservatorium hotel. Besides the amazing location, amenities and luxurious rooms, what blew us away was the staff in every single department that w",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jin Hahm"
+        },
+        {
+          "text": "An exceptional luxury stay in the heart of Amsterdam. The Conservatorium Hotel blends historic charm with modern elegance. The service was truly world-class: warm, attentive, and personal without ever",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Samira Abdulrahman"
+        },
+        {
+          "text": "Fantastic Hotel lovely breakfast and super service",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Daniel Küpfer"
+        },
+        {
+          "text": "A beautiful hotel located very close to museums and great restaurants. Staff made us feel very welcomed and special.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Janice Morris"
+        },
+        {
+          "text": "Very nice and luxurious hotel to which you want to return with pleasure. Service great. At the very beginning of my stay I was greeted by the owner himself, which made a huge impression on me. I will ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Adam Kluczyński"
+        },
+        {
+          "text": "For our little holiday, this was the perfect location and features. Cherry on top was the wonderful service staff!\n\nEspecially Sara (or Sarah, sorry didn't get exact spelling) at front desk was very h",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Chuck S"
+        },
+        {
+          "text": "From the moment we arrived, everything was top-notch! Elegant decor, spacious and spotless rooms, and a staff that went above and beyond. The ambiance was both relaxing and luxurious, with fantastic d",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Michael Ionitsa"
+        },
+        {
+          "text": "Excellent services i really enjoyed",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Technicology Pvt"
+        },
+        {
+          "text": "The conservatorium oozes style and class from every corner. The service is the best I have ever experienced. The location in the museum quarter is perfect for those wanting to be in the centre but awa",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Gumbo"
+        },
+        {
+          "text": "We had the most amazing stay at the Conservatorium Hotel! The service was truly exceptional—every staff member went out of their way to make us feel welcome and cared for. A special shoutout to Maryam",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Rashid Laroussi"
+        },
+        {
+          "text": "Great hotel, amazing rooms and interior, good location in a quiet neighborhood of an otherwise very crowded Amsterdam. Within walking distance to all prominent museums (Rijkmuseum, Van Gogh Museum, St",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Antonius Howard"
+        },
+        {
+          "text": "Het Conservatorium Hotel in Amsterdam biedt een unieke combinatie van historische charme en modern design. Gelegen in het culturele hart van de stad, op loopafstand van het Museumplein, is het de perf",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "R. D."
+        },
+        {
+          "text": "Rooms are very best\nAnd also service♥️",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Afran Kasmani"
+        },
+        {
+          "text": "Everything about this hotel is exceptional. From the moment you walk into the lobby to the welcome of the front desk/staff who were amazing and spent some time to ensure that we know the nice restaura",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Abdulrahman Nasser"
+        },
+        {
+          "text": "Amazing hotel basically across the street from the Van Gogh Museum and a short walk to the Rijks Museum. Beautiful rooms, amazing staff. We stayed for more than a week. Partner enjoyed the spa, and I ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Mike Couturie"
+        },
+        {
+          "text": "Fantastic weekend at this beautiful hotel.\nMiss Maite was charming from our arrival to our departure, offering us a wonderful experience along with her reception team, making us feel at home.\nKindness",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Marc Soler"
+        },
+        {
+          "text": "Mooi hotel, vlak bij diverse culturele instellingen en de PC hoofdstraat. Een aangeboden Upgrade konden wij helaas door omstandigheden niet accepteren, Echter de kamer die wij hadden geboekt had men a",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Marco Janssen"
+        },
+        {
+          "text": "A beautiful hotel with impeccable service! Our stay was truly magical, and I highly recommend adding the breakfast—it’s absolutely worth it!\n\nWe experienced a few electrical issues with our room, but ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Emily Scholten"
+        }
+      ],
+      "negative": [
+        {
+          "text": "The worst hotel ever… shower room had very bad odor, like an old sewage pipe not working… room had many set up issues such as lights blinking and not all lights would go off even after turning off the",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Ying Wu"
+        },
+        {
+          "text": "Worst experience ever. Dont  give your credit card information because they took your money without your permission and they lie about it !!!!! There is one blonde lady in the reseption and she dont k",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Ceyda Aydın"
+        },
+        {
+          "text": "Visited their lounge twice, both times they served me items with nuts (after clearly stating that I have a nut allergy). After asking a second time to be sure their were no nuts, the waiter pointed at",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Lidia B"
+        },
+        {
+          "text": "I was very disappointed with the hygiene and service quality during my stay. Today was my first day checking into the room, and I immediately noticed some concerning issues. There was ketchup on the f",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "نورة النقير"
+        },
+        {
+          "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hot",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "John Martens"
+        },
+        {
+          "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Alta. jp"
+        },
+        {
+          "text": "Worst 5 star hotel/restaurant experience in my whole life. On 12.05.2024 i went there with my sister and friend to have a bday dinner, first of all the staff is rude and not interested at all ,it take",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Anco 007"
+        },
+        {
+          "text": "The lounge of the Conservatorium Hotel is a nice place to relax, though it's a shame about the cool attitude of the bar staff. Without a smile, one doesn't feel welcome.",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Dirk Deruyter"
+        },
+        {
+          "text": "Very rude host in the Brasserie tonight. I was there for lunch, they were preparing the table for dinner, and they suggested I move to the lounge area. No such support was ultimately offered. The lady",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Anna Chilton"
+        }
+      ],
+      "neutral": [
+        {
+          "text": "The building is beautiful and the staff impeccable. I would highlight the service at breakfast from Georgia every morning, who greeted us with the biggest smile. Amazing the variety and quality of the",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "olgacdf"
+        },
+        {
+          "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with lar",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "lebl2025"
+        },
+        {
+          "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "A3712GBtg"
+        },
+        {
+          "text": "Great sincronism between the arquitecture of the old building with modern arquitecture. Beautiful hotel with great, friendly service. A must in Amsterdam",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "enriqueaS4684YN"
+        },
+        {
+          "text": "Our duplex suite was beautiful and spacious and the staff were very warm and helpful.  It's great location near all of the museums and the high shopping street",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "jr0331"
+        },
+        {
+          "text": "We had a great stay at Conservatorium. Very helpful and friendly staff.  Arrived on our anniversary and staff went above and beyond to make us feel special. A great location near the sites in a very u",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Foggwho"
+        },
+        {
+          "text": "I have traveled quite extensively and have done spa treatments all over the world. This hotel & their attention to detail is superb..it’s actually effortless.||I transited through Amsterdam for one da",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ambray2025"
+        },
+        {
+          "text": "One of the amazing places that make you feel very welcoming. From the moment I arrived, I was impressed by the warm hospitality and seamless service. The concierge and front desk teams were outstandin",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "essaida2019"
+        },
+        {
+          "text": "Not a top hotel...\nI had a great expectation but it came very short, the rooms are simple and lacks of luxury in relation of the price.\nThe service at the rooms is very basic, and the bars at the hote",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sebastián Casares"
+        },
+        {
+          "text": "Nice hotel with friendly staff. Recent facilities, nice big swimming pool and tasty kitchen",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Trip.com Member"
+        },
+        {
+          "text": "Nice, but not expectation of a Mondrian Oriental facility. Nice staff",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Craig Rutledge"
+        },
+        {
+          "text": "Great experience! Clean and good service. Very close to the big museums.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Trip.com Member"
+        },
+        {
+          "text": "Nachdem das Konservatorium Hotel nun zur  Mandarin Gruppe gehört, war ich sehr gespannt, was dieses alt ehrwürdige Haus (ehemals eine Bank; danach Musikschule…) zu bieten hat…Die Lage im kulturellen U",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "walterf133"
+        },
+        {
+          "text": "Great place, middle of everything. Staff is extremely nice",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Trip.com Member"
+        },
+        {
+          "text": "So muss Urlaub schmecken! Das Frühstück im Conservatorium Hotel war ein echtes Highlight – alles frisch, liebevoll angerichtet und einfach köstlich. Die Kombination aus feinem Buffet und à-la-carte wa",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "672fe"
+        },
+        {
+          "text": "The Conservatorium is a striking property in a great location.\n\nOur room was nice enough with one unfortunate issue — noise from the elevator motor audible throughout the night.\n\nWe ate breakfast in t",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Paul Wiggin"
+        },
+        {
+          "text": "i spent 3 nights in the hotel . in one of their suites . big rooms . but the \"advertised\" soundproofing doesn't exist you can hear everything from everywhere, so if you are sensitive to noise, i would",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Games,Movies and Tech Clips [HD]"
+        },
+        {
+          "text": "Wat was het Conservatorium hotel een fantastische ervaring. Wij hebben echte luxe ervaren en hebben daar enorm van genoten. Bij aankomst werden wij warm ontvangen door conciërge Sanne. Zij heeft ons e",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "469evir"
+        },
+        {
+          "text": "Der Service ist einzigartig. Ich habe mich sehr wohl und gut behandelt gefühlt. |Die Zimmer sind sehr stilvoll und modern eingerichtet. |Die Lage des Hotels ist optimal und man kann die wesentlichen A",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Stay16864185113"
+        },
+        {
+          "text": "We kwamen langs om het hotel te bekijken van binnen, en we kregen een hele lieve en leuke rondleiding van receptioniste Emilie. |We hopen nog een keer terug te komen voor een leuke lunch of zelfs een ",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "899kyrad"
+        },
+        {
+          "text": "Il Conservatorium è un vero 5 stelle lusso. L'edificio è magnifico e nell'opera di restauro non poteva mancare il genio di un super architetto italiano Piero Lissoni. Già all'arrivo comprendi che tutt",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "andreamW2924SQ"
+        }
+      ]
+    },
+    "food_beverage": {
+      "positive": [
+        {
+          "text": "This is our favorite coffee spot in Amsterdam to relax after a day of shopping. The atmosphere is cozy, the staff are super friendly, and the cheese croquettes are a must-try — we often come here just",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sema Özkan Çetin"
+        },
+        {
+          "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shripal Doshi"
+        },
+        {
+          "text": "Dropped in for lunch!  The food was delicious and the service superb!  Thank you Noelia for a lovely experience!",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Judith Mackin"
+        },
+        {
+          "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many mus",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shai N"
+        },
+        {
+          "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "I zein"
+        },
+        {
+          "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — ev",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Fajer KH"
+        },
+        {
+          "text": "Wonderful location-close to museums, restaurants and concert hall! Loved the atmosphere and service while we stayed there for 3 nights in June 2025. Would definitely recommend and hope to stay here ag",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Julie Kurtz"
+        },
+        {
+          "text": "Good hotel\nNice staff\nBreakfast can be improved",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Samira Calehr"
+        },
+        {
+          "text": "Hôtel bien situé, tranquille et calme sauf peut-être la musique partout et tout le temps (mais peut-être que la clientèle est habituée).  Le personnel est serviable, réactif et professionnel, que ce s",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Christine C"
+        },
+        {
+          "text": "Our stay at CH was truly excellent. The staff were responsive and so helpful (thank you). The architecture of the hotel is amazing, with old-world stonework coupled with a modern glass partial enclosu",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Brady"
+        },
+        {
+          "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "LR Libby"
+        },
+        {
+          "text": "Good place to meet and enjoy luncheon. We didn't stay at the hotel but met friends instead for conversation.",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Domingo Delgado"
+        },
+        {
+          "text": "I cannot begin to express how great our stay was at conservatorium hotel. Besides the amazing location, amenities and luxurious rooms, what blew us away was the staff in every single department that w",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jin Hahm"
+        },
+        {
+          "text": "Fantastic Hotel lovely breakfast and super service",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Daniel Küpfer"
+        },
+        {
+          "text": "OMG the coffee in this place is not from this world",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Vincent"
+        },
+        {
+          "text": "A beautiful hotel located very close to museums and great restaurants. Staff made us feel very welcomed and special.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Janice Morris"
+        },
+        {
+          "text": "For our little holiday, this was the perfect location and features. Cherry on top was the wonderful service staff!\n\nEspecially Sara (or Sarah, sorry didn't get exact spelling) at front desk was very h",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Chuck S"
+        },
+        {
+          "text": "This place is an extra ordinary and it wet your appetite,their food ,de lounging area the pool side is a queen and kings place,you need to visit this amazing conservatorium Hotel for your vacation and",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jaiden Kadiga"
+        },
+        {
+          "text": "2024: Balık çorbasının sunumu ve lezzeti tartışılamaz seviyede, personel çok kibar ve yardımsever, mekan olağanüstü büyüleyici, sessiz ve sakin tam kafa dinlemelik",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Muhammet Ali ÖZKAYA"
+        },
+        {
+          "text": "Everything about this hotel is exceptional. From the moment you walk into the lobby to the welcome of the front desk/staff who were amazing and spent some time to ensure that we know the nice restaura",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Abdulrahman Nasser"
+        },
+        {
+          "text": "Mooi hotel, vlak bij diverse culturele instellingen en de PC hoofdstraat. Een aangeboden Upgrade konden wij helaas door omstandigheden niet accepteren, Echter de kamer die wij hadden geboekt had men a",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Marco Janssen"
+        },
+        {
+          "text": "A beautiful hotel with impeccable service! Our stay was truly magical, and I highly recommend adding the breakfast—it’s absolutely worth it!\n\nWe experienced a few electrical issues with our room, but ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Emily Scholten"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Visited their lounge twice, both times they served me items with nuts (after clearly stating that I have a nut allergy). After asking a second time to be sure their were no nuts, the waiter pointed at",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Lidia B"
+        },
+        {
+          "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hot",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "John Martens"
+        },
+        {
+          "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Alta. jp"
+        },
+        {
+          "text": "Worst 5 star hotel/restaurant experience in my whole life. On 12.05.2024 i went there with my sister and friend to have a bday dinner, first of all the staff is rude and not interested at all ,it take",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Anco 007"
+        },
+        {
+          "text": "The lounge of the Conservatorium Hotel is a nice place to relax, though it's a shame about the cool attitude of the bar staff. Without a smile, one doesn't feel welcome.",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Dirk Deruyter"
+        },
+        {
+          "text": "Very rude host in the Brasserie tonight. I was there for lunch, they were preparing the table for dinner, and they suggested I move to the lounge area. No such support was ultimately offered. The lady",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Anna Chilton"
+        }
+      ],
+      "neutral": [
+        {
+          "text": "The building is beautiful and the staff impeccable. I would highlight the service at breakfast from Georgia every morning, who greeted us with the biggest smile. Amazing the variety and quality of the",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "olgacdf"
+        },
+        {
+          "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with lar",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "lebl2025"
+        },
+        {
+          "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "A3712GBtg"
+        },
+        {
+          "text": "Normally, I don’t write reviews, or if I do, they’re positive. This is my first negative review here. I spend over 100 nights a year in truly excellent hotels, but what I experienced today was, unfort",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "travel_hedonist_D"
+        },
+        {
+          "text": "I have traveled quite extensively and have done spa treatments all over the world. This hotel & their attention to detail is superb..it’s actually effortless.||I transited through Amsterdam for one da",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ambray2025"
+        },
+        {
+          "text": "Not a top hotel...\nI had a great expectation but it came very short, the rooms are simple and lacks of luxury in relation of the price.\nThe service at the rooms is very basic, and the bars at the hote",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sebastián Casares"
+        },
+        {
+          "text": "Très bel endroit dans un bâtiment historique avec des volumes exceptionnels.|Excellent petit-déjeuner avec des produits frais et des pâtisseries hollandaises faites maison.|Idéalement placé avec les p",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "JulienArnalParis"
+        },
+        {
+          "text": "Onszelf verwennen met een luxe koffie in het Conservatoriumhotel! Ja, dat gingen we doen!|Koffie drinken daar is meer dan koffiedrinken, het is een belevenis! Deze keer werd het echt een warme beleven",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "miepj2025"
+        },
+        {
+          "text": "The Conservatorium is a striking property in a great location.\n\nOur room was nice enough with one unfortunate issue — noise from the elevator motor audible throughout the night.\n\nWe ate breakfast in t",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Paul Wiggin"
+        },
+        {
+          "text": "In februari was ik met mijn gezin een drankje aan het doen in de lobby van het hotel. We komen niet vaak in Amsterdam en vroegen de receptie om tips, die ons doorverwees naar de conciërge. Daar gaf ik",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "olivierhN5761WT"
+        },
+        {
+          "text": "Wat was het Conservatorium hotel een fantastische ervaring. Wij hebben echte luxe ervaren en hebben daar enorm van genoten. Bij aankomst werden wij warm ontvangen door conciërge Sanne. Zij heeft ons e",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "469evir"
+        },
+        {
+          "text": "We kwamen langs om het hotel te bekijken van binnen, en we kregen een hele lieve en leuke rondleiding van receptioniste Emilie. |We hopen nog een keer terug te komen voor een leuke lunch of zelfs een ",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "899kyrad"
+        },
+        {
+          "text": "Il Conservatorium è un vero 5 stelle lusso. L'edificio è magnifico e nell'opera di restauro non poteva mancare il genio di un super architetto italiano Piero Lissoni. Già all'arrivo comprendi che tutt",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "andreamW2924SQ"
+        },
+        {
+          "text": "Hier bleiben eigentlich keine Wünsche offen: tolle Lage im Museumsviertel, mehrere Straßenbahnlinien, Luxus Shopping Läden in der Nachbarschaft. |Hervorragendes Asia Restaurant sowie Pool und insgesam",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "V8782WPsandraw"
+        },
+        {
+          "text": "Super fijne overnachting gehad! Iedereen was ontzettend aardig, ook goed geholpen door de concierge voor het kiezen naar een restaurantje in de stad! Ontzettend genoten van de gym en de spa waar we no",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Q6855SMjuliam"
+        }
+      ]
+    },
+    "amenities": {
+      "positive": [
+        {
+          "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shripal Doshi"
+        },
+        {
+          "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many mus",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shai N"
+        },
+        {
+          "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "I zein"
+        },
+        {
+          "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — ev",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Fajer KH"
+        },
+        {
+          "text": "Wonderful location-close to museums, restaurants and concert hall! Loved the atmosphere and service while we stayed there for 3 nights in June 2025. Would definitely recommend and hope to stay here ag",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Julie Kurtz"
+        },
+        {
+          "text": "Good hotel\nNice staff\nBreakfast can be improved",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Samira Calehr"
+        },
+        {
+          "text": "The view is very nice, and the place is quiet, the service is friendly, the well-equipped hotel has a spa gym etc",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Radit"
+        },
+        {
+          "text": "Hôtel bien situé, tranquille et calme sauf peut-être la musique partout et tout le temps (mais peut-être que la clientèle est habituée).  Le personnel est serviable, réactif et professionnel, que ce s",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Christine C"
+        },
+        {
+          "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "LR Libby"
+        },
+        {
+          "text": "I cannot begin to express how great our stay was at conservatorium hotel. Besides the amazing location, amenities and luxurious rooms, what blew us away was the staff in every single department that w",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jin Hahm"
+        },
+        {
+          "text": "Fantastic Hotel lovely breakfast and super service",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Daniel Küpfer"
+        },
+        {
+          "text": "A beautiful hotel located very close to museums and great restaurants. Staff made us feel very welcomed and special.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Janice Morris"
+        },
+        {
+          "text": "For our little holiday, this was the perfect location and features. Cherry on top was the wonderful service staff!\n\nEspecially Sara (or Sarah, sorry didn't get exact spelling) at front desk was very h",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Chuck S"
+        },
+        {
+          "text": "This place is an extra ordinary and it wet your appetite,their food ,de lounging area the pool side is a queen and kings place,you need to visit this amazing conservatorium Hotel for your vacation and",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jaiden Kadiga"
+        },
+        {
+          "text": "2024: Balık çorbasının sunumu ve lezzeti tartışılamaz seviyede, personel çok kibar ve yardımsever, mekan olağanüstü büyüleyici, sessiz ve sakin tam kafa dinlemelik",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Muhammet Ali ÖZKAYA"
+        },
+        {
+          "text": "Great hotel, amazing rooms and interior, good location in a quiet neighborhood of an otherwise very crowded Amsterdam. Within walking distance to all prominent museums (Rijkmuseum, Van Gogh Museum, St",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Antonius Howard"
+        },
+        {
+          "text": "Everything about this hotel is exceptional. From the moment you walk into the lobby to the welcome of the front desk/staff who were amazing and spent some time to ensure that we know the nice restaura",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Abdulrahman Nasser"
+        },
+        {
+          "text": "Mooi hotel, vlak bij diverse culturele instellingen en de PC hoofdstraat. Een aangeboden Upgrade konden wij helaas door omstandigheden niet accepteren, Echter de kamer die wij hadden geboekt had men a",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Marco Janssen"
+        },
+        {
+          "text": "I haven't stayed in the hotel, but I have had the privilege to get to know the Akasha spa team and all I can say is I didn't want to leave!\nDo yourself a favour and book a massage or spa session! They",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Nix van Zyl"
+        },
+        {
+          "text": "A beautiful hotel with impeccable service! Our stay was truly magical, and I highly recommend adding the breakfast—it’s absolutely worth it!\n\nWe experienced a few electrical issues with our room, but ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Emily Scholten"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Visited their lounge twice, both times they served me items with nuts (after clearly stating that I have a nut allergy). After asking a second time to be sure their were no nuts, the waiter pointed at",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Lidia B"
+        },
+        {
+          "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hot",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "John Martens"
+        },
+        {
+          "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Alta. jp"
+        },
+        {
+          "text": "Worst 5 star hotel/restaurant experience in my whole life. On 12.05.2024 i went there with my sister and friend to have a bday dinner, first of all the staff is rude and not interested at all ,it take",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Anco 007"
+        },
+        {
+          "text": "The lounge of the Conservatorium Hotel is a nice place to relax, though it's a shame about the cool attitude of the bar staff. Without a smile, one doesn't feel welcome.",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Dirk Deruyter"
+        },
+        {
+          "text": "Very rude host in the Brasserie tonight. I was there for lunch, they were preparing the table for dinner, and they suggested I move to the lounge area. No such support was ultimately offered. The lady",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Anna Chilton"
+        }
+      ],
+      "neutral": [
+        {
+          "text": "The building is beautiful and the staff impeccable. I would highlight the service at breakfast from Georgia every morning, who greeted us with the biggest smile. Amazing the variety and quality of the",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "olgacdf"
+        },
+        {
+          "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with lar",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "lebl2025"
+        },
+        {
+          "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "A3712GBtg"
+        },
+        {
+          "text": "Normally, I don’t write reviews, or if I do, they’re positive. This is my first negative review here. I spend over 100 nights a year in truly excellent hotels, but what I experienced today was, unfort",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "travel_hedonist_D"
+        },
+        {
+          "text": "I have traveled quite extensively and have done spa treatments all over the world. This hotel & their attention to detail is superb..it’s actually effortless.||I transited through Amsterdam for one da",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ambray2025"
+        },
+        {
+          "text": "Not a top hotel...\nI had a great expectation but it came very short, the rooms are simple and lacks of luxury in relation of the price.\nThe service at the rooms is very basic, and the bars at the hote",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sebastián Casares"
+        },
+        {
+          "text": "Nice hotel with friendly staff. Recent facilities, nice big swimming pool and tasty kitchen",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Trip.com Member"
+        },
+        {
+          "text": "Très bel endroit dans un bâtiment historique avec des volumes exceptionnels.|Excellent petit-déjeuner avec des produits frais et des pâtisseries hollandaises faites maison.|Idéalement placé avec les p",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "JulienArnalParis"
+        },
+        {
+          "text": "Onszelf verwennen met een luxe koffie in het Conservatoriumhotel! Ja, dat gingen we doen!|Koffie drinken daar is meer dan koffiedrinken, het is een belevenis! Deze keer werd het echt een warme beleven",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "miepj2025"
+        },
+        {
+          "text": "The Conservatorium is a striking property in a great location.\n\nOur room was nice enough with one unfortunate issue — noise from the elevator motor audible throughout the night.\n\nWe ate breakfast in t",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Paul Wiggin"
+        },
+        {
+          "text": "In februari was ik met mijn gezin een drankje aan het doen in de lobby van het hotel. We komen niet vaak in Amsterdam en vroegen de receptie om tips, die ons doorverwees naar de conciërge. Daar gaf ik",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "olivierhN5761WT"
+        },
+        {
+          "text": "Wat was het Conservatorium hotel een fantastische ervaring. Wij hebben echte luxe ervaren en hebben daar enorm van genoten. Bij aankomst werden wij warm ontvangen door conciërge Sanne. Zij heeft ons e",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "469evir"
+        },
+        {
+          "text": "Il Conservatorium è un vero 5 stelle lusso. L'edificio è magnifico e nell'opera di restauro non poteva mancare il genio di un super architetto italiano Piero Lissoni. Già all'arrivo comprendi che tutt",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "andreamW2924SQ"
+        },
+        {
+          "text": "Hier bleiben eigentlich keine Wünsche offen: tolle Lage im Museumsviertel, mehrere Straßenbahnlinien, Luxus Shopping Läden in der Nachbarschaft. |Hervorragendes Asia Restaurant sowie Pool und insgesam",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "V8782WPsandraw"
+        },
+        {
+          "text": "Super fijne overnachting gehad! Iedereen was ontzettend aardig, ook goed geholpen door de concierge voor het kiezen naar een restaurantje in de stad! Ontzettend genoten van de gym en de spa waar we no",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Q6855SMjuliam"
+        }
+      ]
+    },
+    "community": {
+      "positive": [
+        {
+          "text": "This is our favorite coffee spot in Amsterdam to relax after a day of shopping. The atmosphere is cozy, the staff are super friendly, and the cheese croquettes are a must-try — we often come here just",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sema Özkan Çetin"
+        },
+        {
+          "text": "Amazing staff and quiet atmosphere. Superb attention to detail, family friendly.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Inês Pizarro Correia"
+        },
+        {
+          "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "I zein"
+        },
+        {
+          "text": "Wonderful location-close to museums, restaurants and concert hall! Loved the atmosphere and service while we stayed there for 3 nights in June 2025. Would definitely recommend and hope to stay here ag",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Julie Kurtz"
+        },
+        {
+          "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "LR Libby"
+        },
+        {
+          "text": "Good place to meet and enjoy luncheon. We didn't stay at the hotel but met friends instead for conversation.",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Domingo Delgado"
+        },
+        {
+          "text": "這是一間非常高級的下午茶餐廳，早午餐時間的體驗超出預期。服務人員專業又親切，整體氛圍優雅安靜。\n在阿姆斯特丹市中心這樣寸土寸金的地段，竟然可以擁有挑高大廳與露天陽台的用餐空間，讓人感受到一種「被寵愛」的自由感。\n\n不只是適合吃早午餐，更是適合開會、拍照、放空、約會的理想場所。\n調酒品質非常頂級，調得細緻又有層次感。\n如果有機會選擇在這裡住上一晚，我會毫不猶豫推薦 —— 因為真的太值得了！\n\nThi",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ShinyVbeauty"
+        },
+        {
+          "text": "Everything about this hotel is exceptional. From the moment you walk into the lobby to the welcome of the front desk/staff who were amazing and spent some time to ensure that we know the nice restaura",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Abdulrahman Nasser"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Don't go there this hotel using hire people working on zzp paying them almost nothing for they hard work .So if u stay there just know u support slavery.story is from one person which was clean there ",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Tomasz Linde"
+        }
+      ],
+      "neutral": []
+    },
+    "location": {
+      "positive": [
+        {
+          "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shripal Doshi"
+        },
+        {
+          "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Riana Ilango"
+        },
+        {
+          "text": "Amazing location",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Omar Ramirez"
+        },
+        {
+          "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many mus",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shai N"
+        },
+        {
+          "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — ev",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Fajer KH"
+        },
+        {
+          "text": "The Conservatorium Hotel is an absolute must-stay when visiting Amsterdam. My partner and I stayed here in July for our first trip to the city, and it was truly stunning. From the moment you walk in, ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "L G"
+        },
+        {
+          "text": "Wonderful location-close to museums, restaurants and concert hall! Loved the atmosphere and service while we stayed there for 3 nights in June 2025. Would definitely recommend and hope to stay here ag",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Julie Kurtz"
+        },
+        {
+          "text": "Our stay at CH was truly excellent. The staff were responsive and so helpful (thank you). The architecture of the hotel is amazing, with old-world stonework coupled with a modern glass partial enclosu",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Brady"
+        },
+        {
+          "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "LR Libby"
+        },
+        {
+          "text": "I cannot begin to express how great our stay was at conservatorium hotel. Besides the amazing location, amenities and luxurious rooms, what blew us away was the staff in every single department that w",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jin Hahm"
+        },
+        {
+          "text": "An exceptional luxury stay in the heart of Amsterdam. The Conservatorium Hotel blends historic charm with modern elegance. The service was truly world-class: warm, attentive, and personal without ever",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Samira Abdulrahman"
+        },
+        {
+          "text": "I'd say this is the best hotel in Amsterdam. They rooms are a good size and the amenities are top notch. My rood had a particularly low ceiling, but this is an old building, so it's just an inherent t",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Tigerbalm 1"
+        },
+        {
+          "text": "beautiful place, perfect location and the best thing the concierge team awesome!!",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Alfredo Coronado"
+        },
+        {
+          "text": "For our little holiday, this was the perfect location and features. Cherry on top was the wonderful service staff!\n\nEspecially Sara (or Sarah, sorry didn't get exact spelling) at front desk was very h",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Chuck S"
+        },
+        {
+          "text": "From the moment we arrived, everything was top-notch! Elegant decor, spacious and spotless rooms, and a staff that went above and beyond. The ambiance was both relaxing and luxurious, with fantastic d",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Michael Ionitsa"
+        },
+        {
+          "text": "The conservatorium oozes style and class from every corner. The service is the best I have ever experienced. The location in the museum quarter is perfect for those wanting to be in the centre but awa",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Gumbo"
+        },
+        {
+          "text": "Great hotel, amazing rooms and interior, good location in a quiet neighborhood of an otherwise very crowded Amsterdam. Within walking distance to all prominent museums (Rijkmuseum, Van Gogh Museum, St",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Antonius Howard"
+        },
+        {
+          "text": "Everything about this hotel is exceptional. From the moment you walk into the lobby to the welcome of the front desk/staff who were amazing and spent some time to ensure that we know the nice restaura",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Abdulrahman Nasser"
+        },
+        {
+          "text": "Amazing hotel basically across the street from the Van Gogh Museum and a short walk to the Rijks Museum. Beautiful rooms, amazing staff. We stayed for more than a week. Partner enjoyed the spa, and I ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Mike Couturie"
+        },
+        {
+          "text": "A beautiful hotel with impeccable service! Our stay was truly magical, and I highly recommend adding the breakfast—it’s absolutely worth it!\n\nWe experienced a few electrical issues with our room, but ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Emily Scholten"
+        }
+      ],
+      "negative": [],
+      "neutral": [
+        {
+          "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "A3712GBtg"
+        },
+        {
+          "text": "The Hotel is conveniently located in the Museum District.  Close to the City Center, yet, a short walk away from the hustle & bustle of the city center.   Rooms are beautiful.  You will get a good nig",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "GoPlaces39026246758"
+        },
+        {
+          "text": "I had an incredible & short stay at the property.  Next time probably I get to stay a bit longer . Lovely location and the highlight of my stay was your amazing colleague Richard at front desk who jus",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "anchal99"
+        },
+        {
+          "text": "Our duplex suite was beautiful and spacious and the staff were very warm and helpful.  It's great location near all of the museums and the high shopping street",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "jr0331"
+        },
+        {
+          "text": "We had a great stay at Conservatorium. Very helpful and friendly staff.  Arrived on our anniversary and staff went above and beyond to make us feel special. A great location near the sites in a very u",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Foggwho"
+        },
+        {
+          "text": "I have traveled quite extensively and have done spa treatments all over the world. This hotel & their attention to detail is superb..it’s actually effortless.||I transited through Amsterdam for one da",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ambray2025"
+        },
+        {
+          "text": "Très bel endroit dans un bâtiment historique avec des volumes exceptionnels.|Excellent petit-déjeuner avec des produits frais et des pâtisseries hollandaises faites maison.|Idéalement placé avec les p",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "JulienArnalParis"
+        },
+        {
+          "text": "The Conservatorium is a striking property in a great location.\n\nOur room was nice enough with one unfortunate issue — noise from the elevator motor audible throughout the night.\n\nWe ate breakfast in t",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Paul Wiggin"
+        }
+      ]
+    },
+    "pricing": {
+      "positive": [
+        {
+          "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Riana Ilango"
+        },
+        {
+          "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many mus",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shai N"
+        },
+        {
+          "text": "Attended an event there, it was lovely place and seems to be expensive. Very well maintained, awesome service, great facilities and good was yummy, especially at the Asian cafe",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sandeep Bhogaraju"
+        },
+        {
+          "text": "這是一間非常高級的下午茶餐廳，早午餐時間的體驗超出預期。服務人員專業又親切，整體氛圍優雅安靜。\n在阿姆斯特丹市中心這樣寸土寸金的地段，竟然可以擁有挑高大廳與露天陽台的用餐空間，讓人感受到一種「被寵愛」的自由感。\n\n不只是適合吃早午餐，更是適合開會、拍照、放空、約會的理想場所。\n調酒品質非常頂級，調得細緻又有層次感。\n如果有機會選擇在這裡住上一晚，我會毫不猶豫推薦 —— 因為真的太值得了！\n\nThi",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "ShinyVbeauty"
+        },
+        {
+          "text": "A beautiful hotel with impeccable service! Our stay was truly magical, and I highly recommend adding the breakfast—it’s absolutely worth it!\n\nWe experienced a few electrical issues with our room, but ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Emily Scholten"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Upon arrival at the hotel, we weren't given the room we booked because it was occupied! The two-story rooms were terribly uncomfortable and already shabby. On the second day, they gave us a room simil",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Albert B"
+        },
+        {
+          "text": "Worst experience ever. Dont  give your credit card information because they took your money without your permission and they lie about it !!!!! There is one blonde lady in the reseption and she dont k",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Ceyda Aydın"
+        },
+        {
+          "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Alta. jp"
+        }
+      ],
+      "neutral": [
+        {
+          "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "A3712GBtg"
+        },
+        {
+          "text": "Not a top hotel...\nI had a great expectation but it came very short, the rooms are simple and lacks of luxury in relation of the price.\nThe service at the rooms is very basic, and the bars at the hote",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Sebastián Casares"
+        }
+      ]
+    },
+    "noise": {
+      "positive": [
+        {
+          "text": "Amazing staff and quiet atmosphere. Superb attention to detail, family friendly.",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Inês Pizarro Correia"
+        },
+        {
+          "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many mus",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Shai N"
+        },
+        {
+          "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "I zein"
+        },
+        {
+          "text": "The view is very nice, and the place is quiet, the service is friendly, the well-equipped hotel has a spa gym etc",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Radit"
+        },
+        {
+          "text": "Great hotel, amazing rooms and interior, good location in a quiet neighborhood of an otherwise very crowded Amsterdam. Within walking distance to all prominent museums (Rijkmuseum, Van Gogh Museum, St",
+          "stars": "4",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Antonius Howard"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Upon arrival at the hotel, we weren't given the room we booked because it was occupied! The two-story rooms were terribly uncomfortable and already shabby. On the second day, they gave us a room simil",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Albert B"
+        }
+      ],
+      "neutral": [
+        {
+          "text": "The Conservatorium is a striking property in a great location.\n\nOur room was nice enough with one unfortunate issue — noise from the elevator motor audible throughout the night.\n\nWe ate breakfast in t",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Paul Wiggin"
+        },
+        {
+          "text": "i spent 3 nights in the hotel . in one of their suites . big rooms . but the \"advertised\" soundproofing doesn't exist you can hear everything from everywhere, so if you are sensitive to noise, i would",
+          "stars": "3",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Games,Movies and Tech Clips [HD]"
+        }
+      ]
+    },
+    "cleanliness": {
+      "positive": [
+        {
+          "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and ",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "I zein"
+        },
+        {
+          "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — ev",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Fajer KH"
+        },
+        {
+          "text": "For our little holiday, this was the perfect location and features. Cherry on top was the wonderful service staff!\n\nEspecially Sara (or Sarah, sorry didn't get exact spelling) at front desk was very h",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Chuck S"
+        },
+        {
+          "text": "From the moment we arrived, everything was top-notch! Elegant decor, spacious and spotless rooms, and a staff that went above and beyond. The ambiance was both relaxing and luxurious, with fantastic d",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Michael Ionitsa"
+        }
+      ],
+      "negative": [
+        {
+          "text": "I was very disappointed with the hygiene and service quality during my stay. Today was my first day checking into the room, and I immediately noticed some concerning issues. There was ketchup on the f",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "نورة النقير"
+        },
+        {
+          "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make",
+          "stars": "2",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Alta. jp"
+        },
+        {
+          "text": "Don't go there this hotel using hire people working on zzp paying them almost nothing for they hard work .So if u stay there just know u support slavery.story is from one person which was clean there ",
+          "stars": "1",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Tomasz Linde"
+        }
+      ],
+      "neutral": [
+        {
+          "text": "Great experience! Clean and good service. Very close to the big museums.",
+          "stars": "",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Trip.com Member"
+        }
+      ]
+    },
+    "wifi": {
+      "positive": [
+        {
+          "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "LR Libby"
+        },
+        {
+          "text": "I cannot begin to express how great our stay was at conservatorium hotel. Besides the amazing location, amenities and luxurious rooms, what blew us away was the staff in every single department that w",
+          "stars": "5",
+          "location": "Conservatorium Hotel",
+          "reviewer": "Jin Hahm"
+        }
+      ],
+      "negative": [],
+      "neutral": []
+    }
+  },
+  "theme_counts": {
+    "room_quality": 42,
+    "service": 67,
+    "food_beverage": 43,
+    "amenities": 41,
+    "community": 9,
+    "location": 28,
+    "pricing": 10,
+    "noise": 8,
+    "cleanliness": 8,
+    "wifi": 2
+  },
+  "sample_quotes": {
+    "room_quality_negative": [
+      {
+        "text": "The worst hotel ever… shower room had very bad odor, like an old sewage pipe not working… room had many set up issues such as lights blinking and not all lights would go off even after turning off the master switch. The room size is very small. When I requested help on these issues, the front desk staff seemed quite used to such issues, so they didn’t a lot of understanding but only sent a technician up who didn’t help but left the gear switch door open so I couldn’t use toilet anymore… overall a fancy hotel with poor facilities and very poor customer service.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Ying Wu"
+      },
+      {
+        "text": "Upon arrival at the hotel, we weren't given the room we booked because it was occupied! The two-story rooms were terribly uncomfortable and already shabby. On the second day, they gave us a room similar to the one we booked, but it was also in the attic with small windows, the beds were right next to the front door, and it was very noisy, making it difficult to sleep. The hotel itself was very dark; upon checkout, I waited 20 minutes for help with my luggage, and ended up having to go downstairs myself. I've had similar experiences in other hotels in Amsterdam, and I didn't like it at all! Although we booked a junior suite grand, it's also not worth the money! Especially when they give you a room in the attic.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Albert B"
+      },
+      {
+        "text": "I was very disappointed with the hygiene and service quality during my stay. Today was my first day checking into the room, and I immediately noticed some concerning issues. There was ketchup on the floor near the head of the bed — clearly left behind by previous guests. I also found a brown stain on the bathrobe that resembled dried blood, and even saw a small bug crawling around.\n\nThese issues clearly indicate that the room was not properly cleaned or inspected before my arrival. I contacted Room Service, and although someone did come to check the situation, the visit ended without any action being taken — and more importantly, the staff member left without closing the door properly. I only realized later that the door had been left open, which is quite unsettling, especially at midnight.\n\nUnfortunately, this experience does not reflect the level of care and attention expected from a hotel of this standard.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "نورة النقير"
+      },
+      {
+        "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hotel in Bangkok met zijn perfectie in service en kwaliteit heeft geen navolging gekregen in Amsterdam. De kamers zijn gedateerd en missen onderhoud. Functieknoppen voor gordijnen en verlichting werken niet of uiterst traag. De bar is sfeerloos, met trage bediening en slechte drankjes. De hotellounge ziet nog wel imposant uit, maar de uitgezakte meubels missen comfort. Ontbijt is duur, maar bediening is slecht. Traag, koude ei-gerechten. Weinig flexibiliteit in bereidingen. Erg standaard dus. Er zijn veel betere hotels in Amsterdam beschikbaar.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "John Martens"
+      },
+      {
+        "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make a smile when she got there. The cocktail was alright. I ordered a cheese platter, which was the most boring platter I ever had, and I didn't get any explanation about the cheeses on the board. It also took forever for anypne tp come and check on mu table. At home, I realised I paid 40 EURO for a cocktail and a cheese platter, which seems way too expensive even for a place like this. But since I didn't ask for a receipt, I don't know if everything was charged correctly, so I have to let that one go. The ambience is very nice, though, and toilets are very clean, but I expected way more of a place like this.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Alta. jp"
+      }
+    ],
+    "service_negative": [
+      {
+        "text": "The worst hotel ever… shower room had very bad odor, like an old sewage pipe not working… room had many set up issues such as lights blinking and not all lights would go off even after turning off the master switch. The room size is very small. When I requested help on these issues, the front desk staff seemed quite used to such issues, so they didn’t a lot of understanding but only sent a technician up who didn’t help but left the gear switch door open so I couldn’t use toilet anymore… overall a fancy hotel with poor facilities and very poor customer service.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Ying Wu"
+      },
+      {
+        "text": "Worst experience ever. Dont  give your credit card information because they took your money without your permission and they lie about it !!!!! There is one blonde lady in the reseption and she dont know how to talk to costumer so rude!!!!!!! I WILL NEVER GO TO THIS HOTEL AGAİN !!!!!",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Ceyda Aydın"
+      },
+      {
+        "text": "Visited their lounge twice, both times they served me items with nuts (after clearly stating that I have a nut allergy). After asking a second time to be sure their were no nuts, the waiter pointed at one sweet that I shouldn’t have and that the rest was ok (it was the other way around….. as I soon found out….).\n\nWaiters also don’t seem to be trained well.\n\nThe matcha latte is undrinkable with apparently no ceremonial matcha. I only liked the taste of the almond milk.\n\nBoth times I was there I ordered “fresh” juices. I had a grapefruit juice and a mixed juice a.o. . Both juices tasted old, definitely not fresh. I was under the impression that I would get a freshly made juice. After asking the waiter, they were made early in the morning for breakfast and after that used for the rest of the day to be served….\n\nI also registered myself for the open day in their spa/fitness area, as I was curious about their services. I reserved a slot and didn’t receive a confirmation. I contacted them about this, never got a reply back.\n\nIt’s a joke to call yourself a 5-star hotel with this service.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Lidia B"
+      },
+      {
+        "text": "I was very disappointed with the hygiene and service quality during my stay. Today was my first day checking into the room, and I immediately noticed some concerning issues. There was ketchup on the floor near the head of the bed — clearly left behind by previous guests. I also found a brown stain on the bathrobe that resembled dried blood, and even saw a small bug crawling around.\n\nThese issues clearly indicate that the room was not properly cleaned or inspected before my arrival. I contacted Room Service, and although someone did come to check the situation, the visit ended without any action being taken — and more importantly, the staff member left without closing the door properly. I only realized later that the door had been left open, which is quite unsettling, especially at midnight.\n\nUnfortunately, this experience does not reflect the level of care and attention expected from a hotel of this standard.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "نورة النقير"
+      },
+      {
+        "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hotel in Bangkok met zijn perfectie in service en kwaliteit heeft geen navolging gekregen in Amsterdam. De kamers zijn gedateerd en missen onderhoud. Functieknoppen voor gordijnen en verlichting werken niet of uiterst traag. De bar is sfeerloos, met trage bediening en slechte drankjes. De hotellounge ziet nog wel imposant uit, maar de uitgezakte meubels missen comfort. Ontbijt is duur, maar bediening is slecht. Traag, koude ei-gerechten. Weinig flexibiliteit in bereidingen. Erg standaard dus. Er zijn veel betere hotels in Amsterdam beschikbaar.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "John Martens"
+      }
+    ],
+    "food_beverage_neutral": [
+      {
+        "text": "The building is beautiful and the staff impeccable. I would highlight the service at breakfast from Georgia every morning, who greeted us with the biggest smile. Amazing the variety and quality of the breakfast. Also, Richard's warmth and friendliness at reception. And the professionalism and helpfulness of the wonderful concierge team, Mark (I think) and his colleague (i can’t remember her name…). Thank you!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "olgacdf"
+      },
+      {
+        "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with large windows|Comfortable beds and fluffy pillows|An incredible, top-notch experience|Great spa|Heated pool|I recommend it 100%",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "lebl2025"
+      },
+      {
+        "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.  Absolutely amazing and beautiful hotel, rooms, and amenities. Very very unique experience - they have unparalleled views of Amsterdam city (there are no skyscrapers in this city so the rooms actually have truly unique views vs any other hotel). I want to specifically thank Richard, who was the kindest, warmest, friendliest and cheerful manager / host I’ve ever come across in my life. He walked us and our bags to our cab which was parked a small walk away from the hotel, and even the bus stop which was further out. He gave us an awe-inspiring and detailed tour of the space and our room and remembered details about all the guests he came across while walking through the hotel. He introduced us to all his other colleagues at the front desk - Jill and Sarah (if I remember correctly) who all treated us so so kindly and cheerfully. It truly made our stay so special. I recommend HIGHLY for everyone to come try staying here, or even just grab a slot for a breakfast in their courtyard. It’s definitely worth the experience to be in this beautiful hundred year old building with so much history. It really is the amazing staff team there that makes all the difference - they have changed our perception on European hospitality completely. We are definitely coming back!!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "A3712GBtg"
+      },
+      {
+        "text": "Normally, I don’t write reviews, or if I do, they’re positive. This is my first negative review here. I spend over 100 nights a year in truly excellent hotels, but what I experienced today was, unfortunately, tiring and frustrating.||I was traveling by car, and due to a large demonstration, access to the hotel was impossible — such things can happen, and one can prepare for that. However: there was no prior information about the situation, and the emails I sent to the hotel that morning went unanswered. Even by phone, it did not seem as though anyone wanted or was able to help.||I drove around Amsterdam for two hours, circling the demonstration, and was ultimately able to cancel (thank you for that!). When I asked why I hadn’t been informed, I was told that since I had booked through Amex Fine Resorts, they didn’t have my contact details. Yet both the spa and the restaurant had been booked in advance and confirmed to my personal email address. I also have a “Fans of MO” account, and Google could easily have helped.||For a Mandarin Oriental, where rates start at €900 per night, this was more than just a disappointment — it was a wasted Sunday.",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "travel_hedonist_D"
+      },
+      {
+        "text": "I have traveled quite extensively and have done spa treatments all over the world. This hotel & their attention to detail is superb..it’s actually effortless.||I transited through Amsterdam for one day on my way to Toronto to surprise my dad for his 70th birthday and since our birthdays are days apart I ended up alone in Amsterdam with a recommendation for this hotel. ||From the moment I walked in I was treated truly like a birthday princess, the front desk staff were so accommodating and sweet and the staff at the restaurant went out of their way to celebrate me. ||The spa treatment was so relaxing it was the perfect day! Thank you so much to Richard and all the staff who are so wonderfully professional and elegant. This is definitely the place to stay when in Amsterdam! And location is unbeatable! ||Can’t wait to return!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "ambray2025"
+      }
+    ],
+    "service_neutral": [
+      {
+        "text": "The building is beautiful and the staff impeccable. I would highlight the service at breakfast from Georgia every morning, who greeted us with the biggest smile. Amazing the variety and quality of the breakfast. Also, Richard's warmth and friendliness at reception. And the professionalism and helpfulness of the wonderful concierge team, Mark (I think) and his colleague (i can’t remember her name…). Thank you!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "olgacdf"
+      },
+      {
+        "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with large windows|Comfortable beds and fluffy pillows|An incredible, top-notch experience|Great spa|Heated pool|I recommend it 100%",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "lebl2025"
+      },
+      {
+        "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.  Absolutely amazing and beautiful hotel, rooms, and amenities. Very very unique experience - they have unparalleled views of Amsterdam city (there are no skyscrapers in this city so the rooms actually have truly unique views vs any other hotel). I want to specifically thank Richard, who was the kindest, warmest, friendliest and cheerful manager / host I’ve ever come across in my life. He walked us and our bags to our cab which was parked a small walk away from the hotel, and even the bus stop which was further out. He gave us an awe-inspiring and detailed tour of the space and our room and remembered details about all the guests he came across while walking through the hotel. He introduced us to all his other colleagues at the front desk - Jill and Sarah (if I remember correctly) who all treated us so so kindly and cheerfully. It truly made our stay so special. I recommend HIGHLY for everyone to come try staying here, or even just grab a slot for a breakfast in their courtyard. It’s definitely worth the experience to be in this beautiful hundred year old building with so much history. It really is the amazing staff team there that makes all the difference - they have changed our perception on European hospitality completely. We are definitely coming back!!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "A3712GBtg"
+      },
+      {
+        "text": "Great sincronism between the arquitecture of the old building with modern arquitecture. Beautiful hotel with great, friendly service. A must in Amsterdam",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "enriqueaS4684YN"
+      },
+      {
+        "text": "Our duplex suite was beautiful and spacious and the staff were very warm and helpful.  It's great location near all of the museums and the high shopping street",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "jr0331"
+      }
+    ],
+    "amenities_neutral": [
+      {
+        "text": "The building is beautiful and the staff impeccable. I would highlight the service at breakfast from Georgia every morning, who greeted us with the biggest smile. Amazing the variety and quality of the breakfast. Also, Richard's warmth and friendliness at reception. And the professionalism and helpfulness of the wonderful concierge team, Mark (I think) and his colleague (i can’t remember her name…). Thank you!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "olgacdf"
+      },
+      {
+        "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with large windows|Comfortable beds and fluffy pillows|An incredible, top-notch experience|Great spa|Heated pool|I recommend it 100%",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "lebl2025"
+      },
+      {
+        "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.  Absolutely amazing and beautiful hotel, rooms, and amenities. Very very unique experience - they have unparalleled views of Amsterdam city (there are no skyscrapers in this city so the rooms actually have truly unique views vs any other hotel). I want to specifically thank Richard, who was the kindest, warmest, friendliest and cheerful manager / host I’ve ever come across in my life. He walked us and our bags to our cab which was parked a small walk away from the hotel, and even the bus stop which was further out. He gave us an awe-inspiring and detailed tour of the space and our room and remembered details about all the guests he came across while walking through the hotel. He introduced us to all his other colleagues at the front desk - Jill and Sarah (if I remember correctly) who all treated us so so kindly and cheerfully. It truly made our stay so special. I recommend HIGHLY for everyone to come try staying here, or even just grab a slot for a breakfast in their courtyard. It’s definitely worth the experience to be in this beautiful hundred year old building with so much history. It really is the amazing staff team there that makes all the difference - they have changed our perception on European hospitality completely. We are definitely coming back!!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "A3712GBtg"
+      },
+      {
+        "text": "Normally, I don’t write reviews, or if I do, they’re positive. This is my first negative review here. I spend over 100 nights a year in truly excellent hotels, but what I experienced today was, unfortunately, tiring and frustrating.||I was traveling by car, and due to a large demonstration, access to the hotel was impossible — such things can happen, and one can prepare for that. However: there was no prior information about the situation, and the emails I sent to the hotel that morning went unanswered. Even by phone, it did not seem as though anyone wanted or was able to help.||I drove around Amsterdam for two hours, circling the demonstration, and was ultimately able to cancel (thank you for that!). When I asked why I hadn’t been informed, I was told that since I had booked through Amex Fine Resorts, they didn’t have my contact details. Yet both the spa and the restaurant had been booked in advance and confirmed to my personal email address. I also have a “Fans of MO” account, and Google could easily have helped.||For a Mandarin Oriental, where rates start at €900 per night, this was more than just a disappointment — it was a wasted Sunday.",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "travel_hedonist_D"
+      },
+      {
+        "text": "I have traveled quite extensively and have done spa treatments all over the world. This hotel & their attention to detail is superb..it’s actually effortless.||I transited through Amsterdam for one day on my way to Toronto to surprise my dad for his 70th birthday and since our birthdays are days apart I ended up alone in Amsterdam with a recommendation for this hotel. ||From the moment I walked in I was treated truly like a birthday princess, the front desk staff were so accommodating and sweet and the staff at the restaurant went out of their way to celebrate me. ||The spa treatment was so relaxing it was the perfect day! Thank you so much to Richard and all the staff who are so wonderfully professional and elegant. This is definitely the place to stay when in Amsterdam! And location is unbeatable! ||Can’t wait to return!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "ambray2025"
+      }
+    ],
+    "community_positive": [
+      {
+        "text": "This is our favorite coffee spot in Amsterdam to relax after a day of shopping. The atmosphere is cozy, the staff are super friendly, and the cheese croquettes are a must-try — we often come here just for those!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Sema Özkan Çetin"
+      },
+      {
+        "text": "Amazing staff and quiet atmosphere. Superb attention to detail, family friendly.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Inês Pizarro Correia"
+      },
+      {
+        "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and it was a good stay. Fast forward to 2025, I thought of checking other hotels options but said better stay in something I tried before. And let me tell you, something has changed in those 3 years and I am not sure what! Was it management, type of training or all, but I assure you, if you stay in this hotel, the stay will be so memorable that you will not even think of checking for other hotel options if you ever comeback again to Amsterdam.\n\nStaff: porters, front desk, concierge, cleaners, they all speak the same language. Not generalizing here, they are all positive and show that they are there to make your stay as easy and happy as possible.  They are so ready to go the extra mile to support and provide services that you may need. Honestly, you feel like part of a community or a family.\n\nRooms: very very clean! No mistakes, no marks, just a very neat and clean room/suite. If you like classic or contemporary design, the rooms have this balance (very rare). Given it is a historic building, yet, equipped with all modern amenities and tools, you will feel a sense of style, class and modernity. Very interesting but works so well for most tastes.\n\nGym and Spa. Haven’t tried the Spa, but I see them fully booked all the time, so means there is something to it.on the other hand, out of my 5 night stay, I went 3 times to the gym and I can tell you, it is almost impossible to get a sizable and well equipped gym in a hotel. This one was well equipped. Push, pull and leg days will be done perfectly. Barbells, dumbbells, raw machine, stepmaster, kettlebells, assault cycle, etc… it is all there. They have a wellness/yoga room with towels and mats positioned in the room so you can just enter and enjoy. Water machine, ready lemon water, and espresso machine. Small lockers for your small items are there as well.\n\nLobby/breakfast: hands down the best French Toast and organic egg you can try in Amsterdam. The service was immaculate. Evenings at the lobby were very relaxing where you can enjoy some quite time or some quality conversations.\n\nLooking for class, style, good feel, excellent service and hospitality, this is the place for you\n\nLooking for loud vibe, crazy atmosphere then this is absolutely not for you\n\nThank you “Conservatorium Team” for a wonderful experience\n\nHabis & Zeinelabdin families",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "I zein"
+      },
+      {
+        "text": "Wonderful location-close to museums, restaurants and concert hall! Loved the atmosphere and service while we stayed there for 3 nights in June 2025. Would definitely recommend and hope to stay here again in the future.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Julie Kurtz"
+      },
+      {
+        "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From the moment you walk in, you feel an overwhelming sense of warmth and elegance—it truly feels like home.\n\nThe hotel itself is breathtaking. Architecturally stunning and perfectly located in the Museum Quarter, it offers easy access to the best of Amsterdam’s culture, art, and charm. But what truly sets it apart is the people. The staff are among the kindest and most genuinely helpful individuals I’ve encountered. Every interaction felt personal and sincere.\n\nWe had a hiccup with our reservation, and Tina was absolutely amazing—so patient and kind while I tried to sort things out with a terrible connection from a moving train. She handled everything with grace and made what could’ve been stressful feel effortless.\n\nTo our delight, the hotel had left special gifts in the room for my kids—a thoughtful touch that meant so much to our family. Their attention to detail is unmatched.\n\nThe food? Extraordinary. Every bite was a delight, whether it was breakfast, room service, or dining in one of their exceptional restaurants.\n\nThis trip was extra special because I brought my children along for the first time. They were in awe and said it was the most beautiful place they’ve ever stayed. That says it all.\n\nIf you’re searching for a place to stay in Amsterdam—look no further. The Conservatorium is not just a hotel, it’s an experience. I honestly wish I had more reasons to travel to Amsterdam, just so I could stay here again. We will absolutely be back.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "LR Libby"
+      }
+    ],
+    "food_beverage_positive": [
+      {
+        "text": "This is our favorite coffee spot in Amsterdam to relax after a day of shopping. The atmosphere is cozy, the staff are super friendly, and the cheese croquettes are a must-try — we often come here just for those!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Sema Özkan Çetin"
+      },
+      {
+        "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible with a fantastic vegetarian selection. Concierge is helpful for helping plan the day and they have a great selection of bikes available to rent including one with a child seat.\n\nThe location is superb - especially for families. There are multiple amazing places to relax between the spa and the lobby. Finally - the building itself is an architectural masterpiece which makes you never want to leave.\n\nThank you for a very memorable trip.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shripal Doshi"
+      },
+      {
+        "text": "Dropped in for lunch!  The food was delicious and the service superb!  Thank you Noelia for a lovely experience!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Judith Mackin"
+      },
+      {
+        "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many museums and very quiet at night. Rooms, beds and pillows were wonderful. I highly recommend!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shai N"
+      },
+      {
+        "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and it was a good stay. Fast forward to 2025, I thought of checking other hotels options but said better stay in something I tried before. And let me tell you, something has changed in those 3 years and I am not sure what! Was it management, type of training or all, but I assure you, if you stay in this hotel, the stay will be so memorable that you will not even think of checking for other hotel options if you ever comeback again to Amsterdam.\n\nStaff: porters, front desk, concierge, cleaners, they all speak the same language. Not generalizing here, they are all positive and show that they are there to make your stay as easy and happy as possible.  They are so ready to go the extra mile to support and provide services that you may need. Honestly, you feel like part of a community or a family.\n\nRooms: very very clean! No mistakes, no marks, just a very neat and clean room/suite. If you like classic or contemporary design, the rooms have this balance (very rare). Given it is a historic building, yet, equipped with all modern amenities and tools, you will feel a sense of style, class and modernity. Very interesting but works so well for most tastes.\n\nGym and Spa. Haven’t tried the Spa, but I see them fully booked all the time, so means there is something to it.on the other hand, out of my 5 night stay, I went 3 times to the gym and I can tell you, it is almost impossible to get a sizable and well equipped gym in a hotel. This one was well equipped. Push, pull and leg days will be done perfectly. Barbells, dumbbells, raw machine, stepmaster, kettlebells, assault cycle, etc… it is all there. They have a wellness/yoga room with towels and mats positioned in the room so you can just enter and enjoy. Water machine, ready lemon water, and espresso machine. Small lockers for your small items are there as well.\n\nLobby/breakfast: hands down the best French Toast and organic egg you can try in Amsterdam. The service was immaculate. Evenings at the lobby were very relaxing where you can enjoy some quite time or some quality conversations.\n\nLooking for class, style, good feel, excellent service and hospitality, this is the place for you\n\nLooking for loud vibe, crazy atmosphere then this is absolutely not for you\n\nThank you “Conservatorium Team” for a wonderful experience\n\nHabis & Zeinelabdin families",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "I zein"
+      }
+    ],
+    "service_positive": [
+      {
+        "text": "This is our favorite coffee spot in Amsterdam to relax after a day of shopping. The atmosphere is cozy, the staff are super friendly, and the cheese croquettes are a must-try — we often come here just for those!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Sema Özkan Çetin"
+      },
+      {
+        "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible with a fantastic vegetarian selection. Concierge is helpful for helping plan the day and they have a great selection of bikes available to rent including one with a child seat.\n\nThe location is superb - especially for families. There are multiple amazing places to relax between the spa and the lobby. Finally - the building itself is an architectural masterpiece which makes you never want to leave.\n\nThank you for a very memorable trip.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shripal Doshi"
+      },
+      {
+        "text": "Amazing staff and quiet atmosphere. Superb attention to detail, family friendly.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Inês Pizarro Correia"
+      },
+      {
+        "text": "Dropped in for lunch!  The food was delicious and the service superb!  Thank you Noelia for a lovely experience!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Judith Mackin"
+      },
+      {
+        "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Riana Ilango"
+      }
+    ],
+    "room_quality_neutral": [
+      {
+        "text": "A wonderful hotel with beautiful architecture|A true 5-star experience|Hotel staff pays attention to every detail|Delicious a la carte breakfast, plus a buffet and fresh juices|Beautiful room with large windows|Comfortable beds and fluffy pillows|An incredible, top-notch experience|Great spa|Heated pool|I recommend it 100%",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "lebl2025"
+      },
+      {
+        "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.  Absolutely amazing and beautiful hotel, rooms, and amenities. Very very unique experience - they have unparalleled views of Amsterdam city (there are no skyscrapers in this city so the rooms actually have truly unique views vs any other hotel). I want to specifically thank Richard, who was the kindest, warmest, friendliest and cheerful manager / host I’ve ever come across in my life. He walked us and our bags to our cab which was parked a small walk away from the hotel, and even the bus stop which was further out. He gave us an awe-inspiring and detailed tour of the space and our room and remembered details about all the guests he came across while walking through the hotel. He introduced us to all his other colleagues at the front desk - Jill and Sarah (if I remember correctly) who all treated us so so kindly and cheerfully. It truly made our stay so special. I recommend HIGHLY for everyone to come try staying here, or even just grab a slot for a breakfast in their courtyard. It’s definitely worth the experience to be in this beautiful hundred year old building with so much history. It really is the amazing staff team there that makes all the difference - they have changed our perception on European hospitality completely. We are definitely coming back!!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "A3712GBtg"
+      },
+      {
+        "text": "The Hotel is conveniently located in the Museum District.  Close to the City Center, yet, a short walk away from the hustle & bustle of the city center.   Rooms are beautiful.  You will get a good nights sleep or if you prefer to work all day there is plenty of space for that as well.",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "GoPlaces39026246758"
+      },
+      {
+        "text": "Great sincronism between the arquitecture of the old building with modern arquitecture. Beautiful hotel with great, friendly service. A must in Amsterdam",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "enriqueaS4684YN"
+      },
+      {
+        "text": "Our duplex suite was beautiful and spacious and the staff were very warm and helpful.  It's great location near all of the museums and the high shopping street",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "jr0331"
+      }
+    ],
+    "location_neutral": [
+      {
+        "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.  Absolutely amazing and beautiful hotel, rooms, and amenities. Very very unique experience - they have unparalleled views of Amsterdam city (there are no skyscrapers in this city so the rooms actually have truly unique views vs any other hotel). I want to specifically thank Richard, who was the kindest, warmest, friendliest and cheerful manager / host I’ve ever come across in my life. He walked us and our bags to our cab which was parked a small walk away from the hotel, and even the bus stop which was further out. He gave us an awe-inspiring and detailed tour of the space and our room and remembered details about all the guests he came across while walking through the hotel. He introduced us to all his other colleagues at the front desk - Jill and Sarah (if I remember correctly) who all treated us so so kindly and cheerfully. It truly made our stay so special. I recommend HIGHLY for everyone to come try staying here, or even just grab a slot for a breakfast in their courtyard. It’s definitely worth the experience to be in this beautiful hundred year old building with so much history. It really is the amazing staff team there that makes all the difference - they have changed our perception on European hospitality completely. We are definitely coming back!!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "A3712GBtg"
+      },
+      {
+        "text": "The Hotel is conveniently located in the Museum District.  Close to the City Center, yet, a short walk away from the hustle & bustle of the city center.   Rooms are beautiful.  You will get a good nights sleep or if you prefer to work all day there is plenty of space for that as well.",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "GoPlaces39026246758"
+      },
+      {
+        "text": "I had an incredible & short stay at the property.  Next time probably I get to stay a bit longer . Lovely location and the highlight of my stay was your amazing colleague Richard at front desk who just had the natural flair to brighten up anyone’s day. He is a star .! Kudos to the team by the door they are amazing too !",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "anchal99"
+      },
+      {
+        "text": "Our duplex suite was beautiful and spacious and the staff were very warm and helpful.  It's great location near all of the museums and the high shopping street",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "jr0331"
+      },
+      {
+        "text": "We had a great stay at Conservatorium. Very helpful and friendly staff.  Arrived on our anniversary and staff went above and beyond to make us feel special. A great location near the sites in a very unique building.",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Foggwho"
+      }
+    ],
+    "pricing_neutral": [
+      {
+        "text": "I never leave any reviews ever, but I really have to leave one for this hotel given it has exceed my expectations in all aspects. Tho was the best experience I’ve had in Europe or in any luxury hotel.  Absolutely amazing and beautiful hotel, rooms, and amenities. Very very unique experience - they have unparalleled views of Amsterdam city (there are no skyscrapers in this city so the rooms actually have truly unique views vs any other hotel). I want to specifically thank Richard, who was the kindest, warmest, friendliest and cheerful manager / host I’ve ever come across in my life. He walked us and our bags to our cab which was parked a small walk away from the hotel, and even the bus stop which was further out. He gave us an awe-inspiring and detailed tour of the space and our room and remembered details about all the guests he came across while walking through the hotel. He introduced us to all his other colleagues at the front desk - Jill and Sarah (if I remember correctly) who all treated us so so kindly and cheerfully. It truly made our stay so special. I recommend HIGHLY for everyone to come try staying here, or even just grab a slot for a breakfast in their courtyard. It’s definitely worth the experience to be in this beautiful hundred year old building with so much history. It really is the amazing staff team there that makes all the difference - they have changed our perception on European hospitality completely. We are definitely coming back!!",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "A3712GBtg"
+      },
+      {
+        "text": "Not a top hotel...\nI had a great expectation but it came very short, the rooms are simple and lacks of luxury in relation of the price.\nThe service at the rooms is very basic, and the bars at the hotel close at 11:00pm so 10:30 pm they just don't serve more new customers, in summer time.\nThe gym is awesome very complete and large, the only thing is that they have a lot of staff but they don't offer any guidance or help, they just sit there and watch, they should be working with the customers.\nThe beds are little stiff on my opinion, I expected something more comfortable in this kind of hotel, the bed was very basic, no extta pillows, nothing...\nThis is a beautiful property but is much expensive that the real value.",
+        "stars": "3",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Sebastián Casares"
+      }
+    ],
+    "pricing_negative": [
+      {
+        "text": "Upon arrival at the hotel, we weren't given the room we booked because it was occupied! The two-story rooms were terribly uncomfortable and already shabby. On the second day, they gave us a room similar to the one we booked, but it was also in the attic with small windows, the beds were right next to the front door, and it was very noisy, making it difficult to sleep. The hotel itself was very dark; upon checkout, I waited 20 minutes for help with my luggage, and ended up having to go downstairs myself. I've had similar experiences in other hotels in Amsterdam, and I didn't like it at all! Although we booked a junior suite grand, it's also not worth the money! Especially when they give you a room in the attic.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Albert B"
+      },
+      {
+        "text": "Worst experience ever. Dont  give your credit card information because they took your money without your permission and they lie about it !!!!! There is one blonde lady in the reseption and she dont know how to talk to costumer so rude!!!!!!! I WILL NEVER GO TO THIS HOTEL AGAİN !!!!!",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Ceyda Aydın"
+      },
+      {
+        "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make a smile when she got there. The cocktail was alright. I ordered a cheese platter, which was the most boring platter I ever had, and I didn't get any explanation about the cheeses on the board. It also took forever for anypne tp come and check on mu table. At home, I realised I paid 40 EURO for a cocktail and a cheese platter, which seems way too expensive even for a place like this. But since I didn't ask for a receipt, I don't know if everything was charged correctly, so I have to let that one go. The ambience is very nice, though, and toilets are very clean, but I expected way more of a place like this.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Alta. jp"
+      }
+    ],
+    "noise_negative": [
+      {
+        "text": "Upon arrival at the hotel, we weren't given the room we booked because it was occupied! The two-story rooms were terribly uncomfortable and already shabby. On the second day, they gave us a room similar to the one we booked, but it was also in the attic with small windows, the beds were right next to the front door, and it was very noisy, making it difficult to sleep. The hotel itself was very dark; upon checkout, I waited 20 minutes for help with my luggage, and ended up having to go downstairs myself. I've had similar experiences in other hotels in Amsterdam, and I didn't like it at all! Although we booked a junior suite grand, it's also not worth the money! Especially when they give you a room in the attic.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Albert B"
+      }
+    ],
+    "location_positive": [
+      {
+        "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible with a fantastic vegetarian selection. Concierge is helpful for helping plan the day and they have a great selection of bikes available to rent including one with a child seat.\n\nThe location is superb - especially for families. There are multiple amazing places to relax between the spa and the lobby. Finally - the building itself is an architectural masterpiece which makes you never want to leave.\n\nThank you for a very memorable trip.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shripal Doshi"
+      },
+      {
+        "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Riana Ilango"
+      },
+      {
+        "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many museums and very quiet at night. Rooms, beds and pillows were wonderful. I highly recommend!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shai N"
+      },
+      {
+        "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — everyone was amazing.\nI also had a spa treatment at the hotel and it was absolutely wonderful.\nGreat location, excellent room service, and overall outstanding service. Everything was perfect!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Fajer KH"
+      },
+      {
+        "text": "The Conservatorium Hotel is an absolute must-stay when visiting Amsterdam. My partner and I stayed here in July for our first trip to the city, and it was truly stunning. From the moment you walk in, the hotel impresses with a beautiful glass ceiling that floods the space with natural light.\n\nThe service was impeccable. Every staff member we encountered was warm, kind, and genuinely welcoming. We stayed in a top-floor room that featured three skylights, including one in the bathroom, which added such a magical touch. The bed was incredibly comfortable, making it hard to leave in the morning!\n\nThe location is perfect! It’s just steps away from luxury boutiques and about a 15-minute walk to a vibrant neighborhood where we discovered the delicious Fabel Friet.\n\nHighly recommend this hotel for a luxurious and memorable stay in Amsterdam.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "L G"
+      }
+    ],
+    "amenities_positive": [
+      {
+        "text": "Our family stayed here for 4 nights and received the absolutely best service imaginable. The staff were friendly, helpful and made us feel like family with their hospitality.\n\nBreakfast was incredible with a fantastic vegetarian selection. Concierge is helpful for helping plan the day and they have a great selection of bikes available to rent including one with a child seat.\n\nThe location is superb - especially for families. There are multiple amazing places to relax between the spa and the lobby. Finally - the building itself is an architectural masterpiece which makes you never want to leave.\n\nThank you for a very memorable trip.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shripal Doshi"
+      },
+      {
+        "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many museums and very quiet at night. Rooms, beds and pillows were wonderful. I highly recommend!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shai N"
+      },
+      {
+        "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and it was a good stay. Fast forward to 2025, I thought of checking other hotels options but said better stay in something I tried before. And let me tell you, something has changed in those 3 years and I am not sure what! Was it management, type of training or all, but I assure you, if you stay in this hotel, the stay will be so memorable that you will not even think of checking for other hotel options if you ever comeback again to Amsterdam.\n\nStaff: porters, front desk, concierge, cleaners, they all speak the same language. Not generalizing here, they are all positive and show that they are there to make your stay as easy and happy as possible.  They are so ready to go the extra mile to support and provide services that you may need. Honestly, you feel like part of a community or a family.\n\nRooms: very very clean! No mistakes, no marks, just a very neat and clean room/suite. If you like classic or contemporary design, the rooms have this balance (very rare). Given it is a historic building, yet, equipped with all modern amenities and tools, you will feel a sense of style, class and modernity. Very interesting but works so well for most tastes.\n\nGym and Spa. Haven’t tried the Spa, but I see them fully booked all the time, so means there is something to it.on the other hand, out of my 5 night stay, I went 3 times to the gym and I can tell you, it is almost impossible to get a sizable and well equipped gym in a hotel. This one was well equipped. Push, pull and leg days will be done perfectly. Barbells, dumbbells, raw machine, stepmaster, kettlebells, assault cycle, etc… it is all there. They have a wellness/yoga room with towels and mats positioned in the room so you can just enter and enjoy. Water machine, ready lemon water, and espresso machine. Small lockers for your small items are there as well.\n\nLobby/breakfast: hands down the best French Toast and organic egg you can try in Amsterdam. The service was immaculate. Evenings at the lobby were very relaxing where you can enjoy some quite time or some quality conversations.\n\nLooking for class, style, good feel, excellent service and hospitality, this is the place for you\n\nLooking for loud vibe, crazy atmosphere then this is absolutely not for you\n\nThank you “Conservatorium Team” for a wonderful experience\n\nHabis & Zeinelabdin families",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "I zein"
+      },
+      {
+        "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — everyone was amazing.\nI also had a spa treatment at the hotel and it was absolutely wonderful.\nGreat location, excellent room service, and overall outstanding service. Everything was perfect!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Fajer KH"
+      },
+      {
+        "text": "Wonderful location-close to museums, restaurants and concert hall! Loved the atmosphere and service while we stayed there for 3 nights in June 2025. Would definitely recommend and hope to stay here again in the future.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Julie Kurtz"
+      }
+    ],
+    "noise_positive": [
+      {
+        "text": "Amazing staff and quiet atmosphere. Superb attention to detail, family friendly.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Inês Pizarro Correia"
+      },
+      {
+        "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many museums and very quiet at night. Rooms, beds and pillows were wonderful. I highly recommend!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shai N"
+      },
+      {
+        "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and it was a good stay. Fast forward to 2025, I thought of checking other hotels options but said better stay in something I tried before. And let me tell you, something has changed in those 3 years and I am not sure what! Was it management, type of training or all, but I assure you, if you stay in this hotel, the stay will be so memorable that you will not even think of checking for other hotel options if you ever comeback again to Amsterdam.\n\nStaff: porters, front desk, concierge, cleaners, they all speak the same language. Not generalizing here, they are all positive and show that they are there to make your stay as easy and happy as possible.  They are so ready to go the extra mile to support and provide services that you may need. Honestly, you feel like part of a community or a family.\n\nRooms: very very clean! No mistakes, no marks, just a very neat and clean room/suite. If you like classic or contemporary design, the rooms have this balance (very rare). Given it is a historic building, yet, equipped with all modern amenities and tools, you will feel a sense of style, class and modernity. Very interesting but works so well for most tastes.\n\nGym and Spa. Haven’t tried the Spa, but I see them fully booked all the time, so means there is something to it.on the other hand, out of my 5 night stay, I went 3 times to the gym and I can tell you, it is almost impossible to get a sizable and well equipped gym in a hotel. This one was well equipped. Push, pull and leg days will be done perfectly. Barbells, dumbbells, raw machine, stepmaster, kettlebells, assault cycle, etc… it is all there. They have a wellness/yoga room with towels and mats positioned in the room so you can just enter and enjoy. Water machine, ready lemon water, and espresso machine. Small lockers for your small items are there as well.\n\nLobby/breakfast: hands down the best French Toast and organic egg you can try in Amsterdam. The service was immaculate. Evenings at the lobby were very relaxing where you can enjoy some quite time or some quality conversations.\n\nLooking for class, style, good feel, excellent service and hospitality, this is the place for you\n\nLooking for loud vibe, crazy atmosphere then this is absolutely not for you\n\nThank you “Conservatorium Team” for a wonderful experience\n\nHabis & Zeinelabdin families",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "I zein"
+      },
+      {
+        "text": "The view is very nice, and the place is quiet, the service is friendly, the well-equipped hotel has a spa gym etc",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Radit"
+      },
+      {
+        "text": "Great hotel, amazing rooms and interior, good location in a quiet neighborhood of an otherwise very crowded Amsterdam. Within walking distance to all prominent museums (Rijkmuseum, Van Gogh Museum, Stedelijk Museum, Moco museum) and right behind the luxury shopping street of Pieter Cornelisz Hooftstraat. We visited during winter so the Christmas market is also within walking distance. We had the duplex room which has an amazing ambience, high ceiling and very comfortable. However be warned that you have to climb up and down the stairs to get from the bed to the living room/wardrobe/toilet, which we kind of regretted after the second day of our stay. Otherwise the hotel also features a very nice spa and gym, as well as a few luxury shops in the building. The lounge area is very popular with non hotel guests as well. Service is exceptional. Our arrival flight was early, way before check in time, but they let us use the spa shower facilities to freshen up. Both concierge and front office staff are very helpful and friendly too. Will definitely stay again.",
+        "stars": "4",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Antonius Howard"
+      }
+    ],
+    "room_quality_positive": [
+      {
+        "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Riana Ilango"
+      },
+      {
+        "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many museums and very quiet at night. Rooms, beds and pillows were wonderful. I highly recommend!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shai N"
+      },
+      {
+        "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and it was a good stay. Fast forward to 2025, I thought of checking other hotels options but said better stay in something I tried before. And let me tell you, something has changed in those 3 years and I am not sure what! Was it management, type of training or all, but I assure you, if you stay in this hotel, the stay will be so memorable that you will not even think of checking for other hotel options if you ever comeback again to Amsterdam.\n\nStaff: porters, front desk, concierge, cleaners, they all speak the same language. Not generalizing here, they are all positive and show that they are there to make your stay as easy and happy as possible.  They are so ready to go the extra mile to support and provide services that you may need. Honestly, you feel like part of a community or a family.\n\nRooms: very very clean! No mistakes, no marks, just a very neat and clean room/suite. If you like classic or contemporary design, the rooms have this balance (very rare). Given it is a historic building, yet, equipped with all modern amenities and tools, you will feel a sense of style, class and modernity. Very interesting but works so well for most tastes.\n\nGym and Spa. Haven’t tried the Spa, but I see them fully booked all the time, so means there is something to it.on the other hand, out of my 5 night stay, I went 3 times to the gym and I can tell you, it is almost impossible to get a sizable and well equipped gym in a hotel. This one was well equipped. Push, pull and leg days will be done perfectly. Barbells, dumbbells, raw machine, stepmaster, kettlebells, assault cycle, etc… it is all there. They have a wellness/yoga room with towels and mats positioned in the room so you can just enter and enjoy. Water machine, ready lemon water, and espresso machine. Small lockers for your small items are there as well.\n\nLobby/breakfast: hands down the best French Toast and organic egg you can try in Amsterdam. The service was immaculate. Evenings at the lobby were very relaxing where you can enjoy some quite time or some quality conversations.\n\nLooking for class, style, good feel, excellent service and hospitality, this is the place for you\n\nLooking for loud vibe, crazy atmosphere then this is absolutely not for you\n\nThank you “Conservatorium Team” for a wonderful experience\n\nHabis & Zeinelabdin families",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "I zein"
+      },
+      {
+        "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — everyone was amazing.\nI also had a spa treatment at the hotel and it was absolutely wonderful.\nGreat location, excellent room service, and overall outstanding service. Everything was perfect!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Fajer KH"
+      },
+      {
+        "text": "The Conservatorium Hotel is an absolute must-stay when visiting Amsterdam. My partner and I stayed here in July for our first trip to the city, and it was truly stunning. From the moment you walk in, the hotel impresses with a beautiful glass ceiling that floods the space with natural light.\n\nThe service was impeccable. Every staff member we encountered was warm, kind, and genuinely welcoming. We stayed in a top-floor room that featured three skylights, including one in the bathroom, which added such a magical touch. The bed was incredibly comfortable, making it hard to leave in the morning!\n\nThe location is perfect! It’s just steps away from luxury boutiques and about a 15-minute walk to a vibrant neighborhood where we discovered the delicious Fabel Friet.\n\nHighly recommend this hotel for a luxurious and memorable stay in Amsterdam.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "L G"
+      }
+    ],
+    "pricing_positive": [
+      {
+        "text": "Stayed December 2024 - good location and service. Nothing extraordinary, but very comfortable and well-priced.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Riana Ilango"
+      },
+      {
+        "text": "Blown away by how accommodating the staff was!  They really made us feel welcomed and valued. Even packed us breakfast for our early flight out last day. The hotel is a perfect location, near many museums and very quiet at night. Rooms, beds and pillows were wonderful. I highly recommend!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Shai N"
+      },
+      {
+        "text": "Attended an event there, it was lovely place and seems to be expensive. Very well maintained, awesome service, great facilities and good was yummy, especially at the Asian cafe",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Sandeep Bhogaraju"
+      },
+      {
+        "text": "這是一間非常高級的下午茶餐廳，早午餐時間的體驗超出預期。服務人員專業又親切，整體氛圍優雅安靜。\n在阿姆斯特丹市中心這樣寸土寸金的地段，竟然可以擁有挑高大廳與露天陽台的用餐空間，讓人感受到一種「被寵愛」的自由感。\n\n不只是適合吃早午餐，更是適合開會、拍照、放空、約會的理想場所。\n調酒品質非常頂級，調得細緻又有層次感。\n如果有機會選擇在這裡住上一晚，我會毫不猶豫推薦 —— 因為真的太值得了！\n\nThis is a truly refined spot for afternoon tea and brunch.\nService during brunch hours was impressively professional, and the entire ambiance exudes elegance.\n\nIn the heart of Amsterdam, it’s rare to find a space with such a high ceiling and an open-air terrace — dining here feels free, spacious, and special.\nThe cocktails are top-tier, with refined layers of flavor.\nIt’s the perfect place for a business meeting, a photo shoot, or simply treating yourself.\n\nIf you have the chance to stay overnight here, I’d absolutely recommend it. It’s worth every moment.\n\nDit is een zeer verfijnde plek voor afternoon tea en brunch.\nTijdens de brunchuren was de service buitengewoon professioneel en de sfeer straalt pure elegantie uit.\n\nIn het hart van Amsterdam is het zeldzaam om een plek te vinden met zo’n hoge plafonds én een openluchtterras.\nJe voelt je hier vrij en verwend.\nDe cocktails zijn van topkwaliteit — zorgvuldig en vol smaak.\n\nPerfect voor een meeting, een fotoshoot of gewoon om jezelf te verwennen.\nAls je hier een nacht kunt overnachten, zeker doen. Een echte aanrader!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "ShinyVbeauty"
+      },
+      {
+        "text": "A beautiful hotel with impeccable service! Our stay was truly magical, and I highly recommend adding the breakfast—it’s absolutely worth it!\n\nWe experienced a few electrical issues with our room, but the staff handled everything with genuine care and concern, ensuring our comfort.\n\nBonus: the Burger Spot and the Van Gogh Museum are just a 5-minute walk away, adding even more to the convenience and charm of this location.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Emily Scholten"
+      }
+    ],
+    "food_beverage_negative": [
+      {
+        "text": "Visited their lounge twice, both times they served me items with nuts (after clearly stating that I have a nut allergy). After asking a second time to be sure their were no nuts, the waiter pointed at one sweet that I shouldn’t have and that the rest was ok (it was the other way around….. as I soon found out….).\n\nWaiters also don’t seem to be trained well.\n\nThe matcha latte is undrinkable with apparently no ceremonial matcha. I only liked the taste of the almond milk.\n\nBoth times I was there I ordered “fresh” juices. I had a grapefruit juice and a mixed juice a.o. . Both juices tasted old, definitely not fresh. I was under the impression that I would get a freshly made juice. After asking the waiter, they were made early in the morning for breakfast and after that used for the rest of the day to be served….\n\nI also registered myself for the open day in their spa/fitness area, as I was curious about their services. I reserved a slot and didn’t receive a confirmation. I contacted them about this, never got a reply back.\n\nIt’s a joke to call yourself a 5-star hotel with this service.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Lidia B"
+      },
+      {
+        "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hotel in Bangkok met zijn perfectie in service en kwaliteit heeft geen navolging gekregen in Amsterdam. De kamers zijn gedateerd en missen onderhoud. Functieknoppen voor gordijnen en verlichting werken niet of uiterst traag. De bar is sfeerloos, met trage bediening en slechte drankjes. De hotellounge ziet nog wel imposant uit, maar de uitgezakte meubels missen comfort. Ontbijt is duur, maar bediening is slecht. Traag, koude ei-gerechten. Weinig flexibiliteit in bereidingen. Erg standaard dus. Er zijn veel betere hotels in Amsterdam beschikbaar.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "John Martens"
+      },
+      {
+        "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make a smile when she got there. The cocktail was alright. I ordered a cheese platter, which was the most boring platter I ever had, and I didn't get any explanation about the cheeses on the board. It also took forever for anypne tp come and check on mu table. At home, I realised I paid 40 EURO for a cocktail and a cheese platter, which seems way too expensive even for a place like this. But since I didn't ask for a receipt, I don't know if everything was charged correctly, so I have to let that one go. The ambience is very nice, though, and toilets are very clean, but I expected way more of a place like this.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Alta. jp"
+      },
+      {
+        "text": "Worst 5 star hotel/restaurant experience in my whole life. On 12.05.2024 i went there with my sister and friend to have a bday dinner, first of all the staff is rude and not interested at all ,it takes too long to order ,to get the food and drinks and its on a very very very unprofessional and low level all together! Second and worst part was that i left my leather hugo boss backpack with my 500eur tomford sunglasses inside under the table where we were seated , I called the hotel the next day and was told nothing was found! I told them to check the security cameras and find out what happened to my backpack, it was around 7:30pm when we left, they were  not interested just like when I called earlier and just told me to send an email if I want. Today 20.06.2024 my sister was in Amsterdam again and went there to ask about my belongings and was told again that nothing was found, they asked again did I sent an email etc, out of this i can only conclude it was stollen by one of waiters or other staff member and they dont want to take responsability for it because with the cameras and exact date and time I gave them they could have found out very easily what happened and where my belongings are!!! Horrible service plus i litterally got robbed there!\n\nBtw the manager tom roorda ignored my email completely and he just writes excuses here cuz he doesnt care if he would this hotel wouldnt be such a let down - just look up all the negative (true/genuine) reviews.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Anco 007"
+      },
+      {
+        "text": "The lounge of the Conservatorium Hotel is a nice place to relax, though it's a shame about the cool attitude of the bar staff. Without a smile, one doesn't feel welcome.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Dirk Deruyter"
+      }
+    ],
+    "amenities_negative": [
+      {
+        "text": "Visited their lounge twice, both times they served me items with nuts (after clearly stating that I have a nut allergy). After asking a second time to be sure their were no nuts, the waiter pointed at one sweet that I shouldn’t have and that the rest was ok (it was the other way around….. as I soon found out….).\n\nWaiters also don’t seem to be trained well.\n\nThe matcha latte is undrinkable with apparently no ceremonial matcha. I only liked the taste of the almond milk.\n\nBoth times I was there I ordered “fresh” juices. I had a grapefruit juice and a mixed juice a.o. . Both juices tasted old, definitely not fresh. I was under the impression that I would get a freshly made juice. After asking the waiter, they were made early in the morning for breakfast and after that used for the rest of the day to be served….\n\nI also registered myself for the open day in their spa/fitness area, as I was curious about their services. I reserved a slot and didn’t receive a confirmation. I contacted them about this, never got a reply back.\n\nIt’s a joke to call yourself a 5-star hotel with this service.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Lidia B"
+      },
+      {
+        "text": "Op zich een imposant gebouw aan de Van Baerlestraat. Ideaal voor bezoeken musea aan museumplein of voor winkelen op de PC. Is onderdeel van Mandarin Oriental. Daarvan merk ik niets. Het magnifieke hotel in Bangkok met zijn perfectie in service en kwaliteit heeft geen navolging gekregen in Amsterdam. De kamers zijn gedateerd en missen onderhoud. Functieknoppen voor gordijnen en verlichting werken niet of uiterst traag. De bar is sfeerloos, met trage bediening en slechte drankjes. De hotellounge ziet nog wel imposant uit, maar de uitgezakte meubels missen comfort. Ontbijt is duur, maar bediening is slecht. Traag, koude ei-gerechten. Weinig flexibiliteit in bereidingen. Erg standaard dus. Er zijn veel betere hotels in Amsterdam beschikbaar.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "John Martens"
+      },
+      {
+        "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make a smile when she got there. The cocktail was alright. I ordered a cheese platter, which was the most boring platter I ever had, and I didn't get any explanation about the cheeses on the board. It also took forever for anypne tp come and check on mu table. At home, I realised I paid 40 EURO for a cocktail and a cheese platter, which seems way too expensive even for a place like this. But since I didn't ask for a receipt, I don't know if everything was charged correctly, so I have to let that one go. The ambience is very nice, though, and toilets are very clean, but I expected way more of a place like this.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Alta. jp"
+      },
+      {
+        "text": "Worst 5 star hotel/restaurant experience in my whole life. On 12.05.2024 i went there with my sister and friend to have a bday dinner, first of all the staff is rude and not interested at all ,it takes too long to order ,to get the food and drinks and its on a very very very unprofessional and low level all together! Second and worst part was that i left my leather hugo boss backpack with my 500eur tomford sunglasses inside under the table where we were seated , I called the hotel the next day and was told nothing was found! I told them to check the security cameras and find out what happened to my backpack, it was around 7:30pm when we left, they were  not interested just like when I called earlier and just told me to send an email if I want. Today 20.06.2024 my sister was in Amsterdam again and went there to ask about my belongings and was told again that nothing was found, they asked again did I sent an email etc, out of this i can only conclude it was stollen by one of waiters or other staff member and they dont want to take responsability for it because with the cameras and exact date and time I gave them they could have found out very easily what happened and where my belongings are!!! Horrible service plus i litterally got robbed there!\n\nBtw the manager tom roorda ignored my email completely and he just writes excuses here cuz he doesnt care if he would this hotel wouldnt be such a let down - just look up all the negative (true/genuine) reviews.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Anco 007"
+      },
+      {
+        "text": "The lounge of the Conservatorium Hotel is a nice place to relax, though it's a shame about the cool attitude of the bar staff. Without a smile, one doesn't feel welcome.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Dirk Deruyter"
+      }
+    ],
+    "cleanliness_negative": [
+      {
+        "text": "I was very disappointed with the hygiene and service quality during my stay. Today was my first day checking into the room, and I immediately noticed some concerning issues. There was ketchup on the floor near the head of the bed — clearly left behind by previous guests. I also found a brown stain on the bathrobe that resembled dried blood, and even saw a small bug crawling around.\n\nThese issues clearly indicate that the room was not properly cleaned or inspected before my arrival. I contacted Room Service, and although someone did come to check the situation, the visit ended without any action being taken — and more importantly, the staff member left without closing the door properly. I only realized later that the door had been left open, which is quite unsettling, especially at midnight.\n\nUnfortunately, this experience does not reflect the level of care and attention expected from a hotel of this standard.",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "نورة النقير"
+      },
+      {
+        "text": "I can't rate the hotel or the restaurant because I only made use of the brasserie lounge. Service could be better. In my opinion I waited too long for a waiter to get to my table and she couldn't make a smile when she got there. The cocktail was alright. I ordered a cheese platter, which was the most boring platter I ever had, and I didn't get any explanation about the cheeses on the board. It also took forever for anypne tp come and check on mu table. At home, I realised I paid 40 EURO for a cocktail and a cheese platter, which seems way too expensive even for a place like this. But since I didn't ask for a receipt, I don't know if everything was charged correctly, so I have to let that one go. The ambience is very nice, though, and toilets are very clean, but I expected way more of a place like this.",
+        "stars": "2",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Alta. jp"
+      },
+      {
+        "text": "Don't go there this hotel using hire people working on zzp paying them almost nothing for they hard work .So if u stay there just know u support slavery.story is from one person which was clean there two days ago .",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Tomasz Linde"
+      }
+    ],
+    "cleanliness_positive": [
+      {
+        "text": "I am a very frequent traveler, so I believe I can help by sharing an honest review.\nThis was my 2nd time staying at the Conservatorium Hotel and I am glad I returned! My 1st stay was back in 2022 and it was a good stay. Fast forward to 2025, I thought of checking other hotels options but said better stay in something I tried before. And let me tell you, something has changed in those 3 years and I am not sure what! Was it management, type of training or all, but I assure you, if you stay in this hotel, the stay will be so memorable that you will not even think of checking for other hotel options if you ever comeback again to Amsterdam.\n\nStaff: porters, front desk, concierge, cleaners, they all speak the same language. Not generalizing here, they are all positive and show that they are there to make your stay as easy and happy as possible.  They are so ready to go the extra mile to support and provide services that you may need. Honestly, you feel like part of a community or a family.\n\nRooms: very very clean! No mistakes, no marks, just a very neat and clean room/suite. If you like classic or contemporary design, the rooms have this balance (very rare). Given it is a historic building, yet, equipped with all modern amenities and tools, you will feel a sense of style, class and modernity. Very interesting but works so well for most tastes.\n\nGym and Spa. Haven’t tried the Spa, but I see them fully booked all the time, so means there is something to it.on the other hand, out of my 5 night stay, I went 3 times to the gym and I can tell you, it is almost impossible to get a sizable and well equipped gym in a hotel. This one was well equipped. Push, pull and leg days will be done perfectly. Barbells, dumbbells, raw machine, stepmaster, kettlebells, assault cycle, etc… it is all there. They have a wellness/yoga room with towels and mats positioned in the room so you can just enter and enjoy. Water machine, ready lemon water, and espresso machine. Small lockers for your small items are there as well.\n\nLobby/breakfast: hands down the best French Toast and organic egg you can try in Amsterdam. The service was immaculate. Evenings at the lobby were very relaxing where you can enjoy some quite time or some quality conversations.\n\nLooking for class, style, good feel, excellent service and hospitality, this is the place for you\n\nLooking for loud vibe, crazy atmosphere then this is absolutely not for you\n\nThank you “Conservatorium Team” for a wonderful experience\n\nHabis & Zeinelabdin families",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "I zein"
+      },
+      {
+        "text": "One of the best hotels I’ve ever stayed in!\nExtremely clean, with a friendly, professional, and very helpful staff — from the doorman to the reception, housekeeping, breakfast team, and concierge — everyone was amazing.\nI also had a spa treatment at the hotel and it was absolutely wonderful.\nGreat location, excellent room service, and overall outstanding service. Everything was perfect!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Fajer KH"
+      },
+      {
+        "text": "For our little holiday, this was the perfect location and features. Cherry on top was the wonderful service staff!\n\nEspecially Sara (or Sarah, sorry didn't get exact spelling) at front desk was very helpful and attentive. It was our first time in Amsterdam, and she offered great advice and we had a nice chat too. We were treated with tea/coffee upon check-in while waiting for our room to be ready (we arrived in the morning so completely understandable).\n\nRoom was clean and beautiful, we didn't take too many pictures but enjoyed as much, if not more. The pool/SPA area was also great and not very crowded either - can be seasonal or just time of the day I imagine.\n\nVan Gogh Museum is across the street and Rijksmuseum is only a couple of blocks away too. You can catch trams 2, 5, 12 and buses in front.\n\nThe only thing I would say is the third day room cleaning. The check-in day was great - clean and tidy; second day was also very detailed and supplies replenished. However, the third day felt a bit rushed: towels not collected, Kleenex not refilled, dirty glasses not collected, no bottled water like previous day, etc.\n\nAll in all, this is what a great hotel (and hotel service) should look like! Not really complaining and would definitely stay again in the future when visiting.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Chuck S"
+      },
+      {
+        "text": "From the moment we arrived, everything was top-notch! Elegant decor, spacious and spotless rooms, and a staff that went above and beyond. The ambiance was both relaxing and luxurious, with fantastic dining and excellent facilities. Ideal location with easy access to attractions. Highly recommended for a flawless stay!",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Michael Ionitsa"
+      }
+    ],
+    "cleanliness_neutral": [
+      {
+        "text": "Great experience! Clean and good service. Very close to the big museums.",
+        "stars": "",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Trip.com Member"
+      }
+    ],
+    "wifi_positive": [
+      {
+        "text": "A Truly Exceptional Hotel – My Favorite in the World\n\nI’ve traveled to many countries and stayed in countless hotels, but the Conservatorium Hotel in Amsterdam stands out as my absolute favorite. From the moment you walk in, you feel an overwhelming sense of warmth and elegance—it truly feels like home.\n\nThe hotel itself is breathtaking. Architecturally stunning and perfectly located in the Museum Quarter, it offers easy access to the best of Amsterdam’s culture, art, and charm. But what truly sets it apart is the people. The staff are among the kindest and most genuinely helpful individuals I’ve encountered. Every interaction felt personal and sincere.\n\nWe had a hiccup with our reservation, and Tina was absolutely amazing—so patient and kind while I tried to sort things out with a terrible connection from a moving train. She handled everything with grace and made what could’ve been stressful feel effortless.\n\nTo our delight, the hotel had left special gifts in the room for my kids—a thoughtful touch that meant so much to our family. Their attention to detail is unmatched.\n\nThe food? Extraordinary. Every bite was a delight, whether it was breakfast, room service, or dining in one of their exceptional restaurants.\n\nThis trip was extra special because I brought my children along for the first time. They were in awe and said it was the most beautiful place they’ve ever stayed. That says it all.\n\nIf you’re searching for a place to stay in Amsterdam—look no further. The Conservatorium is not just a hotel, it’s an experience. I honestly wish I had more reasons to travel to Amsterdam, just so I could stay here again. We will absolutely be back.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "LR Libby"
+      },
+      {
+        "text": "I cannot begin to express how great our stay was at conservatorium hotel. Besides the amazing location, amenities and luxurious rooms, what blew us away was the staff in every single department that was so keen on providing attention to detail. Starting with exceptional bell service team who greeted us at the front of the hotel each and everyday, they always engaged with our young children making jokes and making them feel so welcome. Mateo who is the manager of the restaurant took care of our young family each morning, making sure we were taken well care of. To the front desk team, who coordinated special easter hunt activities for our kids in our rooms to even delivering carrots to our rooms because our kids requested them for the bunny rabbit. All to say, its the emotional connection that they made w our family that made this stay exceptional and above and beyond. Thank you to the entire team at Conservatorium hotel.",
+        "stars": "5",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Jin Hahm"
+      }
+    ],
+    "noise_neutral": [
+      {
+        "text": "The Conservatorium is a striking property in a great location.\n\nOur room was nice enough with one unfortunate issue — noise from the elevator motor audible throughout the night.\n\nWe ate breakfast in the lobby restaurant during our stay. The food was good, but service haphazard.\n\nOverall, good, not great.",
+        "stars": "3",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Paul Wiggin"
+      },
+      {
+        "text": "i spent 3 nights in the hotel . in one of their suites . big rooms . but the \"advertised\" soundproofing doesn't exist you can hear everything from everywhere, so if you are sensitive to noise, i wouldn't reccomend it.\nalso the service is quite bad... if you need anything apart from the room ( i asked for an extra pillow and an extra blanket ) ... they will say they will help but forget about it.\ni also asked for some additional water, same situation, they daid they d send someone and nobody ever came.",
+        "stars": "3",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Games,Movies and Tech Clips [HD]"
+      }
+    ],
+    "community_negative": [
+      {
+        "text": "Don't go there this hotel using hire people working on zzp paying them almost nothing for they hard work .So if u stay there just know u support slavery.story is from one person which was clean there two days ago .",
+        "stars": "1",
+        "location": "Conservatorium Hotel",
+        "reviewer": "Tomasz Linde"
+      }
+    ]
+  }
+}

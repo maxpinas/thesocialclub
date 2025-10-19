@@ -1,0 +1,173 @@
+[
+  {
+    "brand": "The Social Hub",
+    "google_maps": {
+      "total_reviews": 1000,
+      "positive_pct": 72.9,
+      "negative_pct": 8.8,
+      "top_themes": [
+        "amenities",
+        "room_quality",
+        "food_beverage",
+        "location",
+        "service"
+      ]
+    },
+    "parallel_research": {
+      "total_reviews": 0,
+      "platforms": "Booking.com: Limited snippets from 2 locations (Amsterdam City: 10,887 reviews reported, Berlin Alexanderplatz: 9,588 reviews reported); Reddit: 0 (login required); TripAdvisor: 0 (verification required); Instagram: 0 (login required); TikTok: 0 (login required); Facebook: 0 (login required); X/Twitter: 0 (login required)",
+      "positive_themes": "Excellent service/friendly staff (Amsterdam, Berlin), Great location/central location (Amsterdam, Berlin), Clean and modern rooms/facilities (Amsterdam, Berlin), Lively atmosphere/community vibe (Amsterdam, Berlin), Good breakfast/amenities (Amsterdam, Berlin)",
+      "negative_themes": "No specific negative themes could be reliably extracted from the limited snippets available."
+    },
+    "alignment": "Strong - themes align well"
+  },
+  {
+    "brand": "The Hoxton",
+    "google_maps": {
+      "total_reviews": 1200,
+      "positive_pct": 76.0,
+      "negative_pct": 9.2,
+      "top_themes": [
+        "service",
+        "food_beverage",
+        "room_quality",
+        "community",
+        "cleanliness"
+      ]
+    },
+    "parallel_research": {
+      "total_reviews": 33,
+      "platforms": "Reddit: 14, TripAdvisor: 1, Booking.com: 1, Instagram: 7, Blog: 6, Yelp: 1, Cond\u00e9 Nast Traveler: 1, The Hotel Guru: 1, Trivago: 1",
+      "positive_themes": "Room quality and amenities (n=13); Location and accessibility (n=6); Community and social atmosphere (n=7); Pricing and value perception (n=2); Service quality and staff (n=3); Food & beverage quality (n=5)",
+      "negative_themes": "Amenities/Facilities issues (n=1)"
+    },
+    "alignment": "Strong - themes align well"
+  },
+  {
+    "brand": "CitizenM",
+    "google_maps": {
+      "total_reviews": 1000,
+      "positive_pct": 71.3,
+      "negative_pct": 7.3,
+      "top_themes": [
+        "location",
+        "room_quality",
+        "cleanliness",
+        "service",
+        "pricing"
+      ]
+    },
+    "parallel_research": {
+      "total_reviews": 83,
+      "platforms": "Reddit: 7, Booking.com: 76",
+      "positive_themes": "Cleanliness (n=17), Friendly Staff (n=14), Good Location (n=14), Comfortable Beds (n=7), Modern Design (n=2), Technology Control (n=8), Good Breakfast (n=4), Good Value (n=4), Cool Vibe (n=1), Quiet Rooms (n=3), Great Views (n=3)",
+      "negative_themes": "Small Rooms (n=4), Lack Of Amenities (n=6), Noise (n=1), Membership Issues (n=1), High Price For Amenities (n=3), Unconventional Layout (n=2), Bad Location (n=1)"
+    },
+    "alignment": "Moderate - some theme overlap"
+  },
+  {
+    "brand": "Mama Shelter",
+    "google_maps": {
+      "total_reviews": 800,
+      "positive_pct": 74.0,
+      "negative_pct": 10.8,
+      "top_themes": [
+        "service",
+        "room_quality",
+        "food_beverage",
+        "cleanliness",
+        "amenities"
+      ]
+    },
+    "parallel_research": {
+      "total_reviews": 166,
+      "platforms": "Booking.com: 120, Reddit: 46",
+      "positive_themes": "General Positive (n=111); Location (n=21); Staff (n=19); Design (n=11); Room Comfort (n=9); Food Drink (n=7); Value (n=2)",
+      "negative_themes": "Room Comfort (n=1)"
+    },
+    "alignment": "Moderate - some theme overlap"
+  },
+  {
+    "brand": "Soho House",
+    "google_maps": {
+      "total_reviews": 937,
+      "positive_pct": 82.4,
+      "negative_pct": 11.4,
+      "top_themes": [
+        "location",
+        "food_beverage",
+        "amenities",
+        "room_quality",
+        "pricing"
+      ]
+    },
+    "parallel_research": {
+      "total_reviews": 250,
+      "platforms": "Reddit: ~40, Booking.com: ~60, TripAdvisor: ~80, Instagram/TikTok/Facebook/X: ~70",
+      "positive_themes": "Excellent Service & Friendly Staff (n=~50 across multiple locations): Repeatedly highlighted on Booking.com (Istanbul) and TripAdvisor (Berlin, Amsterdam). Guests appreciate attentive and helpful staff. Examples: \"Stunning architecture of the building , beautiful garden and lovely rooms. Excellent service.\" (Booking.com, Istanbul); \"Welcoming staff, well decorated room with very clean bathroom and amazing bath ...\" (TripAdvisor, Berlin).\nStunning Aesthetics & Design (n=~45 across multiple locations): Consistently praised across all platforms, particularly Instagram and TikTok. The unique ambiance and interior design are significant drawcards. Examples: \"Stunning architecture of the building\" (Booking.com, Istanbul); \"cool, artsy vibe\" (TripAdvisor, Barcelona); \"beautifully decorated rooms\" (TripAdvisor, Berlin).\nRooftop Pools & Views (n=~40 across multiple locations): A major highlight, especially in Barcelona, Istanbul, and Berlin. Offers unique social and relaxation spaces. Examples: \"incredible roof top with the pool is incredible, with amazing views of Barcelona\" (TripAdvisor, Barcelona); \"beautiful rooftop with a pool\" (TikTok, Amsterdam).\nGreat Location & Accessibility (n=~55 across multiple locations): Properties are often in central or desirable areas, offering convenience and good connectivity. Examples: \"Excellent location\" (Booking.com, Istanbul); \"first class opposite from the port and adjacent to the old town\" (TripAdvisor, Barcelona).\nHigh-Quality Amenities (Gym, Spa) (n=~35 across multiple locations): Well-equipped gyms and relaxing spa facilities are frequently mentioned as valuable perks, particularly for members. Examples: \"great gym; great spa\" (Booking.com, Istanbul); \"top-notch gym, spa\" (TripAdvisor, Berlin).",
+      "negative_themes": "Perceived Decline in Exclusivity/Overcrowding (n=~20, Reddit): Some members express concerns that Soho House has become too popular, leading to overcrowding, especially at pools and popular areas. Examples: \"it gets busy by the pool\" (TripAdvisor, Amsterdam); \"victim of its own success\" (Reddit).\nMembership Value Debate (n=~30, Reddit, Social Media): Ongoing discussions questioning whether the high membership fees are justified, particularly for those not utilizing all amenities or finding the atmosphere less exclusive. Examples: \"Is the soho house membership worth it?\" (Reddit, Barcelona); \"Soho House is over\" (Reddit).\nFood & Beverage Pricing/Quality (n=~15, TripAdvisor, Social Media): While generally positive, some comments indicate that food and beverage can be overpriced or average in quality for the price point. Examples: \"Food is priced high but average\" (TripAdvisor, Amsterdam).\nLanguage Barrier with Staff (n=~5, Booking.com, Istanbul): A few guests noted that not all staff spoke English, which caused minor communication issues.\nNoise (n=~5, Booking.com Istanbul): Soho House Istanbul is located among vibrant bars and clubs, where the atmosphere is lively and music can be energetic."
+    },
+    "alignment": "Strong - themes align well"
+  },
+  {
+    "brand": "Zoku",
+    "google_maps": {
+      "total_reviews": 800,
+      "positive_pct": 84.1,
+      "negative_pct": 4.2,
+      "top_themes": [
+        "location",
+        "room_quality",
+        "food_beverage",
+        "cleanliness",
+        "amenities"
+      ]
+    },
+    "parallel_research": {},
+    "alignment": "Unknown"
+  },
+  {
+    "brand": "Conservatorium Hotel",
+    "google_maps": {
+      "total_reviews": 200,
+      "positive_pct": 71.0,
+      "negative_pct": 8.0,
+      "top_themes": [
+        "room_quality",
+        "service",
+        "food_beverage",
+        "amenities",
+        "community"
+      ]
+    },
+    "parallel_research": {
+      "total_reviews": 35,
+      "platforms": "Reddit: ~10, Booking.com: ~20-25",
+      "positive_themes": "Exceptional Staff and Service (n=15+ across 2 platforms): Consistently highlighted across both platforms. Guests frequently praise the staff for being attentive, professional, friendly, welcoming, and going above and beyond (e.g., making anniversaries special). Specific mentions of concierge and front desk staff being amazing.\nPrime Location (n=10+ across 2 platforms): The hotel's location in Amsterdam's Museum Quarter, near major museums (Rijksmuseum, Van Gogh Museum), Vondelpark, and shopping areas, is a significant positive. It's described as central, perfect for exploring the city, and well-connected by tram.\nStunning Architecture and Design (n=5+ across 2 platforms): The hotel's unique historical building and modern, elegant design are highly appreciated. Phrases like \"stunning building,\" \"beautifully designed and decorated,\" and \"architectural marvel\" are common.\nHigh-Quality Rooms and Amenities (n=8+ across 2 platforms): Guests commend the spacious, immaculate, clean, fresh, and comfortable rooms. Mentions include Bluetooth speakers, well-kept lounges, and large bathrooms.\nExcellent Breakfast and Food & Beverage Options (n=5+ across 1 platform): The breakfast is frequently described as great and amazing, with excellent menu options. On-site restaurants also receive positive remarks.\nRelaxing Spa/Wellness Facilities (n=3+ across 1 platform): The spa area is noted for being relaxing, with nice saunas, pools, and jacuzzis, contributing to a positive experience.",
+      "negative_themes": "Pricing/Value Perception (n=2): Some guests found the hotel \"too pricy\" or \"V expensive,\" even if acknowledged as a special occasion. (Booking.com)\nNoise from Trams (n=1): The central location, while positive, can lead to noise from trams in the early morning. (Booking.com)\nMinor Room Issues (n=2): One review mentioned outdated TV (Reddit) and another noted non-standard/hard-to-use lighting controls and a ceiling shower head lacking space for lathering (Booking.com).\nSpa/Pool Limitations (n=2): Mentions of the spa being under refurbishment or having limited space. (Booking.com, Reddit)\nLimited Storage Space in Rooms (n=1): One guest noted a lack of storage space in the hotel rooms. (Booking.com)\nBreakfast Variety (n=1): A comment mentioned \"too less fresh vegetables for breakfast.\" (Booking.com)\nRoom Number Visibility (n=1): A suggestion for better visibility of room numbers in hallways. (Booking.com)"
+    },
+    "alignment": "Strong - themes align well"
+  },
+  {
+    "brand": "Working From_",
+    "google_maps": {
+      "total_reviews": 32,
+      "positive_pct": 90.6,
+      "negative_pct": 9.4,
+      "top_themes": [
+        "location",
+        "food_beverage",
+        "community",
+        "room_quality",
+        "amenities"
+      ]
+    },
+    "parallel_research": {
+      "total_reviews": 13,
+      "platforms": "Booking.com: 7, Instagram: 2, TikTok: 4",
+      "positive_themes": "Good location (n=2) - Examples: Good location you can walk into the centre easily. The hotel reception and restaurant were great, room was excellent and the staff were really helpful. Lovely bar area. ; Excellent stylish hotel with lovely helpful staff. Well located in the city centre minutes from the bustling rue neuve yet super quiet. Great facilities including a roof top bar on the 21st floor - excellent views across the whole city. Cannot praise the staff enough, they made our stay super special. thankyou!\nHelpful staff (n=2) - Examples: Good location you can walk into the centre easily. The hotel reception and restaurant were great, room was excellent and the staff were really helpful. Lovely bar area. ; Excellent stylish hotel with lovely helpful staff. Well located in the city centre minutes from the bustling rue neuve yet super quiet. Great facilities including a roof top bar on the 21st floor - excellent views across the whole city. Cannot praise the staff enough, they made our stay super special. thankyou!\nComfortable bed (n=1) - Examples: Hotel bed is comfortable and size of room is big enough. Good breakfast. Great location with short walk (about 15 minutes) to Center station and metro station.\nBig room (n=1) - Examples: Hotel bed is comfortable and size of room is big enough. Good breakfast. Great location with short walk (about 15 minutes) to Center station and metro station.\nGood breakfast (n=1) - Examples: Hotel bed is comfortable and size of room is big enough. Good breakfast. Great location with short walk (about 15 minutes) to Center station and metro station.\nGreat location (n=1) - Examples: Hotel bed is comfortable and size of room is big enough. Good breakfast. Great location with short walk (about 15 minutes) to Center station and metro station.\nStylish interior (n=1) - Examples: Hotel bed is comfortable and size of room is big enough. Good breakfast. Great location with short walk (about 15 minutes) to Center station and metro station.\nFriendly staff. (n=1) - Examples: Hotel bed is comfortable and size of room is big enough. Good breakfast. Great location with short walk (about 15 minutes) to Center station and metro station.\nFantastic chain (n=1) - Examples: What a fantastic chain of hotels these are. You feel at home the moment you land there. Parking was close by and affordable. But a bit small parking places. Take the rooms with a view - you will not regret it.\nFeels like home (n=1) - Examples: What a fantastic chain of hotels these are. You feel at home the moment you land there. Parking was close by and affordable. But a bit small parking places. Take the rooms with a view - you will not regret it. ; Working From_ Brussels, a coworking space that feels like home \ud83d\udecb\ufe0f\nAffordable (n=1) - Examples: What a fantastic chain of hotels these are. You feel at home the moment you land there. Parking was close by and affordable. But a bit small parking places. Take the rooms with a view - you will not regret it.\nParking (small). (n=1) - Examples: What a fantastic chain of hotels these are. You feel at home the moment you land there. Parking was close by and affordable. But a bit small parking places. Take the rooms with a view - you will not regret it.\nExcellent room (n=1) - Examples: Good location you can walk into the centre easily. The hotel reception and restaurant were great, room was excellent and the staff were really helpful. Lovely bar area.\nLovely bar area. (n=1) - Examples: Good location you can walk into the centre easily. The hotel reception and restaurant were great, room was excellent and the staff were really helpful. Lovely bar area.\nStylish (n=1) - Examples: Hotel bed is comfortable and size of room is big enough. Good breakfast. Great location with short walk (about 15 minutes) to Center station and metro station. ; Excellent stylish hotel with lovely helpful staff. Well located in the city centre minutes from the bustling rue neuve yet super quiet. Great facilities including a roof top bar on the 21st floor - excellent views across the whole city. Cannot praise the staff enough, they made our stay super special. thankyou!\nRooftop bar (n=1) - Examples: Excellent stylish hotel with lovely helpful staff. Well located in the city centre minutes from the bustling rue neuve yet super quiet. Great facilities including a roof top bar on the 21st floor - excellent views across the whole city. Cannot praise the staff enough, they made our stay super special. thankyou!\nViews. (n=1) - Examples: Excellent stylish hotel with lovely helpful staff. Well located in the city centre minutes from the bustling rue neuve yet super quiet. Great facilities including a roof top bar on the 21st floor - excellent views across the whole city. Cannot praise the staff enough, they made our stay super special. thankyou!\nSleek environment (n=1) - Examples: Working From_ Brussels, you're looking splendid. \ud83d\ude01 Expect a sleek environment, friendly crowd and super fast WiFi to help you produce your best work day in ...\nFriendly crowd (n=1) - Examples: Working From_ Brussels, you're looking splendid. \ud83d\ude01 Expect a sleek environment, friendly crowd and super fast WiFi to help you produce your best work day in ...\nSuper fast wifi. (n=1) - Examples: Working From_ Brussels, you're looking splendid. \ud83d\ude01 Expect a sleek environment, friendly crowd and super fast WiFi to help you produce your best work day in ...\nFeels like home. (n=1) - Examples: Working From_ Brussels, a coworking space that feels like home \ud83d\udecb\ufe0f\nBest stays (n=1) - Examples: one of the best stays I\u2019ve had in the city, need to go back! \u2728\nNeed to go back. (n=1) - Examples: one of the best stays I\u2019ve had in the city, need to go back! \u2728\nHome away from home. (n=1) - Examples: This branch was home away from home a while back, love it! \ud83d\ude0d\nFree coffee with dis-loyalty (n=1) - Examples: And a free coffee every day with Dis-Loyalty. Don\u2019t skip the octopus sandwich at Seabird \ud83e\udd0c\ud83c\udffc\nOctopus sandwich at seabird. (n=1) - Examples: And a free coffee every day with Dis-Loyalty. Don\u2019t skip the octopus sandwich at Seabird \ud83e\udd0c\ud83c\udffc\nSpecial occasion (n=1) - Examples: This content has made me book a room here we can\u2019t wait! Special occasion celebrating our anniversary so excited\nAnniversary (n=1) - Examples: This content has made me book a room here we can\u2019t wait! Special occasion celebrating our anniversary so excited\nExcited. (n=1) - Examples: This content has made me book a room here we can\u2019t wait! Special occasion celebrating our anniversary so excited",
+      "negative_themes": "Service in restaurant (n=1) - Examples: \nMessed up order. (n=1) - Examples: \nDirt under/behind bed. (n=1) - Examples: \nBathroom smell. (n=1) - Examples: "
+    },
+    "alignment": "Moderate - some theme overlap"
+  }
+]

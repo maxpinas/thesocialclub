@@ -1,0 +1,74 @@
+[
+  {
+    "Subject": "Working From_ on Google Reviews",
+    "What makes people happy": "productive environment (n=1), amenities (bag storage) (n=1), amenities (outdoor space) (n=1), amenities (lunch delivery) (n=1)",
+    "What frustrates people": "declining cleanliness/luxury (n=1), lack of amenities (snacks) (n=1), dirty facilities (toilets) (n=1), poor maintenance (n=1), membership cancellation/deposit issues (n=1)",
+    "What people wish for": "more outlets (outdoor rooftop patio) (n=1), larger kitchen table (n=1)",
+    "Pricing discovered": "Day Pass from $40/day (CoworkingCafe, Oct 18, 2025); Coworking Membership from $150/month (CoworkingCafe, Oct 18, 2025)",
+    "Target audience observed": "Professionals, remote workers, freelancers, small business owners (based on coworking space nature and review content)",
+    "Key quotes": "Positive: ['\"...Favorite co-working space. The vibe is much more warm and inviting than the many others we\\'ve tried...\" (Devin S, Jul 09 2024)']; Negative: ['\"...Favorite co-working space. The vibe is much more warm and inviting than the many others we\\'ve tried...\" (Lawrence Elloy, Mar 24 2025)', '\"...Favorite co-working space. The vibe is much more warm and inviting than the many others we\\'ve tried...\" (Aman Upadhyay, Apr 19 2024)']",
+    "Sample size": "n=3 reviews from 2024-2025",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2024-2025 data, limited sample size (n=3 reviews). Reviews are from a single source (CoworkingCafe, which aggregates Google Reviews). Specific membership model details are inferred from review content and general coworking space offerings.",
+    "Error": ""
+  },
+  {
+    "Subject": "Working From_ on Reddit",
+    "What makes people happy": "Comfort and Flexibility (n=5), Work-Life Balance (n=4), Increased Productivity (n=2), Saving time/money on commute (n=2)",
+    "What frustrates people": "Return to Office (RTO) mandates (n=1), Isolation/Loneliness (n=2), Burnout/Increased pressure (n=1), Underestimation of efforts by management (n=1), Lack of social interaction (n=1)",
+    "What people wish for": "Hybrid work options (n=1), Continued full remote work (n=1), More understanding from management regarding WFH benefits (n=1)",
+    "Pricing discovered": "Not explicitly found in the analyzed Reddit posts.",
+    "Target audience observed": "Programmers, digital marketers, sysadmins, and general office workers who previously commuted. Individuals seeking better work-life balance and comfort.",
+    "Key quotes": "Positive: \"For once in my life I actually feel like I have balance. There are moments, especially in the summertime, where I sit in my yard, take a breath, look around and absorb my surroundings, and find myself incredibly grateful for the life I have.\" (Source: r/programming, 2024-02-16). Negative: \"All working home did for me was make me depressed as I became a isolationist loner\" (Source: r/programming, 2024-02-16).",
+    "Sample size": "n=2 Reddit posts analyzed from 2024-2025",
+    "Data quality notes": "⭐⭐ Low confidence, 2024-2025 data, limited sample size from specific Reddit threads. Analysis based on qualitative review of a few posts, not a comprehensive quantitative study.",
+    "Error": ""
+  },
+  {
+    "Subject": "Working From_ on Instagram",
+    "What makes people happy": "Productive workday (n=1), appreciated bag storage (n=1), outdoor space (n=1), lunch delivery (n=1), state-of-the-art library/coworking (n=1), perfect for after-office studies (n=1), clean showers/pantry/rooms (n=1), access to printing/stationary/snacks/beverages/conference rooms/hotel wellness center (n=1), ability to bring guests (n=1), 24x7 access (n=1).",
+    "What frustrates people": "Lack of cleanliness (n=1), poor maintenance (n=1), lack of snacks (n=1), deposit retention after cancellation (n=2), main canteen area off-limits due to private events (n=1), terrible management (n=1), charged twice after cancellation (n=1), no reply to email (n=1).",
+    "What people wish for": "More outlets on outdoor rooftop patio and larger kitchen table (n=1).",
+    "Pricing discovered": "Day Pass: from $40/day\nCoworking Membership: from $150/month\nSource: CoworkingCafe (https://www.coworkingcafe.com/coworking-property/us/il/chicago/working-from_/)",
+    "Target audience observed": "Guests/visitors in Chicago looking for a productive workspace; Individuals seeking a library or coworking space for after-office studies, potentially for those with a \"Side Hustlers\" plan.",
+    "Key quotes": "Positive: \"I had a productive workday here as a guest. I appreciated the bag storage, outdoor space, and lunch delivery. I would totally work from here again when I’m in Chicago.\" (Devin S, Jul 09 2024)\nNegative: \"This place used to be nice but it’s just not luxury anymore , when I would come the tables would be greasy and dirty , never any snacks left , dirty toilets when I would visit in the morning , the daybeds have fluid stains on them , it’s a very weird experience because it seems nice at first , but once you start to really settle in it’s not maintained well.\" (Lawrence Elloy, Mar 24 2025)\nNegative (Management): \"Edit: The management is terrible and I\\'ve had so many bad experiences with this place that I\\'m forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file disputes to get them. They didn\\'t even reply to my email.\" (Aman Upadhyay, Apr 19 2024)",
+    "Sample size": "n=3 reviews from 2024-2025 (on CoworkingCafe)",
+    "Data quality notes": "Medium confidence, 2024-2025 data, limited to 3 reviews from one platform (CoworkingCafe). Instagram data was not directly accessible for sentiment analysis due to login requirements and lack of public aggregation tools for specific sentiment data. The provided reviews offer specific insights but may not be representative of the broader Instagram sentiment. Pricing information is directly from the CoworkingCafe page for the Chicago location. Target audience and membership model details are inferred from review content and general descriptions.",
+    "Error": ""
+  },
+  {
+    "Subject": "Working From_ on X/Twitter",
+    "What makes people happy": "1. Home-like atmosphere (n=many mentions on website): Described as 'A coworking space that feels like home,' with 'homely surrounds, comfy sofas, plenty of plants and big windows'. 2. Flexibility and variety (n=many mentions on website): Offers 'Studios', 'Desk Hop memberships', 'Side Hustler' options, and 'Day Passes' to suit different working styles. 3. All-inclusive amenities (n=many mentions on website): 'No sneaky add-ons,' 'meeting rooms included,' 'unlimited guests,' 'help yourself stationary cupboard,' 'Housemate café & bar,' 'desk service,' 'help-yourself pantry,' 'wellness room and fully equipped showers,' 'daily wellness classes,' 'curated speaker events,' 'top speed WiFi,' 'individual secure VLAN,' 'printers on each floor,' 'on-site tech manager,' 'chat bot,' 'wireless phone charging.'",
+    "What frustrates people": "No specific frustrations identified from available data.",
+    "What people wish for": "No specific wish list items identified from available data.",
+    "Pricing discovered": "Day Passes: Available, but pricing not explicitly stated on the main website. \"To book – reach out to your local WF_ space.\" (Working From_ official website)\nMemberships: Offered for Studios, Desk Hop, and Side Hustler, but specific pricing not detailed online. \"Honest and transparent pricing\" is listed as a benefit. (Working From_ official website)",
+    "Target audience observed": "Freelancers, founders, CEOs, teams, digital nomads, individuals seeking flexible work arrangements, and those who appreciate a comfortable, hospitality-driven coworking environment. Use cases include daily work, team collaboration, and temporary office needs. (Inferred from Working From_ official website and general descriptions).",
+    "Key quotes": "Positive: \"A coworking space that feels like home.\" (Working From_ official website)\nNegative: No specific negative quotes found directly related to the brand's X/Twitter sentiment for 2024-2025.",
+    "Sample size": "n=0 direct X/Twitter posts/reviews analyzed for 2024-2025. Information inferred from brand's self-description and news articles.",
+    "Data quality notes": "⭐⭐ Low confidence, 2024-2025 data, limited direct X/Twitter sentiment. Information inferred from brand's official website and general news mentions.",
+    "Error": ""
+  },
+  {
+    "Subject": "Working From_ on LinkedIn",
+    "What makes people happy": "Based on brand messaging: 'Homely surrounds, comfy sofas, plenty of plants and big windows' (n=1, inferred from website description); 'Fair use' policy with 'no sneaky small print, no rip-off rates, no worries' (n=1, inferred); 'Wellness classes and brain food, events that spark creativity' (n=1, inferred); 'WF_ anywhere' with free day passes to other locations (n=1, inferred); 'Mates' rates on Hoxton rooms, restaurants, and bars' (n=1, inferred); 'Flexible hours' (n=1, inferred).",
+    "What frustrates people": "Not explicitly found through direct user feedback. Inferred potential frustrations could include: Lack of direct social interaction (for those seeking more community, n=?) given the 'like home, without distractions' focus. (n=0)",
+    "What people wish for": "Not explicitly found through direct user feedback. Inferred potential wishes could include: More transparent pricing readily available online (n=?) (Source: workingfrom.com, Oct 2025 - lack of explicit pricing). More detailed information on community events and networking opportunities (n=?) (Source: workingfrom.com, Oct 2025 - general mention of 'events'). (n=0)' but inferred from website description)'.",
+    "Pricing discovered": "Pricing is not explicitly detailed on the public website (workingfrom.com). The site mentions 'Honest and transparent pricing' and 'No sneaky add-ons' as part of their 'Fair use' policy. Membership types include Studios, Desks (Desk Hop, Side Hustler), and Day Passes. Specific costs would require direct inquiry to local WF_ spaces (Source: workingfrom.com, Oct 2025).",
+    "Target audience observed": "Individuals seeking a comfortable, home-like coworking environment; remote workers looking to avoid home distractions; teams needing private or open studio spaces; freelancers/side hustlers requiring flexible access (evening/weekend shifts); digital nomads interested in working from different global locations (Brussels, London, Chicago); members who value hospitality perks (Hoxton hotel discounts). (Source: workingfrom.com, Oct 2025)",
+    "Key quotes": "No direct user quotes found from 2024-2025. Inferred positive sentiment from brand messaging: \"A coworking space that feels like home. Like working from home, without the distractions.\" (Source: workingfrom.com, Oct 2025). No negative quotes found.",
+    "Sample size": "n=0 direct user reviews/comments/posts analyzed from 2024-2025. Analysis is based on company website content and general web search results for the brand.",
+    "Data quality notes": "⭐⭐ Low confidence. Data primarily from the official 'Working From_' website (workingfrom.com) as of October 2025. Direct LinkedIn sentiment data for 2024-2025 was not accessible due to platform login requirements and the inability to scrape user-generated content. General web searches for reviews and sentiment for the specified period yielded limited specific, quantifiable data. Information on pricing is general, and specific member sentiment is inferred from the brand's stated values and offerings rather than direct user feedback.",
+    "Error": ""
+  },
+  {
+    "Subject": "Working From_ on Facebook",
+    "What makes people happy": "Based on the 'Working From_' website's self-description, potential happiness themes include: 'homely surrounds' (n=1, from website description), 'stress-free policies' (n=1), 'great perks' (n=1), 'flexible membership options' (n=1). These are promotional claims, not user-generated sentiment.",
+    "What frustrates people": "Not enough direct user sentiment data to identify specific frustration themes.",
+    "What people wish for": "Not enough direct user sentiment data to identify specific wish list items.",
+    "Pricing discovered": "Working From_ Chicago (Fulton Market) Membership Pricing (Source: workingfrom.com/chicago-fulton-market/memberships/, accessed Oct 18, 2025):\n- Private Studio: Starting at $4,950 per month ($825 per desk)\n- Open Studio: $550 per desk, per month\n- Desk Hop: $340 per person, per month\n- Side Hustler: $150 per person, per month\n- Day Pass: $40 per day (includes bottomless teas and coffees)",
+    "Target audience observed": "Based on website descriptions and general coworking trends: Freelancers, startups, remote workers, small businesses seeking flexible and affordable office solutions (Source: officernd.com/blog/coworking-space-industry/, Dec 12, 2024). Individuals seeking a 'home-like' coworking environment with amenities and hotel perks.",
+    "Key quotes": "No direct user quotes found from 2024-2025 data.",
+    "Sample size": "n=0 direct user reviews/comments/posts analyzed for 'Working From_' for 2024-2025. Data is based on company website information.",
+    "Data quality notes": "⭐⭐ Low confidence, 2024-2025 data, limited direct user sentiment. Information primarily derived from the official 'Working From_' website and general industry trends, not direct customer reviews.",
+    "Error": ""
+  }
+]

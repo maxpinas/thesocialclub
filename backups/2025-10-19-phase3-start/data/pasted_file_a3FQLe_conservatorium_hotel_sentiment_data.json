@@ -1,0 +1,74 @@
+[
+  {
+    "Subject": "Conservatorium Hotel on Booking.com",
+    "What makes people happy": "Positive experience (n=12), Staff (n=11), Location (n=8), Breakfast (n=2), Room (n=14)",
+    "What frustrates people": "Negative experience (n=4), Dark hallways (n=1), Limited space (n=1), Spa under refurbishment (n=1)",
+    "What people wish for": "Improved room number visibility (n=1), More fresh vegetables for breakfast (n=1)",
+    "Pricing discovered": "€200/night average, Booking.com 2024 (estimated)",
+    "Target audience observed": "Families, Leisure travelers, Couples, Business travelers",
+    "Key quotes": "\"I would repeat it!\" - •\n\"The best\" - •\n\"Amazing hotel and great location!\" - •",
+    "Sample size": "n=18 reviews from 2024-2025",
+    "Data quality notes": "⭐⭐⭐ Moderate confidence, 2024-2025 data, limited to available reviews on Booking.com. Manual extraction of themes and quotes.",
+    "Error": ""
+  },
+  {
+    "Subject": "Conservatorium Hotel on Google Reviews",
+    "What makes people happy": "Exceptional staff/service (n=5), Great location (n=3), Beautiful rooms/building (n=2), Spa treatments/attention to detail (n=1), Vegetarian breakfast (n=1), Comfortable rooms/beds/pillows (n=1)",
+    "What frustrates people": "Rooms lack luxury/simple (n=1), Bar closing time (n=1), Room amenities (n=1), Staff presence at gym (n=1)",
+    "What people wish for": "Longer stays (n=1), improved room luxury/amenities (n=1), extended bar hours (n=1), more attentive gym staff (n=1)",
+    "Pricing discovered": "Not explicitly mentioned in the analyzed reviews. The Google Hotels page showed an estimated $856 nightly for Oct 19-20, 2025.",
+    "Target audience observed": "Families (n=2), couples, luxury travelers, those seeking spa/wellness, museum visitors, business travelers",
+    "Key quotes": "Positive: \"The staff were friendly, helpful and made us feel like family with their hospitality.\" (Shripal Doshi, Google, 3 weeks ago)\nNegative: \"Not a top hotel... I had a great expectation but it came very short, the rooms are simple and lacks of luxury in relation of the price.\" (Sebastián Casares, Google, 2 months ago)",
+    "Sample size": "n=8 individual reviews analyzed from Google and Tripadvisor (August - October 2025)",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, reviews from August-October 2025. Limited number of reviews for in-depth statistical analysis. Focus on Google and Tripadvisor reviews.",
+    "Error": ""
+  },
+  {
+    "Subject": "Conservatorium Hotel on Reddit",
+    "What makes people happy": "Stunning building and central location (n=2), Good room design (n=1), Good value with corporate rates (n=1), Good for exploring museums/history/art (n=1)",
+    "What frustrates people": "Outdated room (n=1), Spa under renovation (n=1), Crowds/traffic in the area (n=1)",
+    "What people wish for": "Updated rooms/TV (n=1), Functional spa (n=1)",
+    "Pricing discovered": "Approximately 285 Euros per night with corporate rates (Reddit, May 2025)",
+    "Target audience observed": "Travelers seeking luxury hotels, couples on first Europe trip (honeymooners), those interested in museums/history/art, users with corporate travel rates.",
+    "Key quotes": "Positive: \"On the other hand the Conservatorium is in a stunning building and the position is really central.\" (FunkyAmarant, May 24, 2025)\nNegative: \"Couldn’t use the spa because was in renovation when I was there\" (FunkyAmarant, May 24, 2025)\nPricing: \"For The Conservatorium, I think it’s 285 euros.\" (jik002, May 25, 2025)",
+    "Sample size": "n=3 unique users providing specific sentiment/details from one Reddit thread (May-June 2025)",
+    "Data quality notes": "⭐⭐ Low confidence, data from May-June 2025. Limited discussion, primarily a comparison thread, not dedicated reviews.",
+    "Error": ""
+  },
+  {
+    "Subject": "Conservatorium Hotel on Instagram",
+    "What makes people happy": "Exceptional service & friendly staff (n=multiple mentions); Beautiful design & architecture (n=multiple mentions); Spacious & comfortable rooms (n=multiple mentions); Prime location for cultural attractions & shopping (n=multiple mentions); Extensive & relaxing spa/wellness facilities (n=multiple mentions); Excellent food & drink (n=multiple mentions); Thoughtful 'little extras' (n=multiple mentions); Commitment to sustainability (n=2 mentions).",
+    "What frustrates people": "Complicated lighting system (n=2 mentions, Booking.com); Noisy location due to trams (n=1 mention, Booking.com); Pricey (n=1 mention, Travel + Leisure).",
+    "What people wish for": "Quieter rooms (implied by tram noise frustration); Discounted offers for multiday stays (n=1 mention, Travel + Leisure); American Express benefits (n=1 mention, Travel + Leisure).",
+    "Pricing discovered": "Double rooms from €645 (£537) in low season; and from €795 (£662) in high. Breakfast excluded (€40 [£33]). (Source: The Telegraph, Feb 3, 2025).\nRates start from €945 per night. (Source: Citizen Femme, May 7, 2024).\nAs of Oct 15, 2025, prices found for a 1-night stay for 2 adults on Expedia start from $706.86 (approx. €660-670).",
+    "Target audience observed": "Luxury travelers, couples, families, business travelers, digital nomads (25-40, inferred from Travel + Leisure), design-conscious millennials, culture enthusiasts, high-end shoppers, and environmentally conscious guests. Appeals to those seeking a blend of history and modern luxury in a central location.",
+    "Key quotes": "Positive: \"Everything about this hotel is exceptional. From the moment you walk into the lobby to the welcome of the front desk/staff who were amazing...\" (Booking.com, August 21, 2025).\nPositive: \"An urbane, sleekly styled hotel that gives a contemporary makeover to a grand 19th-century building, bang in between Museumplein and Amsterdam’s chicest fashion street, with a heavenly spa and the best lobby-lounge in town. The food is excellent, rooms are spacious, and service engagingly friendly.\" (The Telegraph, Feb 3, 2025).\nNegative: \"Location has its downside. Its very well connected by Tram. Well the trams move! And the movement can be heard when the city is quiet (early morning).\" (Booking.com, August 21, 2025).",
+    "Sample size": "n=1 expert review (Travel + Leisure, Nov 2024); n=1 expert review (The Telegraph, Feb 2025); n=1 expert review (Citizen Femme, May 2024); n=121 aggregated guest reviews (Booking.com, various 2025).",
+    "Data quality notes": "⭐⭐⭐⭐ High confidence, 2024-2025 data, from expert reviews and aggregated guest reviews. Limitations: Instagram-specific sentiment was not directly obtainable due to platform restrictions, but general social media sentiment is reflected in aggregated reviews. Sample size varies per source (expert reviews n=1, Booking.com n=121).",
+    "Error": ""
+  },
+  {
+    "Subject": "Conservatorium Hotel on X/Twitter",
+    "What makes people happy": "Excellent location (n=2, Travel + Leisure, Booking.com), Beautiful and well-designed hotel/rooms (n=2, Travel + Leisure, Citizen Femme), Attentive and friendly staff (n=2, Travel + Leisure, Booking.com), Extensive spa and fitness facilities (n=2, Travel + Leisure, Citizen Femme), Great food and drink options (n=2, Travel + Leisure, Citizen Femme).",
+    "What frustrates people": "The articles did not explicitly mention frustrations or pain points. Booking.com reviews had a very high overall score (9.0), suggesting few significant frustrations.",
+    "What people wish for": "The articles did not explicitly mention unmet needs or feature requests.",
+    "Pricing discovered": "Travel + Leisure mentions: \"While this luxury hotel is going to be pricey no matter which way you slice it, look for occasional discounted offers on multiday stays.\" (Travel + Leisure, Nov 19, 2024). Citizen Femme states: \"Rates start from €945 per night.\" (Citizen Femme, May 7, 2024).",
+    "Target audience observed": "Luxury travelers, design-savvy travelers, those interested in cultural attractions (Museum Quarter, Vondelpark) and high-end dining/spa experiences. Mention of VIP guests and American Express Platinum card members suggests an affluent demographic.",
+    "Key quotes": "Positive: \"Travel + Leisure readers named it the best hotel in Amsterdam in 2024, too.\" (Travel + Leisure, Nov 19, 2024). \"The Conservatorium in Amsterdam expertly combines flawless hospitality with a thoughtful design approach for stay steeped in a rich...\" (Citizen Femme, May 7, 2024).",
+    "Sample size": "n=2 articles, n=256 Booking.com reviews (not filtered by date to 2024-2025 due to limitations).",
+    "Data quality notes": "⭐⭐ Low confidence. Data primarily from two travel articles (Travel + Leisure, Citizen Femme) and general Booking.com reviews. Direct X/Twitter data for 2024-2025 was unavailable. Limited sample size for sentiment analysis.",
+    "Error": ""
+  },
+  {
+    "Subject": "Conservatorium Hotel on Facebook",
+    "What makes people happy": "Excellent/attentive staff (n=6), Great/perfect location (n=4), Beautiful building/hotel (n=3), Immaculate/spacious/comfortable rooms (n=3), Great breakfast (n=2), Prompt housekeeping (n=2), Bluetooth speakers in room (n=1)",
+    "What frustrates people": "Tram noise (n=1), Dark hallway/room numbering (n=1), Lack of fresh vegetables at breakfast (n=1)",
+    "What people wish for": "Improved hallway lighting/room numbering (n=1), More fresh vegetables at breakfast (n=1)",
+    "Pricing discovered": "Not explicitly mentioned in the reviews. The Booking.com page shows 'updated prices 2025' but no specific figures.",
+    "Target audience observed": "Couples (n=5), Families (n=3). Guests from United States (n=4), United Kingdom (n=2), Belgium (n=1), Israel (n=1). Primarily leisure travelers.",
+    "Key quotes": "Positive: \"Stunning hotel. Attentive kind staff. Excellent breakfast and restaurants on site. Rooms were clean and fresh and comfortable. 10/10\" - Kristin, United States, June 21, 2025.\nNegative: \"It was too dark in the hallway, cannot see the room number. Room number should be on the door or next to the door, this would be much better to see like other Hotel.\" - Natarina, United States, May 16, 2025.",
+    "Sample size": "n=9 reviews from Booking.com (December 2024 - August 2025)",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2024-2025 data from Booking.com. Limited sample size (n=9 reviews) and no direct Facebook data due to access restrictions. Sentiment analysis is based on qualitative review content.",
+    "Error": ""
+  }
+]

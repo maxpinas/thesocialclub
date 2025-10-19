@@ -1,0 +1,763 @@
+{
+  "brand_name": "Working From_",
+  "total_reviews": 32,
+  "locations": {
+    "Working From_ The Hoxton Brussels": 15,
+    "Working From_Fulton Market": 4,
+    "Working From_Southwark": 13
+  },
+  "sentiment_distribution": {
+    "positive": 29,
+    "negative": 3
+  },
+  "star_distribution": {
+    "5": 26,
+    "2": 2,
+    "4": 3,
+    "1": 1
+  },
+  "themes": {
+    "location": {
+      "positive": [
+        {
+          "text": "Heel gezellige en flexibele werkplek. Een losse halve of hele dag kan er gewoon zonder abonnement. Prachtig ingericht, lekkere versnaperingen zoals koekjes en fruit inbegrepen, handige locatie op een ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Jozefien Maricou"
+        },
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonath",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Zohir Bellaari"
+        },
+        {
+          "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all th",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "adeline barras"
+        },
+        {
+          "text": "Working from the Hoxton: one of the best coworking spaces in Brussels!\nInspiring beautiful interior, diverse interesting people present and even dogs are welcome. 😊\nThe people from the Coworking space",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "vineeta"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file",
+          "stars": "1",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Aman Upadhyay"
+        }
+      ],
+      "neutral": []
+    },
+    "food_beverage": {
+      "positive": [
+        {
+          "text": "Heel gezellige en flexibele werkplek. Een losse halve of hele dag kan er gewoon zonder abonnement. Prachtig ingericht, lekkere versnaperingen zoals koekjes en fruit inbegrepen, handige locatie op een ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Jozefien Maricou"
+        },
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "Love the vibe of Working From environment! Inspiring atmosphere with magnificent design and great place to connect with other entrepreneurs. Peaceful working spaces and a great coffeeshop space to hav",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Ali Hamedani"
+        },
+        {
+          "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all th",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "adeline barras"
+        },
+        {
+          "text": "I had a productive workday here as a guest. I appreciated the bag storage, outdoor space, and lunch delivery. I would totally work from here again when I’m in Chicago.",
+          "stars": "5",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Devin S"
+        },
+        {
+          "text": "Beyond fantastic infrastructure, what  elevates this co-working space is the incredible team! From the front of house to the hosts, tech support, and cleaning crew – everyone is exceptionally professi",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Mohamed Osman"
+        }
+      ],
+      "negative": [],
+      "neutral": []
+    },
+    "community": {
+      "positive": [
+        {
+          "text": "Very nice place to work. You have plenty of space for informal meetings, rooms for formal meetings and booths for calls. And of course normal desks too!\n\nIf you stay at the hotel I recommend you to ta",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Sylvia Lorente van Berge Henegouwen"
+        },
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonath",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Zohir Bellaari"
+        },
+        {
+          "text": "Love the vibe of Working From environment! Inspiring atmosphere with magnificent design and great place to connect with other entrepreneurs. Peaceful working spaces and a great coffeeshop space to hav",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Ali Hamedani"
+        },
+        {
+          "text": "My favourite co-working space in the world. Stunning design, super friendly team and a huge diversity of spaces for concentrated working, meetings, chilling out or eating.",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Felix Reding"
+        },
+        {
+          "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all th",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "adeline barras"
+        },
+        {
+          "text": "Working from the Hoxton: one of the best coworking spaces in Brussels!\nInspiring beautiful interior, diverse interesting people present and even dogs are welcome. 😊\nThe people from the Coworking space",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "vineeta"
+        },
+        {
+          "text": "Great experience for a small team, having booked a meeting room- everything we needed and more- thanks for having us, we'll definitely be back!",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Zoe Cox"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file",
+          "stars": "1",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Aman Upadhyay"
+        }
+      ],
+      "neutral": []
+    },
+    "room_quality": {
+      "positive": [
+        {
+          "text": "Very nice place to work. You have plenty of space for informal meetings, rooms for formal meetings and booths for calls. And of course normal desks too!\n\nIf you stay at the hotel I recommend you to ta",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Sylvia Lorente van Berge Henegouwen"
+        },
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonath",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Zohir Bellaari"
+        },
+        {
+          "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all th",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "adeline barras"
+        },
+        {
+          "text": "Great experience for a small team, having booked a meeting room- everything we needed and more- thanks for having us, we'll definitely be back!",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Zoe Cox"
+        },
+        {
+          "text": "Beyond fantastic infrastructure, what  elevates this co-working space is the incredible team! From the front of house to the hosts, tech support, and cleaning crew – everyone is exceptionally professi",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Mohamed Osman"
+        },
+        {
+          "text": "Clean and well maintained. Not always someone on reception.",
+          "stars": "4",
+          "location": "Working From_Southwark",
+          "reviewer": "Kerstin MacCana"
+        }
+      ],
+      "negative": [
+        {
+          "text": "This place used to be nice but it’s just not luxury anymore , when I would come the tables would be greasy and dirty , never any snacks left , dirty toilets when I would visit in the morning , the day",
+          "stars": "2",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Lawrence Elloy"
+        },
+        {
+          "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file",
+          "stars": "1",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Aman Upadhyay"
+        },
+        {
+          "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language",
+          "stars": "2",
+          "location": "Working From_Southwark",
+          "reviewer": "N L"
+        }
+      ],
+      "neutral": []
+    },
+    "amenities": {
+      "positive": [
+        {
+          "text": "Very nice place to work. You have plenty of space for informal meetings, rooms for formal meetings and booths for calls. And of course normal desks too!\n\nIf you stay at the hotel I recommend you to ta",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Sylvia Lorente van Berge Henegouwen"
+        },
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "I’ve been in many different coworking places in Brussels but Working from in The Hoxton is the best by far!",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Raf Peeters"
+        },
+        {
+          "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonath",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Zohir Bellaari"
+        },
+        {
+          "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all th",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "adeline barras"
+        },
+        {
+          "text": "Working from the Hoxton: one of the best coworking spaces in Brussels!\nInspiring beautiful interior, diverse interesting people present and even dogs are welcome. 😊\nThe people from the Coworking space",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "vineeta"
+        }
+      ],
+      "negative": [
+        {
+          "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file",
+          "stars": "1",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Aman Upadhyay"
+        }
+      ],
+      "neutral": []
+    },
+    "service": {
+      "positive": [
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonath",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Zohir Bellaari"
+        },
+        {
+          "text": "I absolutely love this place. It's simply gorgeous and the staff is super friendly as well! You have so many different areas (areas for working in silence, a vibrant café area and even an inside garde",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Jesper van Gerven"
+        },
+        {
+          "text": "My favourite co-working space in the world. Stunning design, super friendly team and a huge diversity of spaces for concentrated working, meetings, chilling out or eating.",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Felix Reding"
+        },
+        {
+          "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all th",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "adeline barras"
+        },
+        {
+          "text": "Working from the Hoxton: one of the best coworking spaces in Brussels!\nInspiring beautiful interior, diverse interesting people present and even dogs are welcome. 😊\nThe people from the Coworking space",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "vineeta"
+        },
+        {
+          "text": "Beyond fantastic infrastructure, what  elevates this co-working space is the incredible team! From the front of house to the hosts, tech support, and cleaning crew – everyone is exceptionally professi",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Mohamed Osman"
+        },
+        {
+          "text": "Hosted an event here and it was amazing- the staff are great, the facilities are beautiful. Thank you to Rebecca and Luke for ensuring everything ran smoothly.",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Noreen Niazi"
+        },
+        {
+          "text": "I've been using Working From_Southwark for 9 months now - our office space is really nice, but all the breakout areas are amazing, especially the 12th floor cafe where i actually spend most of my time",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Adrian John"
+        },
+        {
+          "text": "Clean and well maintained. Not always someone on reception.",
+          "stars": "4",
+          "location": "Working From_Southwark",
+          "reviewer": "Kerstin MacCana"
+        }
+      ],
+      "negative": [
+        {
+          "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language",
+          "stars": "2",
+          "location": "Working From_Southwark",
+          "reviewer": "N L"
+        }
+      ],
+      "neutral": []
+    },
+    "pricing": {
+      "positive": [
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "Working from the Hoxton: one of the best coworking spaces in Brussels!\nInspiring beautiful interior, diverse interesting people present and even dogs are welcome. 😊\nThe people from the Coworking space",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "vineeta"
+        }
+      ],
+      "negative": [
+        {
+          "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language",
+          "stars": "2",
+          "location": "Working From_Southwark",
+          "reviewer": "N L"
+        }
+      ],
+      "neutral": []
+    },
+    "cleanliness": {
+      "positive": [
+        {
+          "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches ",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "Shelley Heugen"
+        },
+        {
+          "text": "Beyond fantastic infrastructure, what  elevates this co-working space is the incredible team! From the front of house to the hosts, tech support, and cleaning crew – everyone is exceptionally professi",
+          "stars": "5",
+          "location": "Working From_Southwark",
+          "reviewer": "Mohamed Osman"
+        },
+        {
+          "text": "Clean and well maintained. Not always someone on reception.",
+          "stars": "4",
+          "location": "Working From_Southwark",
+          "reviewer": "Kerstin MacCana"
+        }
+      ],
+      "negative": [
+        {
+          "text": "This place used to be nice but it’s just not luxury anymore , when I would come the tables would be greasy and dirty , never any snacks left , dirty toilets when I would visit in the morning , the day",
+          "stars": "2",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Lawrence Elloy"
+        },
+        {
+          "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file",
+          "stars": "1",
+          "location": "Working From_Fulton Market",
+          "reviewer": "Aman Upadhyay"
+        },
+        {
+          "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language",
+          "stars": "2",
+          "location": "Working From_Southwark",
+          "reviewer": "N L"
+        }
+      ],
+      "neutral": []
+    },
+    "wifi": {
+      "positive": [
+        {
+          "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all th",
+          "stars": "5",
+          "location": "Working From_ The Hoxton Brussels",
+          "reviewer": "adeline barras"
+        }
+      ],
+      "negative": [],
+      "neutral": []
+    }
+  },
+  "theme_counts": {
+    "location": 6,
+    "food_beverage": 6,
+    "community": 9,
+    "room_quality": 10,
+    "amenities": 7,
+    "service": 11,
+    "pricing": 3,
+    "cleanliness": 6,
+    "wifi": 1
+  },
+  "sample_quotes": {
+    "location_positive": [
+      {
+        "text": "Heel gezellige en flexibele werkplek. Een losse halve of hele dag kan er gewoon zonder abonnement. Prachtig ingericht, lekkere versnaperingen zoals koekjes en fruit inbegrepen, handige locatie op een steenworp van het station. Lekkere lunchopties in het café.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Jozefien Maricou"
+      },
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonathan (the \"pannini\" master 😄), the team is welcoming, and the equipment is top-notch. Not to mention the setting, which is quite simply exceptionalI !\nI highly recommend this place to all freelancers and businesses looking for a flexible and stimulating workspace.\nHighlights:\n* Inspiring and friendly environment\n* Welcoming and helpful team\n* State-of-the-art equipment\n* Ideal location\n* Perfectly suited for freelance work and small businesses\nOverall, Working From is a must-visit coworking space for anyone looking for a high-quality professional environment.\nRating: 5/5",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Zohir Bellaari"
+      },
+      {
+        "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all the things you might need.\nThe techy stuff\n\nTop speed WiFi\nIndividual secure VLAN\nPrinters on each floor\nOn-site tech manager\nReception team on hand for any requests\nWireless phone charging on desks\nWhile you’re working\n\nPhone booths for taking calls\nMeeting rooms (except for Day Pass)\nOpen libraries and comfy lounge areas on each floor\nHelp yourself pantries with snacks, teas and coffee, plus cupboards and fridges stocked with milk, mugs and glasses\nSpaces and services\n\n1st floor café serving barista coffees with comfy seats and daybeds\nOutdoor terrace\nDesk-side delivery available from the hotel restaurants\nSecure covered bike parking\nWellbeing\n\nWellness studio offering a peaceful area to enjoy programmed classes\nShowers stocked with Blank toiletries",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "adeline barras"
+      },
+      {
+        "text": "Working from the Hoxton: one of the best coworking spaces in Brussels!\nInspiring beautiful interior, diverse interesting people present and even dogs are welcome. 😊\nThe people from the Coworking space are super friendly and explain everything you need to know on your first day.\nYou can also eat and drink there at democratic nice prices.\nIt is very easy to access by public transport, bike or car.\nI highly recommend this place to work from!",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "vineeta"
+      }
+    ],
+    "food_beverage_positive": [
+      {
+        "text": "Heel gezellige en flexibele werkplek. Een losse halve of hele dag kan er gewoon zonder abonnement. Prachtig ingericht, lekkere versnaperingen zoals koekjes en fruit inbegrepen, handige locatie op een steenworp van het station. Lekkere lunchopties in het café.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Jozefien Maricou"
+      },
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "Love the vibe of Working From environment! Inspiring atmosphere with magnificent design and great place to connect with other entrepreneurs. Peaceful working spaces and a great coffeeshop space to have a talk with my guests while grabbing a coffee.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Ali Hamedani"
+      },
+      {
+        "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all the things you might need.\nThe techy stuff\n\nTop speed WiFi\nIndividual secure VLAN\nPrinters on each floor\nOn-site tech manager\nReception team on hand for any requests\nWireless phone charging on desks\nWhile you’re working\n\nPhone booths for taking calls\nMeeting rooms (except for Day Pass)\nOpen libraries and comfy lounge areas on each floor\nHelp yourself pantries with snacks, teas and coffee, plus cupboards and fridges stocked with milk, mugs and glasses\nSpaces and services\n\n1st floor café serving barista coffees with comfy seats and daybeds\nOutdoor terrace\nDesk-side delivery available from the hotel restaurants\nSecure covered bike parking\nWellbeing\n\nWellness studio offering a peaceful area to enjoy programmed classes\nShowers stocked with Blank toiletries",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "adeline barras"
+      },
+      {
+        "text": "I had a productive workday here as a guest. I appreciated the bag storage, outdoor space, and lunch delivery. I would totally work from here again when I’m in Chicago.",
+        "stars": "5",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Devin S"
+      }
+    ],
+    "community_positive": [
+      {
+        "text": "Very nice place to work. You have plenty of space for informal meetings, rooms for formal meetings and booths for calls. And of course normal desks too!\n\nIf you stay at the hotel I recommend you to take a package for the coworking too.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Sylvia Lorente van Berge Henegouwen"
+      },
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonathan (the \"pannini\" master 😄), the team is welcoming, and the equipment is top-notch. Not to mention the setting, which is quite simply exceptionalI !\nI highly recommend this place to all freelancers and businesses looking for a flexible and stimulating workspace.\nHighlights:\n* Inspiring and friendly environment\n* Welcoming and helpful team\n* State-of-the-art equipment\n* Ideal location\n* Perfectly suited for freelance work and small businesses\nOverall, Working From is a must-visit coworking space for anyone looking for a high-quality professional environment.\nRating: 5/5",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Zohir Bellaari"
+      },
+      {
+        "text": "Love the vibe of Working From environment! Inspiring atmosphere with magnificent design and great place to connect with other entrepreneurs. Peaceful working spaces and a great coffeeshop space to have a talk with my guests while grabbing a coffee.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Ali Hamedani"
+      },
+      {
+        "text": "My favourite co-working space in the world. Stunning design, super friendly team and a huge diversity of spaces for concentrated working, meetings, chilling out or eating.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Felix Reding"
+      }
+    ],
+    "room_quality_positive": [
+      {
+        "text": "Very nice place to work. You have plenty of space for informal meetings, rooms for formal meetings and booths for calls. And of course normal desks too!\n\nIf you stay at the hotel I recommend you to take a package for the coworking too.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Sylvia Lorente van Berge Henegouwen"
+      },
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonathan (the \"pannini\" master 😄), the team is welcoming, and the equipment is top-notch. Not to mention the setting, which is quite simply exceptionalI !\nI highly recommend this place to all freelancers and businesses looking for a flexible and stimulating workspace.\nHighlights:\n* Inspiring and friendly environment\n* Welcoming and helpful team\n* State-of-the-art equipment\n* Ideal location\n* Perfectly suited for freelance work and small businesses\nOverall, Working From is a must-visit coworking space for anyone looking for a high-quality professional environment.\nRating: 5/5",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Zohir Bellaari"
+      },
+      {
+        "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all the things you might need.\nThe techy stuff\n\nTop speed WiFi\nIndividual secure VLAN\nPrinters on each floor\nOn-site tech manager\nReception team on hand for any requests\nWireless phone charging on desks\nWhile you’re working\n\nPhone booths for taking calls\nMeeting rooms (except for Day Pass)\nOpen libraries and comfy lounge areas on each floor\nHelp yourself pantries with snacks, teas and coffee, plus cupboards and fridges stocked with milk, mugs and glasses\nSpaces and services\n\n1st floor café serving barista coffees with comfy seats and daybeds\nOutdoor terrace\nDesk-side delivery available from the hotel restaurants\nSecure covered bike parking\nWellbeing\n\nWellness studio offering a peaceful area to enjoy programmed classes\nShowers stocked with Blank toiletries",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "adeline barras"
+      },
+      {
+        "text": "Great experience for a small team, having booked a meeting room- everything we needed and more- thanks for having us, we'll definitely be back!",
+        "stars": "5",
+        "location": "Working From_Southwark",
+        "reviewer": "Zoe Cox"
+      }
+    ],
+    "amenities_positive": [
+      {
+        "text": "Very nice place to work. You have plenty of space for informal meetings, rooms for formal meetings and booths for calls. And of course normal desks too!\n\nIf you stay at the hotel I recommend you to take a package for the coworking too.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Sylvia Lorente van Berge Henegouwen"
+      },
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "I’ve been in many different coworking places in Brussels but Working from in The Hoxton is the best by far!",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Raf Peeters"
+      },
+      {
+        "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonathan (the \"pannini\" master 😄), the team is welcoming, and the equipment is top-notch. Not to mention the setting, which is quite simply exceptionalI !\nI highly recommend this place to all freelancers and businesses looking for a flexible and stimulating workspace.\nHighlights:\n* Inspiring and friendly environment\n* Welcoming and helpful team\n* State-of-the-art equipment\n* Ideal location\n* Perfectly suited for freelance work and small businesses\nOverall, Working From is a must-visit coworking space for anyone looking for a high-quality professional environment.\nRating: 5/5",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Zohir Bellaari"
+      },
+      {
+        "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all the things you might need.\nThe techy stuff\n\nTop speed WiFi\nIndividual secure VLAN\nPrinters on each floor\nOn-site tech manager\nReception team on hand for any requests\nWireless phone charging on desks\nWhile you’re working\n\nPhone booths for taking calls\nMeeting rooms (except for Day Pass)\nOpen libraries and comfy lounge areas on each floor\nHelp yourself pantries with snacks, teas and coffee, plus cupboards and fridges stocked with milk, mugs and glasses\nSpaces and services\n\n1st floor café serving barista coffees with comfy seats and daybeds\nOutdoor terrace\nDesk-side delivery available from the hotel restaurants\nSecure covered bike parking\nWellbeing\n\nWellness studio offering a peaceful area to enjoy programmed classes\nShowers stocked with Blank toiletries",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "adeline barras"
+      }
+    ],
+    "service_positive": [
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "Working From Brussels is a great coworking space that offers a perfect setting to work freely and productively.\nThe atmosphere is professional and friendly (special thanks to Gennesis, Gill and Jonathan (the \"pannini\" master 😄), the team is welcoming, and the equipment is top-notch. Not to mention the setting, which is quite simply exceptionalI !\nI highly recommend this place to all freelancers and businesses looking for a flexible and stimulating workspace.\nHighlights:\n* Inspiring and friendly environment\n* Welcoming and helpful team\n* State-of-the-art equipment\n* Ideal location\n* Perfectly suited for freelance work and small businesses\nOverall, Working From is a must-visit coworking space for anyone looking for a high-quality professional environment.\nRating: 5/5",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Zohir Bellaari"
+      },
+      {
+        "text": "I absolutely love this place. It's simply gorgeous and the staff is super friendly as well! You have so many different areas (areas for working in silence, a vibrant café area and even an inside garden area) and plenty of phoneboots. Had a lovely and productive day. I will come back here for sure!",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Jesper van Gerven"
+      },
+      {
+        "text": "My favourite co-working space in the world. Stunning design, super friendly team and a huge diversity of spaces for concentrated working, meetings, chilling out or eating.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Felix Reding"
+      },
+      {
+        "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all the things you might need.\nThe techy stuff\n\nTop speed WiFi\nIndividual secure VLAN\nPrinters on each floor\nOn-site tech manager\nReception team on hand for any requests\nWireless phone charging on desks\nWhile you’re working\n\nPhone booths for taking calls\nMeeting rooms (except for Day Pass)\nOpen libraries and comfy lounge areas on each floor\nHelp yourself pantries with snacks, teas and coffee, plus cupboards and fridges stocked with milk, mugs and glasses\nSpaces and services\n\n1st floor café serving barista coffees with comfy seats and daybeds\nOutdoor terrace\nDesk-side delivery available from the hotel restaurants\nSecure covered bike parking\nWellbeing\n\nWellness studio offering a peaceful area to enjoy programmed classes\nShowers stocked with Blank toiletries",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "adeline barras"
+      }
+    ],
+    "pricing_positive": [
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "Working from the Hoxton: one of the best coworking spaces in Brussels!\nInspiring beautiful interior, diverse interesting people present and even dogs are welcome. 😊\nThe people from the Coworking space are super friendly and explain everything you need to know on your first day.\nYou can also eat and drink there at democratic nice prices.\nIt is very easy to access by public transport, bike or car.\nI highly recommend this place to work from!",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "vineeta"
+      }
+    ],
+    "cleanliness_positive": [
+      {
+        "text": "Very convenient and great co-working space!\n\nWorking at Working From _ The Hoxton has been a pleasure: they have everything you need and more! From desk with the right lighting to comfortable couches on each floor, from a very good canteen with the best soups (and democratic prices) to nice teas and coffees in the office, from super clean facilities to beautiful meeting rooms. Couldn't recommend it more!\n\nThe team is very helpful and solutions-oriented, and they go the extra mile to organise other activities (breakfasts, talks etc) as well.",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "Shelley Heugen"
+      },
+      {
+        "text": "Beyond fantastic infrastructure, what  elevates this co-working space is the incredible team! From the front of house to the hosts, tech support, and cleaning crew – everyone is exceptionally professional and eager to assist. A huge shoutout to Bryon at the 12th-floor cafe for awesome coffee and outstanding hospitality✨",
+        "stars": "5",
+        "location": "Working From_Southwark",
+        "reviewer": "Mohamed Osman"
+      },
+      {
+        "text": "Clean and well maintained. Not always someone on reception.",
+        "stars": "4",
+        "location": "Working From_Southwark",
+        "reviewer": "Kerstin MacCana"
+      }
+    ],
+    "wifi_positive": [
+      {
+        "text": "I enjoyed my time there !\n\nExtract from their website :\n\nGet your best work done with us\n\nWe strive to make things as comfy and convenient for you as possible by covering all bases and offering all the things you might need.\nThe techy stuff\n\nTop speed WiFi\nIndividual secure VLAN\nPrinters on each floor\nOn-site tech manager\nReception team on hand for any requests\nWireless phone charging on desks\nWhile you’re working\n\nPhone booths for taking calls\nMeeting rooms (except for Day Pass)\nOpen libraries and comfy lounge areas on each floor\nHelp yourself pantries with snacks, teas and coffee, plus cupboards and fridges stocked with milk, mugs and glasses\nSpaces and services\n\n1st floor café serving barista coffees with comfy seats and daybeds\nOutdoor terrace\nDesk-side delivery available from the hotel restaurants\nSecure covered bike parking\nWellbeing\n\nWellness studio offering a peaceful area to enjoy programmed classes\nShowers stocked with Blank toiletries",
+        "stars": "5",
+        "location": "Working From_ The Hoxton Brussels",
+        "reviewer": "adeline barras"
+      }
+    ],
+    "room_quality_negative": [
+      {
+        "text": "This place used to be nice but it’s just not luxury anymore , when I would come the tables would be greasy and dirty , never any snacks left , dirty toilets when I would visit in the morning , the daybeds have fluid stains on them , it’s a very weird experience because it seems nice at first , but once you start to really settle in it’s not maintained well. I ended up cancelling my membership and they keep your deposit without one month notice but it’s not like the deposits are being used to make repairs or improvements . Not to mention the same space that we pay a membership for they rent out for private events multiple times a week and let us know the main canteen area will be off limits to members.",
+        "stars": "2",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Lawrence Elloy"
+      },
+      {
+        "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file disputes to get them. They didn't even reply to my email.\n\nState of the art library and coworking space!I've taken The Side Hustlers plan which is prefect for after-office studies.\nThe shower, pantry, rooms are all kept clean and filled up frequently.\nYou have access to printing, stationary, snacks, beverages, conference rooms, the hotel's wellness centre, etc. You can bring in guests for meetings too. Highly recommended to try if you want a library or Coworking space that's open 24x7!",
+        "stars": "1",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Aman Upadhyay"
+      },
+      {
+        "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language.\n\nWhen I sat down at the desks, I coughed into my elbow, to which she then proceeded to shout at me from across the kitchen to 'wear a mask.' I was not coughing repeatedly; it was one cough that was covered. For £54, you'd expect to eat the granola provided and cough without being accosted. This will be the last time I visit.",
+        "stars": "2",
+        "location": "Working From_Southwark",
+        "reviewer": "N L"
+      }
+    ],
+    "cleanliness_negative": [
+      {
+        "text": "This place used to be nice but it’s just not luxury anymore , when I would come the tables would be greasy and dirty , never any snacks left , dirty toilets when I would visit in the morning , the daybeds have fluid stains on them , it’s a very weird experience because it seems nice at first , but once you start to really settle in it’s not maintained well. I ended up cancelling my membership and they keep your deposit without one month notice but it’s not like the deposits are being used to make repairs or improvements . Not to mention the same space that we pay a membership for they rent out for private events multiple times a week and let us know the main canteen area will be off limits to members.",
+        "stars": "2",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Lawrence Elloy"
+      },
+      {
+        "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file disputes to get them. They didn't even reply to my email.\n\nState of the art library and coworking space!I've taken The Side Hustlers plan which is prefect for after-office studies.\nThe shower, pantry, rooms are all kept clean and filled up frequently.\nYou have access to printing, stationary, snacks, beverages, conference rooms, the hotel's wellness centre, etc. You can bring in guests for meetings too. Highly recommended to try if you want a library or Coworking space that's open 24x7!",
+        "stars": "1",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Aman Upadhyay"
+      },
+      {
+        "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language.\n\nWhen I sat down at the desks, I coughed into my elbow, to which she then proceeded to shout at me from across the kitchen to 'wear a mask.' I was not coughing repeatedly; it was one cough that was covered. For £54, you'd expect to eat the granola provided and cough without being accosted. This will be the last time I visit.",
+        "stars": "2",
+        "location": "Working From_Southwark",
+        "reviewer": "N L"
+      }
+    ],
+    "location_negative": [
+      {
+        "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file disputes to get them. They didn't even reply to my email.\n\nState of the art library and coworking space!I've taken The Side Hustlers plan which is prefect for after-office studies.\nThe shower, pantry, rooms are all kept clean and filled up frequently.\nYou have access to printing, stationary, snacks, beverages, conference rooms, the hotel's wellness centre, etc. You can bring in guests for meetings too. Highly recommended to try if you want a library or Coworking space that's open 24x7!",
+        "stars": "1",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Aman Upadhyay"
+      }
+    ],
+    "community_negative": [
+      {
+        "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file disputes to get them. They didn't even reply to my email.\n\nState of the art library and coworking space!I've taken The Side Hustlers plan which is prefect for after-office studies.\nThe shower, pantry, rooms are all kept clean and filled up frequently.\nYou have access to printing, stationary, snacks, beverages, conference rooms, the hotel's wellness centre, etc. You can bring in guests for meetings too. Highly recommended to try if you want a library or Coworking space that's open 24x7!",
+        "stars": "1",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Aman Upadhyay"
+      }
+    ],
+    "amenities_negative": [
+      {
+        "text": "Edit: The management is terrible and I've had so many bad experiences with this place that I'm forced to edit my 5 star review. I was charged twice 40 days after canceling my membership. I had to file disputes to get them. They didn't even reply to my email.\n\nState of the art library and coworking space!I've taken The Side Hustlers plan which is prefect for after-office studies.\nThe shower, pantry, rooms are all kept clean and filled up frequently.\nYou have access to printing, stationary, snacks, beverages, conference rooms, the hotel's wellness centre, etc. You can bring in guests for meetings too. Highly recommended to try if you want a library or Coworking space that's open 24x7!",
+        "stars": "1",
+        "location": "Working From_Fulton Market",
+        "reviewer": "Aman Upadhyay"
+      }
+    ],
+    "pricing_negative": [
+      {
+        "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language.\n\nWhen I sat down at the desks, I coughed into my elbow, to which she then proceeded to shout at me from across the kitchen to 'wear a mask.' I was not coughing repeatedly; it was one cough that was covered. For £54, you'd expect to eat the granola provided and cough without being accosted. This will be the last time I visit.",
+        "stars": "2",
+        "location": "Working From_Southwark",
+        "reviewer": "N L"
+      }
+    ],
+    "service_negative": [
+      {
+        "text": "I have been here a few times and loved it, but the cleaner, Elisa, was incredibly rude tonight. She was annoyed at me for eating granola at 6 p.m. and proceeded to mutter something in her own language.\n\nWhen I sat down at the desks, I coughed into my elbow, to which she then proceeded to shout at me from across the kitchen to 'wear a mask.' I was not coughing repeatedly; it was one cough that was covered. For £54, you'd expect to eat the granola provided and cough without being accosted. This will be the last time I visit.",
+        "stars": "2",
+        "location": "Working From_Southwark",
+        "reviewer": "N L"
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "metadata": {
+    "source": "Multi-Platform Research",
+    "total_reviews": 580,
+    "platforms": ["Reddit", "Booking.com", "TripAdvisor", "Instagram", "TikTok", "Facebook", "X/Twitter"],
+    "collection_date": "October 2025",
+    "purpose": "Supplementary qualitative insights to complement Google Maps quantitative data"
+  },
+  "brands": {
+    "the-social-hub": {
+      "total_reviews": 0,
+      "note": "Limited data available due to platform access restrictions (Booking.com login required)",
+      "locations": ["Amsterdam", "Berlin", "Vienna", "Paris", "Toulouse", "Bologna", "Florence", "Rome", "The Hague", "Eindhoven", "Groningen", "Rotterdam", "Lisbon", "Porto", "Barcelona", "Madrid", "San Sebastian", "Glasgow"],
+      "key_insights": {
+        "positive_themes": [
+          "Excellent service and friendly staff",
+          "Great central location",
+          "Clean and modern rooms/facilities",
+          "Lively atmosphere and community vibe",
+          "Good breakfast and amenities"
+        ],
+        "negative_themes": [],
+        "pricing": "Exceptional value for money mentioned in Amsterdam snippets",
+        "membership": "No specific mentions found"
+      }
+    },
+    "the-hoxton": {
+      "total_reviews": 33,
+      "platform_breakdown": {
+        "Reddit": 14,
+        "Instagram": 7,
+        "Blog": 6,
+        "TripAdvisor": 1,
+        "Booking.com": 1,
+        "Yelp": 1,
+        "Condé Nast Traveler": 1,
+        "The Hotel Guru": 1,
+        "Trivago": 1
+      },
+      "locations": ["Amsterdam", "Barcelona", "Berlin", "Dublin", "London (multiple)", "Paris", "Rome"],
+      "key_insights": {
+        "positive_themes": [
+          {
+            "theme": "Room quality and amenities",
+            "count": 13,
+            "description": "Guests consistently praise room comfort, design, and amenities"
+          },
+          {
+            "theme": "Community and social atmosphere",
+            "count": 7,
+            "description": "The social vibe and community feeling are major draws"
+          },
+          {
+            "theme": "Location and accessibility",
+            "count": 6,
+            "description": "Central locations with good transport links"
+          },
+          {
+            "theme": "Food & beverage quality",
+            "count": 5,
+            "description": "Positive feedback on restaurant and bar offerings"
+          },
+          {
+            "theme": "Service quality and staff",
+            "count": 3,
+            "description": "Friendly and helpful staff"
+          }
+        ],
+        "negative_themes": [
+          {
+            "theme": "Amenities/facilities issues",
+            "count": 1,
+            "description": "Minor complaints about facilities"
+          }
+        ],
+        "pricing": {
+          "sentiment": "Mixed - generally positive value perception",
+          "examples": [
+            "Pretty good value for the discount on first stay/new openings (Reddit, London)",
+            "One of the better values available on THC (Reddit, Amsterdam)",
+            "Really cool properties in price range (Reddit, Barcelona)"
+          ]
+        },
+        "membership": {
+          "sentiment": "Positive",
+          "insight": "Monthly rolling membership with good value, especially for first stays and new openings. Daily free benefits mentioned for those working nearby."
+        }
+      }
+    },
+    "citizenm": {
+      "total_reviews": 83,
+      "platform_breakdown": {
+        "Booking.com": 76,
+        "Reddit": 7
+      },
+      "locations": ["Amsterdam Amstel", "Amsterdam South", "Paris", "Paris Champs-Élysées", "Paris Gare de Lyon", "Tower of London", "London"],
+      "key_insights": {
+        "positive_themes": [
+          {
+            "theme": "Cleanliness",
+            "count": 17,
+            "description": "Sparkling clean rooms consistently mentioned"
+          },
+          {
+            "theme": "Friendly staff",
+            "count": 14,
+            "description": "Very friendly, polite, and helpful staff"
+          },
+          {
+            "theme": "Good location",
+            "count": 14,
+            "description": "Central locations close to metro/tram"
+          },
+          {
+            "theme": "Technology control",
+            "count": 8,
+            "description": "App control for lighting, AC, TV, blinds is a unique selling point"
+          },
+          {
+            "theme": "Comfortable beds",
+            "count": 7,
+            "description": "Super comfortable beds with quality bedding"
+          },
+          {
+            "theme": "Good breakfast",
+            "count": 4,
+            "description": "Quality breakfast offerings"
+          },
+          {
+            "theme": "Good value",
+            "count": 4,
+            "description": "Amazing value if you don't want to overpay for central hotels"
+          }
+        ],
+        "negative_themes": [
+          {
+            "theme": "Small rooms",
+            "count": 4,
+            "description": "Rooms are compact, not suitable for those wanting space"
+          },
+          {
+            "theme": "Lack of amenities",
+            "count": 6,
+            "description": "Limited amenities compared to traditional hotels"
+          },
+          {
+            "theme": "High price for amenities",
+            "count": 3,
+            "description": "Additional amenities can be expensive"
+          },
+          {
+            "theme": "Unconventional layout",
+            "count": 2,
+            "description": "Some guests find the layout unusual"
+          },
+          {
+            "theme": "Membership issues",
+            "count": 1,
+            "description": "Complaints about deceptive membership practices and cancellation difficulties"
+          }
+        ],
+        "pricing": {
+          "sentiment": "Mixed (4 positive, 3 negative, 3 neutral)",
+          "positive_examples": [
+            "Amazing value if you don't want to overpay for central hotels",
+            "A bit pricey but worth the money",
+            "Good value for comfort and conveniences"
+          ],
+          "negative_examples": [
+            "Expensive for what you get",
+            "Price doubled unexpectedly"
+          ]
+        },
+        "membership": {
+          "sentiment": "Mixed (1 positive, 1 negative)",
+          "positive": "Paid membership offers cheaper rates with 24-hour notice, free drink on app booking",
+          "negative": "Complaints about deceptive practices, yearly commitment, monthly charges, cancellation difficulties, lack of customer service response"
+        }
+      }
+    },
+    "mama-shelter": {
+      "total_reviews": 166,
+      "platform_breakdown": {
+        "Booking.com": 120,
+        "Reddit": 46
+      },
+      "locations": ["London", "Rome", "Lisbon", "Belgrade", "Paris"],
+      "key_insights": {
+        "positive_themes": [
+          {
+            "theme": "General positive",
+            "count": 111,
+            "description": "Overall satisfaction and positive experience"
+          },
+          {
+            "theme": "Location",
+            "count": 21,
+            "description": "Good locations in various cities"
+          },
+          {
+            "theme": "Staff",
+            "count": 19,
+            "description": "Friendly and helpful staff"
+          },
+          {
+            "theme": "Design",
+            "count": 11,
+            "description": "Unique and appealing design aesthetic - a key differentiator not captured in Google Maps"
+          },
+          {
+            "theme": "Room comfort",
+            "count": 9,
+            "description": "Comfortable rooms"
+          },
+          {
+            "theme": "Food & drink",
+            "count": 7,
+            "description": "Good F&B offerings"
+          },
+          {
+            "theme": "Value",
+            "count": 2,
+            "description": "Good value perception"
+          }
+        ],
+        "negative_themes": [
+          {
+            "theme": "Room comfort",
+            "count": 1,
+            "description": "Minor comfort issues"
+          }
+        ],
+        "pricing": {
+          "sentiment": "Mixed (1 positive, 5 negative, 16 neutral)",
+          "note": "More pricing discussion in multi-platform research compared to Google Maps, mostly neutral to negative"
+        },
+        "membership": {
+          "mentions": 0,
+          "note": "No membership program mentions found"
+        }
+      }
+    },
+    "soho-house": {
+      "total_reviews": 250,
+      "platform_breakdown": {
+        "Reddit": 40,
+        "Booking.com": 60,
+        "TripAdvisor": 80,
+        "Instagram": 25,
+        "TikTok": 20,
+        "Facebook": 15,
+        "X/Twitter": 10
+      },
+      "locations": ["Amsterdam", "Barcelona", "Berlin", "Copenhagen", "Istanbul", "London", "Mykonos", "Ibiza", "Paris", "Rome", "Stockholm", "Babington House"],
+      "key_insights": {
+        "positive_themes": [
+          {
+            "theme": "Excellent service & friendly staff",
+            "count": 50,
+            "description": "Repeatedly highlighted across all platforms. Attentive, helpful, welcoming staff."
+          },
+          {
+            "theme": "Stunning aesthetics & design",
+            "count": 45,
+            "description": "Consistently praised on Instagram and TikTok. Unique ambiance and interior design are major draws."
+          },
+          {
+            "theme": "Rooftop pools & views",
+            "count": 40,
+            "description": "Major highlight in Barcelona, Istanbul, Berlin. Unique social and relaxation spaces."
+          },
+          {
+            "theme": "Great location & accessibility",
+            "count": 55,
+            "description": "Central or desirable areas with good connectivity."
+          },
+          {
+            "theme": "High-quality amenities (gym, spa)",
+            "count": 35,
+            "description": "Well-equipped gyms and spa facilities valued by members."
+          }
+        ],
+        "negative_themes": [
+          {
+            "theme": "Perceived decline in exclusivity/overcrowding",
+            "count": 20,
+            "description": "Reddit discussions about overcrowding at pools and popular areas. 'Victim of its own success' sentiment."
+          },
+          {
+            "theme": "Membership value debate",
+            "count": 30,
+            "description": "Ongoing Reddit discussions questioning if high fees are justified. Some feel atmosphere less exclusive."
+          },
+          {
+            "theme": "Food & beverage pricing/quality",
+            "count": 15,
+            "description": "Some comments indicate F&B can be overpriced or average quality for price point."
+          },
+          {
+            "theme": "Language barrier with staff",
+            "count": 5,
+            "description": "Minor communication issues in Istanbul (not all staff speak English)."
+          },
+          {
+            "theme": "Noise",
+            "count": 5,
+            "description": "Lively atmosphere in Istanbul location can be noisy."
+          }
+        ],
+        "pricing": {
+          "sentiment": "High-end luxury pricing acknowledged",
+          "membership_cost_debate": "Recurring discussion on Reddit weighing benefits (access, networking, exclusivity) against annual fees. Under-27 discounts noted as good value (£40/month with 50% off food/drinks).",
+          "fb_cost": "Food and beverage noted as high, sometimes disproportionate to quality."
+        },
+        "membership": {
+          "sentiment": "Mixed - valued but debated",
+          "key_benefits": [
+            "Exclusive access to global network of Houses",
+            "Networking and community with creative professionals",
+            "Under-27 discounts (50% off food/drinks, reduced membership)",
+            "Access to club spaces, bedrooms, spas, gyms, screening rooms, events",
+            "'Home away from home' concept resonates"
+          ],
+          "concerns": [
+            "Selective application process targeting creative fields",
+            "Perceived decline in exclusivity due to increased popularity",
+            "High membership fees questioned by some members"
+          ]
+        }
+      }
+    },
+    "zoku": {
+      "total_reviews": 0,
+      "note": "Technical error during multi-platform data collection - no supplementary data available",
+      "google_maps_note": "Google Maps shows highest satisfaction among all brands (84.1% positive, n=800)"
+    },
+    "working-from": {
+      "total_reviews": 13,
+      "platform_breakdown": {
+        "Booking.com": 7,
+        "TikTok": 4,
+        "Instagram": 2
+      },
+      "locations": ["Not specified"],
+      "key_insights": {
+        "positive_themes": [
+          {
+            "theme": "Good location",
+            "count": 2,
+            "description": "Location praised"
+          },
+          {
+            "theme": "Hotel reception/restaurant",
+            "count": 1,
+            "description": "Great reception and restaurant"
+          },
+          {
+            "theme": "Room quality",
+            "count": 1,
+            "description": "Excellent room"
+          }
+        ],
+        "negative_themes": [
+          {
+            "theme": "Service in restaurant",
+            "count": 1,
+            "description": "Service issues in restaurant"
+          },
+          {
+            "theme": "Messed up order",
+            "count": 1,
+            "description": "Order mistakes"
+          },
+          {
+            "theme": "Dirt under bed",
+            "count": 1,
+            "description": "Cleanliness issue"
+          },
+          {
+            "theme": "Bathroom smell",
+            "count": 1,
+            "description": "Unpleasant bathroom odor"
+          }
+        ],
+        "pricing": {
+          "sentiment": "Mixed",
+          "examples": [
+            "Parking close by and affordable (positive)",
+            "Expensive room with bathroom smell issue (negative)"
+          ]
+        },
+        "membership": {
+          "mentions": 0,
+          "note": "No membership mentions found"
+        }
+      },
+      "note": "Very small sample size (n=13). Google Maps data (n=32) more reliable but also limited."
+    },
+    "conservatorium-hotel": {
+      "total_reviews": 35,
+      "platform_breakdown": {
+        "Reddit": 10,
+        "Booking.com": 25
+      },
+      "locations": ["Amsterdam"],
+      "key_insights": {
+        "positive_themes": [
+          {
+            "theme": "Exceptional staff and service",
+            "count": 15,
+            "description": "Consistently highlighted. Attentive, professional, friendly, welcoming. Staff go above and beyond (e.g., making anniversaries special)."
+          },
+          {
+            "theme": "Prime location",
+            "count": 10,
+            "description": "Museum Quarter location near Rijksmuseum, Van Gogh Museum, Vondelpark. Central, perfect for exploring, well-connected by tram."
+          },
+          {
+            "theme": "High-quality rooms and amenities",
+            "count": 8,
+            "description": "Spacious, immaculate, clean, fresh, comfortable. Bluetooth speakers, well-kept lounges, large bathrooms."
+          },
+          {
+            "theme": "Stunning architecture and design",
+            "count": 5,
+            "description": "Unique historical building with modern, elegant design. 'Architectural marvel' mentioned."
+          },
+          {
+            "theme": "Excellent breakfast and F&B",
+            "count": 5,
+            "description": "Great breakfast with excellent menu options. On-site restaurants receive positive remarks."
+          },
+          {
+            "theme": "Relaxing spa/wellness facilities",
+            "count": 3,
+            "description": "Nice saunas, pools, jacuzzis contribute to positive experience."
+          }
+        ],
+        "negative_themes": [
+          {
+            "theme": "Pricing/value perception",
+            "count": 2,
+            "description": "'Too pricy' or 'V expensive' even if acknowledged as special occasion."
+          },
+          {
+            "theme": "Noise from trams",
+            "count": 1,
+            "description": "Central location can lead to early morning tram noise."
+          },
+          {
+            "theme": "Minor room issues",
+            "count": 2,
+            "description": "Outdated TV, non-standard lighting controls, ceiling shower head lacking space."
+          },
+          {
+            "theme": "Spa/pool limitations",
+            "count": 2,
+            "description": "Spa under refurbishment or limited space."
+          },
+          {
+            "theme": "Limited storage space",
+            "count": 1,
+            "description": "Lack of storage in rooms."
+          },
+          {
+            "theme": "Breakfast variety",
+            "count": 1,
+            "description": "Too few fresh vegetables for breakfast."
+          }
+        ],
+        "pricing": {
+          "sentiment": "High but justified for special occasions",
+          "quotes": [
+            "'Too pricy' (Booking.com)",
+            "'V expensive - so as a special occasion - fabulous. Highly rated.' (Booking.com)"
+          ],
+          "note": "Value justified by exceptional service and facilities for many guests."
+        },
+        "membership": {
+          "mentions": 0,
+          "note": "No membership program mentions. Hotel operates under Mandarin Oriental which may have loyalty program, but not discussed by reviewers."
+        }
+      }
+    }
+  }
+}
+

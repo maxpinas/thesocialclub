@@ -1,0 +1,86 @@
+[
+  {
+    "Subject": "The Social Hub on TripAdvisor",
+    "What makes people happy": "All-inclusive rent (utilities included) (n=2), Fully furnished rooms and amenities (gym, common areas) (n=2), Great for meeting people (n=2), Helpful and friendly staff (n=1), Clean rooms (n=1)",
+    "What frustrates people": "Expensive (n=3), Small rooms (n=1), Poor maintenance (heating/AC) (n=1), Unresponsive staff (n=1), Unclean shared kitchens (n=1)",
+    "What people wish for": "Studio with private kitchen (n=1), Larger rooms (n=1), Better maintenance and responsive staff (n=1)",
+    "Pricing discovered": "€2000-€3000 per month for hotel rooms (Reddit, 8 months ago)",
+    "Target audience observed": "International students, exchange students, young professionals, digital nomads.",
+    "Key quotes": "Positive: 'You have everything you need (fully furnished room, equipped kitchen, access to the gym, common rooms, study room, restaurant).' (2 years ago)\nNegative: 'Soo I stayed in the one in Rotterdam and overall it was a shit show. Actually half of the year the heating wasnt working then during a heat wave, the air conditioner stopped working The wifi stopped working for a week And the staff’s communication sometimes just sucks.' (2 years ago)",
+    "Sample size": "n=1 Reddit thread with approximately 10 relevant comments from 2023-2024",
+    "Data quality notes": "⭐⭐ Low confidence, 2023-2024 data, limited to Reddit discussions. Unable to access TripAdvisor due to security challenges.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Social Hub on Booking.com",
+    "What makes people happy": "staff (n=18), location (n=17), cleanliness (n=11), comfort (n=9), breakfast (n=8)",
+    "What frustrates people": "No specific frustration themes identified.",
+    "What people wish for": "fridge in room (n=3), longer restaurant hours (n=1), microwave in room (n=1)",
+    "Pricing discovered": "Mentions of price/value found in reviews. Specific prices not extracted. (Booking.com, February 28, 2025)",
+    "Target audience observed": "Young adults, couples (20s-40s)",
+    "Key quotes": "\"Great stay at The Social Hub Lovely, clean, comfortable rooms. Fantastic, friendly, helpful staff. We only had breakfast there one day but the food was excellent with an amazing variety which we found very good value. Easy access to the centre by tram or metro. The rooms were a little too warm but that is often the case in hotels.\" (Reviewed: October 17, 2025)",
+    "Sample size": "n=34 reviews from 2025 (filtered)",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2025 data, manual keyword extraction, limited sample size from one hotel location.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Social Hub on Google Reviews",
+    "What makes people happy": "Friendly and welcoming staff (n=3), Accessible location by public transport (n=2), Cleanliness (n=2), Good breakfast (n=1), Vibe/atmosphere (n=1), Co-working spaces (n=1), Games (n=1)",
+    "What frustrates people": "Small rooms for the price (n=1), Toilet flushing issues (n=1), Air-conditioning not working (n=1), Construction at entrance (n=1), Mold (n=1, 2 years ago, outside target date range)",
+    "What people wish for": "Better organized breakfast (n=1), Larger rooms (n=1), Better functioning air conditioning (n=1), Improved toilet flushing (n=1)",
+    "Pricing discovered": "$93 for Nov 16-17 (Google Maps, 2025)",
+    "Target audience observed": "Travelers, potentially digital nomads or students given the 'Social Hub' concept and mention of co-working spaces. Some reviews suggest couples or friends traveling together. No explicit age demographics.",
+    "Key quotes": "Positive: \"Lovelly service, the staff on the reception were very pleasant and welcoming. Everything was clean and functioned. The shower was awesome and I feel …\" (Trip.com Member, a month ago)\nNegative: \"WARNING Stay away from this place. I made a booking on August 4, 2025, for the period August 19, 2025, to September 2, 2025. The amount they charged was significantly …\" (Anton, a month ago)",
+    "Sample size": "n=3,007 total reviews (Google Maps), but only a subset from 2025 and recent months were analyzed due to filtering limitations.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, reviews from Google Maps for The Social Hub Amsterdam West. Dates are relative (e.g., 'a month ago') or specific for 2025 bookings, but no explicit 2024 reviews were found. Limited to visible reviews on the page.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Social Hub on Reddit",
+    "What makes people happy": "Comprehensive Amenities & Comfort (n=4): Fully furnished rooms, equipped kitchens, gym, common rooms, study rooms, blackout blinds, comfy mattresses, Nespresso machines, free Wi-Fi, bike-sharing, regular cleaning. Community & Social Environment (n=3): Opportunities to meet people through events, helpful staff, and a place for first-year students to make friends. Aesthetics & Vibe (n=2): Modern design, good vibes, and Instagrammable spaces. Convenience & Location (n=2): Central location and all-inclusive rent (utilities).",
+    "What frustrates people": "High & \"Diabolical\" Pricing (n=7): Perceived as expensive, a \"rip-off,\" or \"diabolical\" compared to local rental markets. Room Size & Quality Issues (n=3): Small room sizes, dirty conditions, and malfunctioning air conditioning. Shared Kitchen Challenges (n=2): Cleanliness issues and concerns about food theft. Contract Rigidity & Fees (n=2): Fixed one-year contracts, 3-month break clauses, non-refundable deposits, and a €350 contract transfer fee. Guest Policy Restrictions (n=1): Theoretical 10-day limit for guests, though enforcement varies.",
+    "What people wish for": "",
+    "Pricing discovered": "Maastricht: €1,200/month for a room with 8 shared kitchen (Source 2). Rotterdam: €1,800/month (Source 2). Groningen: €1,209.93/month (Sept 2024 - June 2025) for Standard Queen, current TSH offer €1,327.36/month (Source 4). The Hague: €1,414/month for a Double Standard Room (17m²) including utilities (Sept 2025 - Jan 2026) (Source 5). Amsterdam West: €1,375.80 - €1,421.60/month for an Executive Double (Sept 2024 - June 2025) (Source 6). Promotions: 15% off stays for newsletter sign-ups (Source 1). Additional Costs: Non-refundable deposit of 1 month rent (Source 2), €350 fee for contract takeover (Source 2).",
+    "Target audience observed": "Students: Predominantly international students (n=5) seeking accommodation for exchange programs or first-year study. Travelers: Individuals seeking short-term stays (2-3 months) for convenience, or a vibrant, social hotel experience. Digital Nomads/Long Stays: Individuals using facilities for work and extended stays.",
+    "Key quotes": "Positive: \"You have everything you need (fully furnished room, equipped kitchen, access to the gym, common rooms, study room, restaurant)\" [Source 1]. \"If you can afford it, you can rent a room in 3 mins, you get a lot of benefits and for first year students the social hub is where most make their friends.\" [Source 3]. Negative: \"Diabolical prices at the social hub in Rotterdam\" [Source 2]. \"I’m currently staying here and it’s dirty and their AC barely works, I personally don’t like it and am looking to leave.\" [Source 4]. \"Holy shit their shitty ass rooms are 1.3k????? I am paying 1250 inclusive service costs for a 70m2 new build 2019 apartment next to a park and a decent hood\" [Source 4].",
+    "Sample size": "n=8 unique Reddit comments/posts and 1 blog post analyzed from 2024-2025.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2024-2025 data, based on Reddit discussions and one blog post. Sample size is small and may not represent the full spectrum of customer sentiment. Reddit comments can be subjective and anecdotal. Pricing information is indicative and varies by location and specific contract terms.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Social Hub on Instagram",
+    "What makes people happy": "Great location (n=4), Friendly/helpful staff (n=4), Vibrant/social atmosphere (n=3), Clean rooms (n=3), Good facilities/amenities (gym, coworking, pool, coffee) (n=3), Good value for money (n=1), Comfortable/quiet rooms (n=2), Excellent breakfast (n=2).",
+    "What frustrates people": "Inconsistent service/inexperienced staff (n=2), Rooms too warm (n=1), Occasional noise (n=1), Dirty rooms (n=1), Lack of safe in room (n=1), Food quality/lack of variety (n=2), Upgrade offer not transparent (n=1), Bed linen not refreshed (n=1), Exposed feeling due to lack of see-through curtain (n=1).",
+    "What people wish for": "Lighter colors in hallways (n=1), More weights in the gym (n=1), More transparent upgrade offers (n=1), See-through curtains for privacy (n=1), Improved food variety/quality (n=2), Better soundproofing for noisy rooms (n=1).",
+    "Pricing discovered": "Parking at The Social Hub Groningen: 15€ per 24h (Booking.com, September 2025). No other specific room pricing found.",
+    "Target audience observed": "Young travellers, students, couples, solo adventurers, families, business travelers, digital nomads, and groups of friends. People looking for a social, vibrant atmosphere with coworking spaces.",
+    "Key quotes": "Positive: \"The vibrant atmosphere and young people running this place has a very low treshold that makes it easy and comfortable to stay and enjoy your time. Great shower and body products to indulge yourself, while water and coffee is available in the room. You have everything you need ; like a small fridge not loaded (luckily no silly minibar). Great airco and Wifi. The perfect stay to visit Madrid!\" (July 2025, Madrid)\nNegative: \"Room didn't have a safe. This is a strange choice to be left out since the room was otherwise well equipped with fridge and coffeemaker. Food (and drinks) were not of great value in the rooftop restaurant as the quality didn't match the price. Also at the breakfast, hot items were lukewarm at best and it's the first time in a hotel that I decided not to eat the eggs again after tasting them. Hotel staff is young and based on my interactions with them, perhaps somewhat inexperienced in hospitality industry.\" (July 2025, Madrid)",
+    "Sample size": "n=Approximately 20 reviews from Booking.com for The Social Hub Groningen, Madrid, and Amsterdam City (July-October 2025).",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2025 data from Booking.com reviews for three locations (Groningen, Madrid, Amsterdam City). Limited to publicly available reviews, not Instagram as originally requested due to access restrictions. Sample size is moderate, but sentiment analysis is based on manual extraction and may not capture all nuances.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Social Hub on X/Twitter",
+    "What makes people happy": "Friendly and helpful staff (n=6): 'Fantastic, friendly, helpful staff', 'Staff were very helpful', 'Staff are friendly', 'awesome staff', 'Nice staff in bar and at check-in', 'Super friendly as usual'. Great location/metro access (n=6): 'Easy access to the centre by tram or metro', 'Great location', 'Super location', 'Ideal location', 'close to the city center', 'located right next to Metro'. Vibe/Atmosphere (n=5): 'Great, funky hotel', 'great vibe', 'Super location, great vibe', 'cool vibe', 'nice ambiance'. Clean and comfortable rooms (n=4): 'Lovely, clean, comfortable rooms', 'clean, modern, and comfortable', 'Clean modern room with comfortable bed', 'Good comfortable well equipped room'. Excellent breakfast (n=3): 'food was excellent with an amazing variety', 'Great breakfast', 'Breakfast was anazing!'. Facilities (n=2): 'lots of facilities, including workspaces, a pool table, a cafe etc.', 'great amenities'. Modern design (n=2): 'Super modern design', 'Lovely and modern'.",
+    "What frustrates people": "Noise issues (n=2): 'occasional sound of heavy bass from downstairs vibrating through the room', 'little noise early in the morning'. Room temperature (n=1): 'rooms were a little too warm'. Lack of in-room amenities (n=2): 'no charging point on the bedside', 'No fridge in the room'. Room size (n=1): 'Rooms are compact and shower space is not adequate'. Layout/Navigation (n=1): 'The layout of the group floor and hidden lifts'. Pricing (n=1): 'a bit on the pricey side'. Restaurant menu (n=1): 'The restaurant menu wasn’t extensive'.",
+    "What people wish for": "More charging points by the bedside (n=1). Fridge in room (n=1). Connected double bed instead of two singles (n=1). City center location (n=1). Earlier breakfast start time (n=1). More extensive restaurant menu (n=1). Better soundproofing (n=1). Larger rooms/shower space (n=1).",
+    "Pricing discovered": "One review mentioned: 'Over €400 for 2 nights' (Susan, UK, October 2025) for a Double Room. This suggests an average of €200/night for a Double Room in October 2025, but this is a single data point and not a comprehensive pricing analysis.",
+    "Target audience observed": "Based on review comments and the hotel's self-description, the target audience appears to be: Digital nomads, leisure travelers (solo, couples, families, friends), business travelers, students, and younger demographics. Use cases include short stays, leisure trips, business trips, and longer stays (implied by student accommodation and co-working spaces).",
+    "Key quotes": "Positive: \"Lovely, clean, comfortable rooms. Fantastic, friendly, helpful staff. We only had breakfast there one day but the food was excellent with an amazing variety which we found very good value. Easy access to the centre by tram or metro.\" (Margaret, UK, October 2025) \n\nNegative: \"Not really for my age group (40+). It's like a college campus in the reception, and the room is like a dorm room. Great if you're younger, I guess. Slightly rough outside where the parking is. Had to walk past some drunk guys, one who was relieving himself in a hedgerow and another who yelled at me as I walked past. Not the fault of the hotel, obviously, but a consideration for some travellers.\" (Samantha, UK, September 2025)\n\nWish List/Suggestion: \"It would have been better if there was one connected double bed instead of 2 singles.\" (Scott, UK, October 2025)",
+    "Sample size": "n=23 reviews from Booking.com for The Social Hub Amsterdam City, reviewed between July 2025 and October 2025.",
+    "Data quality notes": "⭐⭐⭐ Medium confidence. Data primarily from Booking.com reviews for The Social Hub Amsterdam City, covering 2025. Direct X/Twitter data was inaccessible. Limited ability to filter by specific date ranges within 2024-2025, but recent reviews (October 2025, September 2025, August 2025, July 2025) were analyzed. Sample size is based on the visible reviews on the page, not the total number of reviews for the hotel.",
+    "Error": ""
+  },
+  {
+    "Subject": "The Social Hub on Facebook",
+    "What makes people happy": "Cleanliness (n=12), Staff & Service (n=11), Location (n=4), Amenities/Facilities (n=8), Room comfort (n=5), Rooftop terrace/views (n=2), Breakfast (n=1)",
+    "What frustrates people": "Credit card issues/uncredited refunds (n=1, Facebook), High prices (n=1, Facebook), Construction noise (n=1, Expedia), Basic room (n=1, Expedia), Noisy exterior area (n=1, Expedia)",
+    "What people wish for": "Improved credit card refund process (n=1), Lower prices (n=1), Better soundproofing (n=1), More luxurious rooms (n=1)",
+    "Pricing discovered": "2 nights €362.50 (Facebook, Oct 29, 2024), Monthly price around 1200€ (Facebook, Dec 1, 2024 - June 30, 2025), Daily continental breakfast (EUR 17.5 per person) (Expedia)",
+    "Target audience observed": "Families (n=2), Solo travelers (n=2), Business travelers (n=1), Couples (n=2), Students (n=1, implied by 'student hotel' comment).",
+    "Key quotes": "Positive: \"I absolutely enjoyed my stay at the Social Hub! Incredibly entertaining with many options to enjoy your stay at the hotel. The rooftop is breathtaking with gorgeous views of the city. I would definitely return!!\" - Jacqueline (Expedia, Oct 1, 2025). Negative: \"I was at the social center in Barcelona for business in June. Breakfast was included in the price of the room but they took another €25 from my credit card and they still haven't credited it back.\" - Vi Be (Facebook, Aug 28, 2024).",
+    "Sample size": "n=13 reviews (3 from Facebook, 10 from Expedia) from 2024-2025",
+    "Data quality notes": "⭐⭐⭐ Medium confidence, 2024-2025 data, limited Facebook reviews, primary data from Expedia for Toulouse location.",
+    "Error": ""
+  }
+]
