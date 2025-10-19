@@ -29,13 +29,27 @@ export default function Sentiment() {
 
   return (
     <div className="min-h-screen">
-      <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
-        <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-3">Sentiment</h1>
-            <p className="text-2xl text-muted-foreground mb-4">Google Maps Analysis</p>
-          <p className="text-xl text-muted-foreground max-w-3xl">
-            Comprehensive sentiment analysis based on 5,969 verified Google Maps reviews across 8 hospitality brands
-          </p>
+      {/* Hero Section - TSH Style */}
+      <section className="relative h-[400px] overflow-hidden">
+        <div className="absolute inset-0">
+          <img 
+            src="/images/tsh-lobby-space.jpg" 
+            alt="TSH Lobby Space" 
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="container relative z-10 h-full flex items-center">
+          <div className="max-w-4xl">
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 text-white leading-tight">
+              Sentiment Analysis
+            </h1>
+            <div className="bg-black/60 backdrop-blur-sm px-6 py-4 inline-block">
+              <p className="text-xl text-white font-medium">
+                Comprehensive sentiment analysis based on 5,969 verified Google Maps reviews across 8 hospitality brands
+              </p>
+            </div>
+          </div>
         </div>
       </section>
       <section className="py-12">
@@ -56,12 +70,46 @@ export default function Sentiment() {
               </Card>
               <Card style={{ borderLeft: "4px solid #a4a4a5" }}>
                 <CardHeader>
-                  <CardTitle className="text-3xl">⭐⭐⭐⭐⭐</CardTitle>
+                  <CardTitle className="text-3xl">High Quality</CardTitle>
                   <CardDescription>Data Quality (Verified Reviews)</CardDescription>
                 </CardHeader>
               </Card>
             </div>
           )}
+          
+          {/* Cross-Brand Comparison Graphs */}
+          <div className="mb-12">
+            <h2 className="text-2xl font-bold mb-6">Cross-Brand Overview</h2>
+            <div className="grid md:grid-cols-2 gap-6">
+              <Card>
+                <CardHeader>
+                  <CardTitle>Sentiment Comparison</CardTitle>
+                  <CardDescription>Positive vs. negative themes across all brands</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <img 
+                    src="/images/sentiment/cross_brand_comparison.png" 
+                    alt="Cross-Brand Sentiment Comparison" 
+                    className="w-full rounded-lg"
+                  />
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <CardTitle>Sample Sizes</CardTitle>
+                  <CardDescription>Number of reviews analyzed per brand</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <img 
+                    src="/images/sentiment/sample_sizes.png" 
+                    alt="Sample Sizes by Brand" 
+                    className="w-full rounded-lg"
+                  />
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+
           <h2 className="text-2xl font-bold mb-6">Brand Sentiment</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             {BRANDS.map((brand) => (
@@ -88,3 +136,4 @@ export default function Sentiment() {
     </div>
   );
 }
+

@@ -145,7 +145,7 @@ export default function SentimentDetail() {
                   <div>
                     <h4 className="font-bold mb-3">Top Positive Themes</h4>
                     <img 
-                      src={`/images/sentiment/${brandId.replace('-', '_')}_top_positive_themes.png`} 
+                      src={`/images/sentiment/${brandId.replace(/-/g, '_')}_top_positive_themes.png`} 
                       alt="Top Positive Themes" 
                       className="w-full rounded-lg border border-border"
                     />
@@ -153,7 +153,7 @@ export default function SentimentDetail() {
                   <div>
                     <h4 className="font-bold mb-3">Top Negative Themes</h4>
                     <img 
-                      src={`/images/sentiment/${brandId.replace('-', '_')}_top_negative_themes.png`} 
+                      src={`/images/sentiment/${brandId.replace(/-/g, '_')}_top_negative_themes.png`} 
                       alt="Top Negative Themes" 
                       className="w-full rounded-lg border border-border"
                     />
@@ -163,7 +163,7 @@ export default function SentimentDetail() {
                   <div>
                     <h4 className="font-bold mb-3">Positive vs Negative Comparison</h4>
                     <img 
-                      src={`/images/sentiment/${brandId.replace('-', '_')}_pos_neg_comparison.png`} 
+                      src={`/images/sentiment/${brandId.replace(/-/g, '_')}_pos_neg_comparison.png`} 
                       alt="Positive vs Negative Comparison" 
                       className="w-full rounded-lg border border-border"
                     />
@@ -171,7 +171,7 @@ export default function SentimentDetail() {
                   <div>
                     <h4 className="font-bold mb-3">Sentiment Distribution</h4>
                     <img 
-                      src={`/images/sentiment/${brandId.replace('-', '_')}_sentiment_ratio.png`} 
+                      src={`/images/sentiment/${brandId.replace(/-/g, '_')}_sentiment_ratio.png`} 
                       alt="Sentiment Distribution" 
                       className="w-full rounded-lg border border-border"
                     />

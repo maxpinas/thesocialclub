@@ -66,26 +66,6 @@ export default function Personas() {
         </div>
       </section>
 
-      {/* Quote Section */}
-      <section className="relative h-[300px] overflow-hidden border-y border-border">
-        <div className="absolute inset-0">
-          <img 
-            src="/images/tsh-coworking-space.jpg" 
-            alt="TSH Coworking Space" 
-            className="w-full h-full object-cover"
-          />
-        </div>
-        <div className="absolute inset-0 bg-black/50"></div>
-        <div className="container relative z-10 h-full flex items-center justify-center">
-          <div className="text-center max-w-3xl">
-            <blockquote className="text-3xl md:text-4xl font-bold text-white mb-4 leading-tight">
-              "Understanding who stays with us is the foundation of every strategic decision we make."
-            </blockquote>
-            <p className="text-lg text-white/90">— Based on comprehensive analysis of 5,969 guest reviews</p>
-          </div>
-        </div>
-      </section>
-
       {/* Persona Tiles Overview */}
       <section className="py-16 bg-background">
         <div className="container">
@@ -112,6 +92,26 @@ export default function Personas() {
                 </CardContent>
               </Card>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Quote Section */}
+      <section className="relative h-[300px] overflow-hidden border-y border-border">
+        <div className="absolute inset-0">
+          <img 
+            src="/images/tsh-coworking-space.jpg" 
+            alt="TSH Coworking Space" 
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div className="absolute inset-0 bg-black/50"></div>
+        <div className="container relative z-10 h-full flex items-center justify-center">
+          <div className="text-center max-w-3xl">
+            <blockquote className="text-3xl md:text-4xl font-bold text-white mb-4 leading-tight">
+              "Understanding who stays with us is the foundation of every strategic decision we make."
+            </blockquote>
+            <p className="text-lg text-white/90">— Based on comprehensive analysis of 5,969 guest reviews</p>
           </div>
         </div>
       </section>

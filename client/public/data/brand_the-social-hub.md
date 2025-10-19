@@ -56,7 +56,7 @@ Guests consistently praise TSH staff for being:
 **Representative Quotes:**
 - "The best part of this place is without question the staff — they are amazing. Everyone I met was friendly, helpful, and willing to go the extra mile to make your stay better."
 - "From moment we came to reception we were warmly welcomed by Duarte who was absolutely brilliant."
-- "Sehr vriendelijk en behulpzaam personeel" (Very friendly and helpful staff)
+- "Very friendly and helpful staff" (Very friendly and helpful staff)
 
 ### Service Challenges
 
@@ -84,7 +84,7 @@ Guests consistently praise TSH staff for being:
 TSH's comprehensive amenity offering is a major differentiator:
 
 1. **Coworking Spaces** (most frequently mentioned)
-   - "Área de coworking bonita e ampla, pra quem precisa trabalhar durante a viagem"
+   - "Beautiful and spacious coworking area, perfect for those who need to work during their trip"
    - Dedicated work areas with good WiFi
    - Meeting rooms and collaboration spaces
 
@@ -131,21 +131,21 @@ TSH's comprehensive amenity offering is a major differentiator:
 
 Guests appreciate:
 - **Comfortable beds** - "Comfy bed" mentioned frequently
-- **Modern design** - "Hotel moderno" and contemporary aesthetics
+- **Modern design** - "Modern hotel" and contemporary aesthetics
 - **Functional layout** - "Small but functional"
 - **Cleanliness** - "Clean and modern rooms/facilities"
-- **Good soundproofing** - "Insonorizada" (soundproofed)
+- **Good soundproofing** - "Well-insulated" (soundproofed)
 
 **Representative Quotes:**
-- "Habitación grande, insonorizada... Comfy bed. Everything we needed in the room."
+- "Large room, well soundproofed... Comfy bed. Everything we needed in the room."
 - "Decent sized room overlooking the courtyard. Comfy bed."
-- "Zimmer war klein, aber funktional eingerichtet. Das Bett bequem."
+- "Room was small but functionally furnished. The bed was comfortable."
 
 ### Room Challenges
 
 **Negative mentions (n=30)** focus on:
 - **Small room size** - Some guests find rooms too compact, especially for longer stays
-- **Bathroom size** - "Bad ist ebenfalls klein" (bathroom is also small)
+- **Bathroom size** - "Bathroom is also small" (bathroom is also small)
 - **Noise from corridors** - Occasional complaints about hallway noise
 - **Ventilation/climate control** - Some issues with air circulation
 
@@ -367,7 +367,7 @@ Guests who mention value typically frame it as:
 
 ### Noise Observations
 
-- **Good soundproofing** - "Insonorizada" mentioned positively
+- **Good soundproofing** - "Well-insulated" mentioned positively
 - **Quiet despite central location** - "It was always quiet" even in city centers
 - **Minimal noise complaints** - Low negative mention rate
 

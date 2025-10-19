@@ -28,13 +28,27 @@ export default function Brands() {
 
   return (
     <div className="min-h-screen">
-      <section className="bg-gradient-to-b from-background to-muted/20 py-16 border-b border-border">
-        <div className="container">
-          <h1 className="text-4xl md:text-5xl font-bold mb-3">Brands</h1>
-          <p className="text-2xl text-muted-foreground mb-4">Competitive Analysis</p>
-          <p className="text-xl text-muted-foreground max-w-3xl">
-            Comprehensive competitive analysis of 8 hospitality brands across Europe
-          </p>
+      {/* Hero Section - TSH Style */}
+      <section className="relative h-[400px] overflow-hidden">
+        <div className="absolute inset-0">
+          <img 
+            src="/images/tsh-lobby-space.jpg" 
+            alt="TSH Lobby Space" 
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="container relative z-10 h-full flex items-center">
+          <div className="max-w-4xl">
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 text-white leading-tight">
+              Competitive Analysis
+            </h1>
+            <div className="bg-black/60 backdrop-blur-sm px-6 py-4 inline-block">
+              <p className="text-xl text-white font-medium">
+                Comprehensive analysis of 8 hospitality brands across Europe, based on 5,969 verified reviews
+              </p>
+            </div>
+          </div>
         </div>
       </section>
       

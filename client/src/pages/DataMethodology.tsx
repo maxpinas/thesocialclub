@@ -99,20 +99,27 @@ export default function DataMethodology() {
 
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
-      <section className="relative bg-gradient-to-b from-background to-muted/20 py-24 border-b border-border overflow-hidden">
-        <div className="absolute inset-0 opacity-5">
+      {/* Hero Section - TSH Style */}
+      <section className="relative h-[400px] overflow-hidden">
+        <div className="absolute inset-0">
           <img 
             src="/images/tsh-coworking-space.jpg" 
-            alt="" 
+            alt="TSH Coworking Space" 
             className="w-full h-full object-cover"
           />
         </div>
-        <div className="container relative z-10">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">Data & Methodology</h1>
-          <p className="text-xl text-muted-foreground max-w-2xl">
-            Research built on verified reviews and transparent analysis
-          </p>
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="container relative z-10 h-full flex items-center">
+          <div className="max-w-4xl">
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 text-white leading-tight">
+              Data & Methodology
+            </h1>
+            <div className="bg-black/60 backdrop-blur-sm px-6 py-4 inline-block">
+              <p className="text-xl text-white font-medium">
+                Research built on 5,969 verified reviews and transparent analysis methodology
+              </p>
+            </div>
+          </div>
         </div>
       </section>
 
