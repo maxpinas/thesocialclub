@@ -19,14 +19,14 @@ export default function BrandDetail() {
     async function loadData() {
       if (!brand) { setLoading(false); return; }
       const fileMap: Record<string, string> = {
-        "the-social-hub": "pasted_file_lgjMv7_Competitive_Analysis_The_Social_Hub.md",
-        "the-hoxton": "pasted_file_0tu2Jc_Competitive_Analysis_The_Hoxton.md",
-        "citizenm": "pasted_file_DwouXO_Competitive_Analysis_CitizenM.md",
-        "mama-shelter": "pasted_file_gLz1Q1_Competitive_Analysis_Mama_Shelter.md",
-        "soho-house": "pasted_file_3uv4Ct_Competitive_Analysis_Soho_House.md",
-        "zoku": "pasted_file_zYOCyV_Competitive_Analysis_Zoku.md",
-        "working-from": "pasted_file_AhU8mN_Competitive_Analysis_Working_From.md",
-        "conservatorium": "pasted_file_RrSXtv_Competitive_Analysis_Conservatorium_Hotel.md",
+        "the-social-hub": "brand_the-social-hub.md",
+        "the-hoxton": "brand_the-hoxton.md",
+        "citizenm": "brand_citizenm.md",
+        "mama-shelter": "brand_mama-shelter.md",
+        "soho-house": "brand_soho-house.md",
+        "zoku": "brand_zoku.md",
+        "working-from": "brand_working-from.md",
+        "conservatorium": "brand_conservatorium-hotel.md",
       };
       const filename = fileMap[brandId || ""];
       if (filename) {
