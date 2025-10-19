@@ -42,43 +42,63 @@ export default function Personas() {
 
   return (
     <div className="min-h-screen">
-      <section className="relative bg-gradient-to-b from-background to-muted/20 py-24 border-b border-border overflow-hidden">
-        <div className="absolute inset-0 opacity-5">
+      {/* Hero Section - TSH Style */}
+      <section className="relative h-[500px] overflow-hidden">
+        <div className="absolute inset-0">
           <img 
             src="/images/tsh-lobby-space.jpg" 
-            alt="" 
+            alt="TSH Lobby Space" 
             className="w-full h-full object-cover"
           />
         </div>
-        <div className="container relative z-10">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">Know your audience. Shape your strategy.</h1>
-          <p className="text-xl text-muted-foreground max-w-2xl">
-            Five validated personas representing your target market
-          </p>
-        </div>
-      </section>
-      {/* Persona Distribution Graph */}
-      <section className="py-12 bg-muted/20">
-        <div className="container">
-          <div className="max-w-5xl mx-auto mb-12">
-            <Card>
-              <CardContent className="p-8">
-                <img 
-                  src="/images/persona_tsh_competitive_position.png" 
-                  alt="TSH Competitive Position by Persona" 
-                  className="w-full rounded-lg"
-                />
-              </CardContent>
-            </Card>
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="container relative z-10 h-full flex items-center">
+          <div className="max-w-4xl">
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 text-white leading-tight">
+              Know your audience. Shape your strategy.
+            </h1>
+            <div className="bg-black/60 backdrop-blur-sm px-6 py-4 inline-block">
+              <p className="text-xl text-white font-medium">
+                Five validated personas representing your target market, based on 5,969 verified reviews
+              </p>
+            </div>
           </div>
         </div>
       </section>
-      
-      <section className="py-12">
+
+      {/* Quote Section */}
+      <section className="relative h-[300px] overflow-hidden border-y border-border">
+        <div className="absolute inset-0">
+          <img 
+            src="/images/tsh-coworking-space.jpg" 
+            alt="TSH Coworking Space" 
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div className="absolute inset-0 bg-black/50"></div>
+        <div className="container relative z-10 h-full flex items-center justify-center">
+          <div className="text-center max-w-3xl">
+            <blockquote className="text-3xl md:text-4xl font-bold text-white mb-4 leading-tight">
+              "Understanding who stays with us is the foundation of every strategic decision we make."
+            </blockquote>
+            <p className="text-lg text-white/90">— Based on comprehensive analysis of 5,969 guest reviews</p>
+          </div>
+        </div>
+      </section>
+
+      {/* Persona Tiles Overview */}
+      <section className="py-16 bg-background">
         <div className="container">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-bold mb-4">Target Persona Distribution</h2>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+              Five distinct personas validated through comprehensive review analysis across 8 hospitality brands
+            </p>
+          </div>
+          
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {personaData.map((persona, idx) => (
-              <Card key={idx} className="border-l-4" style={{ borderLeftColor: persona.color }}>
+              <Card key={idx} className="border-l-4 hover:shadow-lg transition-shadow" style={{ borderLeftColor: persona.color }}>
                 <CardHeader>
                   <div className="flex items-center justify-between mb-2">
                     <Users className="h-6 w-6" style={{ color: persona.color }} />
@@ -93,16 +113,27 @@ export default function Personas() {
               </Card>
             ))}
           </div>
-          
-          {/* Methodology Section with Contents Sidebar */}
+        </div>
+      </section>
+
+      {/* Methodology Section with Sidebar */}
+      <section className="py-16 bg-muted/20">
+        <div className="container">
           <div className="grid lg:grid-cols-4 gap-8">
+            {/* Sidebar Navigation */}
             <aside className="lg:col-span-1">
               <Card className="sticky top-20">
-                <CardHeader><CardTitle className="text-sm">Contents</CardTitle></CardHeader>
+                <CardHeader>
+                  <CardTitle className="text-lg">Contents</CardTitle>
+                </CardHeader>
                 <CardContent>
                   <nav className="space-y-2">
-                    {Object.keys(sections).map((section, idx) => (
-                      <a key={idx} href={`#section-${idx}`} className="block text-sm text-muted-foreground hover:text-[#76a9f9] transition-colors">
+                    {Object.keys(sections).map((section) => (
+                      <a
+                        key={section}
+                        href={`#${section.toLowerCase().replace(/\s+/g, '-')}`}
+                        className="block text-sm text-muted-foreground hover:text-foreground hover:bg-muted px-3 py-2 rounded-md transition-colors"
+                      >
                         {section}
                       </a>
                     ))}
@@ -110,24 +141,12 @@ export default function Personas() {
                 </CardContent>
               </Card>
             </aside>
+
+            {/* Main Content */}
             <div className="lg:col-span-3">
               <Card>
-                <CardHeader>
-                  <CardTitle>Methodology & Evidence</CardTitle>
-                  <CardDescription>How these personas were developed from research data</CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <div className="prose prose-neutral max-w-none">
-                    {Object.entries(sections).map(([title, content], idx) => (
-                      <div key={idx} id={`section-${idx}`} className="mb-12">
-                        <h2 className="text-2xl font-bold mb-4 border-b border-border pb-2">{title}</h2>
-                        <MarkdownRenderer content={content} />
-                      </div>
-                    ))}
-                    {Object.keys(sections).length === 0 && (
-                      <MarkdownRenderer content={content} />
-                    )}
-                  </div>
+                <CardContent className="p-8 prose prose-slate max-w-none">
+                  <MarkdownRenderer content={content} />
                 </CardContent>
               </Card>
             </div>

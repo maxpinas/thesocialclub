@@ -7,46 +7,40 @@ import { Building2, Users, TrendingUp, Database, Hotel, Scale, Theater, ArrowRig
 export default function Home() {
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
-      <section className="relative bg-gradient-to-b from-background to-muted/20 py-24 border-b border-border overflow-hidden">
-        <div className="absolute inset-0 opacity-5">
+      {/* Hero Section - TSH Style */}
+      <section className="relative h-[600px] overflow-hidden">
+        {/* Full opacity hero image */}
+        <div className="absolute inset-0">
           <img 
             src="/images/tsh-community-space.jpg" 
-            alt="" 
+            alt="TSH Community Space" 
             className="w-full h-full object-cover"
           />
         </div>
-        <div className="container relative z-10">
+        
+        {/* Dark overlay for text readability */}
+        <div className="absolute inset-0 bg-black/40"></div>
+        
+        {/* Hero content */}
+        <div className="container relative z-10 h-full flex items-center">
           <div className="max-w-4xl">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+            <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight text-white">
               Data-driven insights for hospitality transformation
             </h1>
-            <p className="text-xl text-muted-foreground mb-8 max-w-2xl">
-              5,969 verified reviews. 8 brands analyzed. Clear strategic direction.
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-              <div className="bg-background/90 backdrop-blur-sm p-6 rounded-lg border border-border">
-                <div className="text-4xl font-bold mb-2" style={{ color: "#76a9f9" }}>5,969</div>
-                <div className="text-sm text-muted-foreground">Verified Reviews Analyzed</div>
-              </div>
-              <div className="bg-background/90 backdrop-blur-sm p-6 rounded-lg border border-border">
-                <div className="text-4xl font-bold mb-2" style={{ color: "#7cbd8e" }}>8</div>
-                <div className="text-sm text-muted-foreground">Hospitality Brands</div>
-              </div>
-              <div className="bg-background/90 backdrop-blur-sm p-6 rounded-lg border border-border">
-                <div className="text-4xl font-bold mb-2" style={{ color: "#76a9f9" }}>5</div>
-                <div className="text-sm text-muted-foreground">Target Personas Validated</div>
-              </div>
+            <div className="bg-black/60 backdrop-blur-sm px-6 py-4 inline-block mb-8">
+              <p className="text-xl md:text-2xl text-white font-medium">
+                5,969 verified reviews. 8 brands analyzed. Clear strategic direction.
+              </p>
             </div>
             <div className="flex flex-wrap gap-4">
               <Link href="/summary">
-                <Button size="lg" style={{ backgroundColor: "#76a9f9" }}>
+                <Button size="lg" className="bg-white text-black hover:bg-white/90 text-lg px-8 py-6">
                   View Executive Summary
-                  <ArrowRight className="ml-2 h-4 w-4" />
+                  <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
               </Link>
               <Link href="/data-methodology">
-                <Button size="lg" variant="outline">
+                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10 text-lg px-8 py-6">
                   Explore Methodology
                 </Button>
               </Link>
@@ -55,25 +49,22 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Persona Distribution Graph */}
-      <section className="py-16 bg-muted/20">
+      {/* Key Metrics Bar */}
+      <section className="py-12 bg-muted/20 border-b border-border">
         <div className="container">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Target Persona Distribution</h2>
-            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Five validated personas representing your target market, based on comprehensive review analysis
-            </p>
-          </div>
-          <div className="max-w-5xl mx-auto">
-            <Card>
-              <CardContent className="p-8">
-                <img 
-                  src="/images/persona_market_distribution.png" 
-                  alt="Persona Market Distribution" 
-                  className="w-full rounded-lg"
-                />
-              </CardContent>
-            </Card>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+            <div className="text-center">
+              <div className="text-5xl font-bold mb-2" style={{ color: "#76a9f9" }}>5,969</div>
+              <div className="text-sm text-muted-foreground uppercase tracking-wide">Verified Reviews Analyzed</div>
+            </div>
+            <div className="text-center">
+              <div className="text-5xl font-bold mb-2" style={{ color: "#7cbd8e" }}>8</div>
+              <div className="text-sm text-muted-foreground uppercase tracking-wide">Hospitality Brands</div>
+            </div>
+            <div className="text-center">
+              <div className="text-5xl font-bold mb-2" style={{ color: "#76a9f9" }}>5</div>
+              <div className="text-sm text-muted-foreground uppercase tracking-wide">Target Personas Validated</div>
+            </div>
           </div>
         </div>
       </section>
