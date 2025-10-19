@@ -14,11 +14,6 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
   processed = processed.replace(/([^\n])\n+\[(\d+(?:,\s*\d+)*)\]\s*$/gm, '$1 [$2]');
   
   // CRITICAL: Merge source references that appear on their own line after list items
-  // This handles cases like:
-  // * Item text
-  // [11].
-  // Should become:
-  // * Item text [11].
   const lines = processed.split('\n');
   const mergedLines: string[] = [];
   
@@ -39,7 +34,7 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
   }
   
   processed = mergedLines.join('\n');
-  
+
   // Process markdown to HTML
 
   // Headings
@@ -147,17 +142,13 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
     })
     .join('\n\n');
 
-  // Extract source references and replace with placeholders
-  const sourceMatches: Array<{ index: number; number: number }> = [];
-  const sourceRegex = /\[(\d+)\]/g;
-  let match;
-  while ((match = sourceRegex.exec(processed)) !== null) {
-    sourceMatches.push({ index: match.index, number: parseInt(match[1]) });
-  }
+  // CRITICAL FIX: Wrap last 2-3 words + source reference in nowrap span
+  // This prevents the source from breaking to a new line
+  // Match: 1-3 words (including punctuation) followed by space and [number]
+  processed = processed.replace(/(\S+(?:\s+\S+){0,2})\s+(\[\d+\])/g, '<span style="display: inline-block; white-space: nowrap;">$1&nbsp;$2</span>');
 
-  // Replace source references with unique markers
-  // Add non-breaking space before to prevent line breaks
-  processed = processed.replace(/\s*\[(\d+)\]/g, (_, num) => `\u00A0__SOURCE_${num}__`);
+  // Replace source references with markers
+  processed = processed.replace(/\[(\d+)\]/g, '__SOURCE_$1__');
 
   // Split by source markers and rebuild with React components
   const parts = processed.split(/(__SOURCE_\d+__)/);
@@ -173,7 +164,7 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
             return (
               <Tooltip key={idx}>
                 <TooltipTrigger asChild>
-                  <sup className="cursor-help text-[#76a9f9] hover:text-[#7cbd8e] transition-colors ml-0.5 font-medium inline-block whitespace-nowrap">
+                  <sup className="cursor-help text-[#76a9f9] hover:text-[#7cbd8e] transition-colors font-medium inline-block">
                     [{sourceNum}]
                   </sup>
                 </TooltipTrigger>

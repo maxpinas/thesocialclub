@@ -220,3 +220,19 @@
   width: 0;
 }
 
+
+
+/* Keep source reference tooltips with their preceding text */
+.prose sup[class*="cursor-help"] {
+  display: inline-block;
+  white-space: nowrap;
+  font-size: 0.7em;
+  vertical-align: super;
+}
+
+/* Prevent line breaks before source references by keeping last few characters together */
+.prose li, .prose p {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
