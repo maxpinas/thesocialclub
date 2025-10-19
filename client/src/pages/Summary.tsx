@@ -11,7 +11,7 @@ export default function Summary() {
 
   useEffect(() => {
     async function loadData() {
-      const executive = await loadMarkdown("pasted_file_TpZq3h_Executivesummary_TheSocialHubtransformationandmembershipmodel.md");
+      const executive = await loadMarkdown("ExecutiveSummary.md");
       setContent(executive);
       setSections(parseMarkdownSections(executive));
       setLoading(false);

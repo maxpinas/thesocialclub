@@ -11,7 +11,7 @@ export default function Home() {
 
   useEffect(() => {
     async function loadData() {
-      const executive = await loadMarkdown("pasted_file_glWWlJ_TSH_Executive_Strategy_Report.md");
+      const executive = await loadMarkdown("ExecutiveSummary.md");
       const readme = await loadMarkdown("pasted_file_rTnf85_README.md");
       setContent(executive || readme);
       setLoading(false);
@@ -44,7 +44,7 @@ export default function Home() {
               4-Star Transformation & Membership Strategy
             </p>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              Analyzing 8 hospitality brands across Europe with 10,000+ reviews and 55+ successful research subtasks.
+              Analyzing 8 hospitality brands across Europe with 5,969 verified Google Maps reviews to drive TSH's 4-star transformation.
             </p>
             <div className="flex flex-wrap gap-4">
               <Link href="/summary">
@@ -71,16 +71,16 @@ export default function Home() {
               <div className="text-sm text-muted-foreground">Brands Analyzed</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2" style={{ color: '#7cbd8e' }}>55+</div>
-              <div className="text-sm text-muted-foreground">Research Tasks</div>
+<div className="text-4xl font-bold mb-2" style={{ color: '#7cbd8e' }}>5</div>
+                  <div className="text-sm text-muted-foreground">Validated Personas</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2" style={{ color: '#a4a4a5' }}>10,000+</div>
-              <div className="text-sm text-muted-foreground">Reviews Analyzed</div>
+<div className="text-4xl font-bold mb-2" style={{ color: '#a4a4a5' }}>5,969</div>
+                  <div className="text-sm text-muted-foreground">Verified Reviews</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2" style={{ color: '#76a9f9' }}>8</div>
-              <div className="text-sm text-muted-foreground">Platforms per Brand</div>
+<div className="text-4xl font-bold mb-2" style={{ color: '#76a9f9' }}>€5.4M</div>
+                  <div className="text-sm text-muted-foreground">Annual Membership Revenue</div>
             </div>
           </div>
         </div>
@@ -155,30 +155,30 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8">
             <Card>
               <CardHeader>
-                <CardTitle>TSH+ (€99-120/year)</CardTitle>
+                <CardTitle>Digital Nomad (€240/year)</CardTitle>
                 <CardDescription>Digital-first membership</CardDescription>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-2 text-sm">
-                  <li>✓ 15% hotel discount</li>
-                  <li>✓ Free daily coffee</li>
-                  <li>✓ Priority booking</li>
-                  <li>✓ Target: Frequent travelers, students</li>
+                  <li>✓ Multi-city access</li>
+                  <li>✓ 10% hotel discount</li>
+                  <li>✓ Coworking passes</li>
+                  <li>✓ Target: Digital Nomads</li>
                 </ul>
               </CardContent>
             </Card>
 
             <Card>
               <CardHeader>
-                <CardTitle>TSH Club (€450-600/year)</CardTitle>
+                <CardTitle>Global Explorer (€500/year)</CardTitle>
                 <CardDescription>Full amenity access</CardDescription>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-2 text-sm">
-                  <li>✓ Full amenity access (gym, pool, wellness, co-working)</li>
-                  <li>✓ 25% hotel discount</li>
-                  <li>✓ Member events</li>
-                  <li>✓ Target: Local professionals, digital nomads</li>
+                  <li>✓ Multi-city access</li>
+                  <li>✓ 20% hotel discount</li>
+                  <li>✓ Wellness & meeting credits</li>
+                  <li>✓ Target: Business Travelers, Wellness Enthusiasts</li>
                 </ul>
               </CardContent>
             </Card>

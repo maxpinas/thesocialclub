@@ -70,6 +70,12 @@ export default function Header() {
             </a>
           </Link>
 
+          <Link href="/data-validity">
+            <a className="text-sm font-medium hover:text-[#76a9f9] transition-colors">
+              Data Validity
+            </a>
+          </Link>
+
           {/* Sentiment Dropdown */}
           <div 
             className="relative"
@@ -145,6 +151,11 @@ export default function Header() {
             <Link href="/sentiment">
               <a className="text-sm font-medium hover:text-[#76a9f9]" onClick={() => setMobileMenuOpen(false)}>
                 Sentiment
+              </a>
+            </Link>
+            <Link href="/data-validity">
+              <a className="text-sm font-medium hover:text-[#76a9f9]" onClick={() => setMobileMenuOpen(false)}>
+                Data Validity
               </a>
             </Link>
           </nav>

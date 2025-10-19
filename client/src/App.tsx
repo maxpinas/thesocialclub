@@ -17,6 +17,7 @@ import Personas from "./pages/Personas";
 import Sentiment from "./pages/Sentiment";
 import SentimentDetail from "./pages/SentimentDetail";
 import DataSources from "./pages/DataSources";
+import DataValidity from "./pages/DataValidity";
 
 function Router() {
   return (
@@ -33,6 +34,7 @@ function Router() {
           <Route path="/sentiment" component={Sentiment} />
           <Route path="/sentiment/:brandId" component={SentimentDetail} />
           <Route path="/data-sources" component={DataSources} />
+          <Route path="/data-validity" component={DataValidity} />
           <Route path="/404" component={NotFound} />
           <Route component={NotFound} />
           </Switch>
