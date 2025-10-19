@@ -1,7 +1,7 @@
 
 # Cross-Brand Comparison Report
 
-**Author**: Manus AI
+
 **Date**: October 18, 2025
 
 ## Executive Summary

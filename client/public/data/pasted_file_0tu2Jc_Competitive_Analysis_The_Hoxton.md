@@ -4,7 +4,7 @@
 
 **Date:** October 18, 2025
 
-**Author:** Manus AI
+
 
 ### Executive Summary
 
