@@ -37,7 +37,8 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
 
   // Process markdown to HTML
 
-  // Headings
+  // Headings (process from most specific to least specific)
+  processed = processed.replace(/^#### (.+)$/gm, '<h4 class="text-lg font-bold mt-4 mb-2">$1</h4>');
   processed = processed.replace(/^### (.+)$/gm, '<h3 class="text-xl font-bold mt-6 mb-3">$1</h3>');
   processed = processed.replace(/^## (.+)$/gm, '<h2 class="text-2xl font-bold mt-8 mb-4">$1</h2>');
   processed = processed.replace(/^# (.+)$/gm, '<h1 class="text-3xl font-bold mt-8 mb-4">$1</h1>');
@@ -61,6 +62,39 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
 
   // Horizontal rules
   processed = processed.replace(/^---$/gm, '<hr class="my-6 border-border" />');
+
+  // Tables - convert markdown tables to HTML
+  const tableRegex = /^\|(.+)\|\s*$\n^\|[-:\s|]+\|\s*$\n((?:^\|.+\|\s*$\n?)+)/gm;
+  processed = processed.replace(tableRegex, (match) => {
+    const rows = match.trim().split('\n');
+    if (rows.length < 2) return match;
+    
+    // Parse header
+    const headerCells = rows[0].split('|').filter(cell => cell.trim()).map(cell => cell.trim());
+    
+    // Parse body rows (skip separator row at index 1)
+    const bodyRows = rows.slice(2).map(row => 
+      row.split('|').filter(cell => cell.trim()).map(cell => cell.trim())
+    );
+    
+    // Build HTML table
+    let html = '<table class="min-w-full border-collapse my-6"><thead><tr>';
+    headerCells.forEach(cell => {
+      html += `<th class="border border-gray-300 px-4 py-2 bg-gray-100 font-bold text-left">${cell}</th>`;
+    });
+    html += '</tr></thead><tbody>';
+    
+    bodyRows.forEach(row => {
+      html += '<tr>';
+      row.forEach(cell => {
+        html += `<td class="border border-gray-300 px-4 py-2">${cell}</td>`;
+      });
+      html += '</tr>';
+    });
+    
+    html += '</tbody></table>';
+    return html;
+  });
 
   // Lists - unordered (handle both - and * prefixes)
   const listLines = processed.split('\n');
@@ -134,7 +168,8 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
         !block.startsWith('<h') &&
         !block.startsWith('<ul') &&
         !block.startsWith('<blockquote') &&
-        !block.startsWith('<hr')
+        !block.startsWith('<hr') &&
+        !block.startsWith('<table')
       ) {
         return `<p class="mb-4 leading-relaxed">${block}</p>`;
       }
