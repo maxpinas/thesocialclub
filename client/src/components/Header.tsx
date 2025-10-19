@@ -44,20 +44,22 @@ export default function Header() {
               Brands ▼
             </button>
             {brandsOpen && (
-              <div className="absolute top-full left-0 mt-1 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
-                <Link href="/brands">
-                  <a className="block px-4 py-2 text-sm hover:bg-muted">
-                    Overview
-                  </a>
-                </Link>
-                <div className="border-t border-border my-2"></div>
-                {BRANDS.map((brand) => (
-                  <Link key={brand.id} href={`/brands/${brand.id}`}>
+              <div className="absolute top-full left-0 -mt-1 pt-3 w-56 z-50">
+                <div className="bg-background border border-border rounded-lg shadow-lg py-2">
+                  <Link href="/brands">
                     <a className="block px-4 py-2 text-sm hover:bg-muted">
-                      {brand.name}
+                      Overview
                     </a>
                   </Link>
-                ))}
+                  <div className="border-t border-border my-2"></div>
+                  {BRANDS.map((brand) => (
+                    <Link key={brand.id} href={`/brands/${brand.id}`}>
+                      <a className="block px-4 py-2 text-sm hover:bg-muted">
+                        {brand.name}
+                      </a>
+                    </Link>
+                  ))}
+                </div>
               </div>
             )}
           </div>
@@ -78,26 +80,28 @@ export default function Header() {
               Sentiment ▼
             </button>
             {sentimentOpen && (
-              <div className="absolute top-full left-0 mt-1 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
-                <Link href="/sentiment">
-                  <a className="block px-4 py-2 text-sm hover:bg-muted">
-                    Overview
-                  </a>
-                </Link>
-                <div className="border-t border-border my-2"></div>
-                {BRANDS.map((brand) => (
-                  <Link key={brand.id} href={`/sentiment/${brand.id}`}>
+              <div className="absolute top-full left-0 -mt-1 pt-3 w-56 z-50">
+                <div className="bg-background border border-border rounded-lg shadow-lg py-2">
+                  <Link href="/sentiment">
                     <a className="block px-4 py-2 text-sm hover:bg-muted">
-                      {brand.name}
+                      Overview
                     </a>
                   </Link>
-                ))}
-                <div className="border-t border-border my-2"></div>
-                <Link href="/sentiment/dis-loyalty">
-                  <a className="block px-4 py-2 text-sm hover:bg-muted">
-                    Dis-loyalty Program
-                  </a>
-                </Link>
+                  <div className="border-t border-border my-2"></div>
+                  {BRANDS.map((brand) => (
+                    <Link key={brand.id} href={`/sentiment/${brand.id}`}>
+                      <a className="block px-4 py-2 text-sm hover:bg-muted">
+                        {brand.name}
+                      </a>
+                    </Link>
+                  ))}
+                  <div className="border-t border-border my-2"></div>
+                  <Link href="/sentiment/dis-loyalty">
+                    <a className="block px-4 py-2 text-sm hover:bg-muted">
+                      Dis-loyalty Program
+                    </a>
+                  </Link>
+                </div>
               </div>
             )}
           </div>
