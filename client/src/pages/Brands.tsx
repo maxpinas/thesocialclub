@@ -3,11 +3,13 @@ import { Link } from "wouter";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Loader2, ExternalLink } from "lucide-react";
 import { BRANDS } from "@/types/data";
+import { parseMarkdownSections } from "@/lib/dataLoader";
 import MarkdownRenderer from "@/components/MarkdownRenderer";
 
 export default function Brands() {
   const [loading, setLoading] = useState(true);
   const [overviewContent, setOverviewContent] = useState<string>("");
+  const [sections, setSections] = useState<Record<string, string>>({});
 
   useEffect(() => {
     // Load the competitive overview markdown
@@ -15,6 +17,7 @@ export default function Brands() {
       .then(res => res.text())
       .then(content => {
         setOverviewContent(content);
+        setSections(parseMarkdownSections(content));
         setLoading(false);
       })
       .catch(err => {
@@ -59,16 +62,42 @@ export default function Brands() {
         </div>
       </section>
 
-      {/* Competitive Overview Section */}
+      {/* Competitive Overview Section with Contents Sidebar */}
       <section className="py-12 bg-muted/10 border-t border-border">
-        <div className="container max-w-5xl">
+        <div className="container">
           {loading ? (
             <div className="flex items-center justify-center py-12">
               <Loader2 className="h-8 w-8 animate-spin text-primary" />
             </div>
           ) : (
-            <div className="prose prose-neutral prose-lg max-w-none">
-              <MarkdownRenderer content={overviewContent} />
+            <div className="grid lg:grid-cols-4 gap-8">
+              <aside className="lg:col-span-1">
+                <Card className="sticky top-20">
+                  <CardHeader><CardTitle className="text-sm">Contents</CardTitle></CardHeader>
+                  <CardContent>
+                    <nav className="space-y-2">
+                      {Object.keys(sections).map((section, idx) => (
+                        <a key={idx} href={`#section-${idx}`} className="block text-sm text-muted-foreground hover:text-[#76a9f9] transition-colors">
+                          {section}
+                        </a>
+                      ))}
+                    </nav>
+                  </CardContent>
+                </Card>
+              </aside>
+              <div className="lg:col-span-3">
+                <div className="prose prose-neutral prose-lg max-w-none">
+                  {Object.entries(sections).map(([title, content], idx) => (
+                    <div key={idx} id={`section-${idx}`} className="mb-12">
+                      <h2 className="text-2xl font-bold mb-4 border-b border-border pb-2">{title}</h2>
+                      <MarkdownRenderer content={content} />
+                    </div>
+                  ))}
+                  {Object.keys(sections).length === 0 && (
+                    <MarkdownRenderer content={overviewContent} />
+                  )}
+                </div>
+              </div>
             </div>
           )}
         </div>

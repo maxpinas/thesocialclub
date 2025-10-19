@@ -1,17 +1,19 @@
 import { useEffect, useState } from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Loader2, Users } from "lucide-react";
-import { loadMarkdown } from "@/lib/dataLoader";
+import { loadMarkdown, parseMarkdownSections } from "@/lib/dataLoader";
 import MarkdownRenderer from "@/components/MarkdownRenderer";
 
 export default function Personas() {
   const [content, setContent] = useState<string>("");
+  const [sections, setSections] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     async function loadData() {
       const personas = await loadMarkdown("pasted_file_Adg108_PersonaMethodologyDocument.md");
       setContent(personas);
+      setSections(parseMarkdownSections(personas));
       setLoading(false);
     }
     loadData();
@@ -68,19 +70,48 @@ export default function Personas() {
               </Card>
             ))}
           </div>
-          <div className="max-w-none">
-            <Card>
-              <CardHeader>
-                <CardTitle>Methodology & Evidence</CardTitle>
-                <CardDescription>How these personas were developed from research data</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <MarkdownRenderer content={content} />
-              </CardContent>
-            </Card>
+          
+          {/* Methodology Section with Contents Sidebar */}
+          <div className="grid lg:grid-cols-4 gap-8">
+            <aside className="lg:col-span-1">
+              <Card className="sticky top-20">
+                <CardHeader><CardTitle className="text-sm">Contents</CardTitle></CardHeader>
+                <CardContent>
+                  <nav className="space-y-2">
+                    {Object.keys(sections).map((section, idx) => (
+                      <a key={idx} href={`#section-${idx}`} className="block text-sm text-muted-foreground hover:text-[#76a9f9] transition-colors">
+                        {section}
+                      </a>
+                    ))}
+                  </nav>
+                </CardContent>
+              </Card>
+            </aside>
+            <div className="lg:col-span-3">
+              <Card>
+                <CardHeader>
+                  <CardTitle>Methodology & Evidence</CardTitle>
+                  <CardDescription>How these personas were developed from research data</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="prose prose-neutral max-w-none">
+                    {Object.entries(sections).map(([title, content], idx) => (
+                      <div key={idx} id={`section-${idx}`} className="mb-12">
+                        <h2 className="text-2xl font-bold mb-4 border-b border-border pb-2">{title}</h2>
+                        <MarkdownRenderer content={content} />
+                      </div>
+                    ))}
+                    {Object.keys(sections).length === 0 && (
+                      <MarkdownRenderer content={content} />
+                    )}
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
           </div>
         </div>
       </section>
     </div>
   );
 }
+

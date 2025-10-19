@@ -263,9 +263,9 @@ export default function Home() {
               Deal Breakers
             </h3>
             <div className="grid md:grid-cols-3 gap-4 text-sm text-muted-foreground">
-              <div>• Poor WiFi (#1 complaint killer)</div>
-              <div>• Overcrowding (cap members per hotel)</div>
-              <div>• Single location only (not compelling)</div>
+              <div>• Generic hotel vibe (lacks authentic community)</div>
+              <div>• Inconsistent service quality (breaks trust)</div>
+              <div>• No cultural programming (just amenities)</div>
             </div>
           </div>
         </div>

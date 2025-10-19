@@ -14,7 +14,7 @@ Key target personas include:
 *   **The Digital Nomad**: A young professional (25-35 years old) working remotely, valuing flexible accommodation, reliable Wi-Fi, co-working spaces, and a dynamic lifestyle [5].
 *   **The Modern Explorer**: A leisure traveler (25-45 years old) looking for short-term stays with modern amenities, a central location, and a lively atmosphere [5].
 
-## Key strengths: Positive triggers (2024-2025)
+## Key Strengths & Positive Triggers
 
 Sentiment analysis across platforms like Booking.com, Google Reviews, Reddit, and Facebook (2024-2025 data) reveals consistent positive triggers for TSH guests and members:
 
@@ -24,7 +24,7 @@ Sentiment analysis across platforms like Booking.com, Google Reviews, Reddit, an
 *   **Vibrant atmosphere and social opportunities**: The "vibrant atmosphere" and ease of connecting with others, particularly for students making friends, are highly valued (n=3 on Instagram, n=5 on X/Twitter) [8, 10]. Rooftop areas are also praised for their "breathtaking" views [9].
 *   **Accessibility and location**: Easy access to city centers by public transport is a positive factor (n=17 on Booking.com, n=2 on Google Reviews, n=6 on X/Twitter) [6, 7, 8].
 
-## Key challenges and opportunities for 4-star transformation and membership model
+## Key Challenges & Opportunities
 
 Despite strong positive sentiment, several areas require strategic attention to achieve a 4-star rating and optimize the membership model:
 
