@@ -11,7 +11,7 @@ export default function Personas() {
 
   useEffect(() => {
     async function loadData() {
-      const personas = await loadMarkdown("pasted_file_Adg108_PersonaMethodologyDocument.md");
+      const personas = await loadMarkdown("PersonaMethodologyDocument.md");
       setContent(personas);
       setSections(parseMarkdownSections(personas));
       setLoading(false);
@@ -20,16 +20,16 @@ export default function Personas() {
   }, []);
 
   const personaData = [
-    { name: "Local Professional", percentage: 30, wtp: "€500-800/year", color: "#7cbd8e", 
-      desc: "Age 28-45, income €50-80K/year. Values convenience, networking, work-life balance. Primary use: Co-working, gym, networking events." },
-    { name: "Digital Nomad", percentage: 25, wtp: "€400-700/year", color: "#76a9f9",
-      desc: "Age 25-40, income €40-70K/year. Values flexibility, community, WiFi quality. Primary use: Co-working, accommodation discounts, multi-city access." },
-    { name: "Business Traveler", percentage: 20, wtp: "€600-1,000/year", color: "#a4a4a5",
-      desc: "Age 30-50, income €60-100K/year. Values efficiency, reliability, meeting spaces. Primary use: Hotel discounts, meeting rooms, business lounge." },
-    { name: "Wellness Enthusiast", percentage: 15, wtp: "€800-1,200/year", color: "#FFE0B2",
-      desc: "Age 30-55, income €50-90K/year. Values health, self-care, quality facilities. Primary use: Gym, pool, spa, wellness programs." },
-    { name: "Hybrid Worker", percentage: 10, wtp: "€500-700/year", color: "#C8E6C9",
-      desc: "Age 25-40, income €40-70K/year. Values flexibility, social connection, work-life integration. Primary use: Co-working, social events, occasional accommodation." },
+    { name: "Wellness Enthusiast", percentage: 32, wtp: "€360-600/year", color: "#FFE0B2", 
+      desc: "Age 30-55, income €50-90K/year. Values health, self-care, quality facilities. 1,901 signals from Google Maps data. TSH ranks 3rd - competitive." },
+    { name: "Business Traveler", percentage: 30, wtp: "€480-720/year", color: "#a4a4a5",
+      desc: "Age 30-50, income €60-100K/year. Values efficiency, reliability, service. 1,780 signals. TSH ranks 4th - critical service gap to close." },
+    { name: "Social Traveler", percentage: 20, wtp: "€240-420/year", color: "#7cbd8e",
+      desc: "Age 25-40, income €40-70K/year. Values community, F&B, experiences. 1,215 signals. TSH ranks 2nd - strong community leadership." },
+    { name: "Local Professional", percentage: 18, wtp: "€300-480/year", color: "#C8E6C9",
+      desc: "Age 28-45, income €50-80K/year. Values convenience, networking, amenities. 1,094 signals. TSH ranks 2nd - strong local appeal." },
+    { name: "Digital Nomad", percentage: 6, wtp: "€240-360/year", color: "#76a9f9",
+      desc: "Age 25-40, income €40-70K/year. Values flexibility, community, WiFi. 366 signals. TSH ranks 1st - clear strength with 24.6% of signals." },
   ];
 
   if (loading) {
@@ -47,7 +47,7 @@ export default function Personas() {
           <h1 className="text-4xl md:text-5xl font-bold mb-3">Personas</h1>
             <p className="text-2xl text-muted-foreground mb-4">Target Audience Profiles</p>
             <p className="text-lg text-muted-foreground max-w-3xl">
-              5 validated personas developed from sentiment data across 8 brands
+              5 validated personas developed from 5,969 verified Google Maps reviews across 8 brands
             </p>
         </div>
       </section>
