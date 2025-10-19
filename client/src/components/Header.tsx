@@ -44,7 +44,7 @@ export default function Header() {
               Brands ▼
             </button>
             {brandsOpen && (
-              <div className="absolute top-full left-0 mt-0 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
+              <div className="absolute top-full left-0 mt-1 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
                 <Link href="/brands">
                   <a className="block px-4 py-2 text-sm hover:bg-muted">
                     Overview
@@ -78,7 +78,7 @@ export default function Header() {
               Sentiment ▼
             </button>
             {sentimentOpen && (
-              <div className="absolute top-full left-0 mt-0 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
+              <div className="absolute top-full left-0 mt-1 w-56 bg-background border border-border rounded-lg shadow-lg py-2 z-50">
                 <Link href="/sentiment">
                   <a className="block px-4 py-2 text-sm hover:bg-muted">
                     Overview

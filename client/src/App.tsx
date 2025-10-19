@@ -1,7 +1,8 @@
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
-import { Route, Switch } from "wouter";
+import { Route, Switch, Router as WouterRouter } from "wouter";
+import { useBasePathLocation } from "@/lib/useBasePath";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Header from "./components/Header";
@@ -19,10 +20,11 @@ import DataSources from "./pages/DataSources";
 
 function Router() {
   return (
-    <div className="min-h-screen flex flex-col">
-      <Header />
-      <main className="flex-1">
-        <Switch>
+    <WouterRouter hook={useBasePathLocation}>
+      <div className="min-h-screen flex flex-col">
+        <Header />
+        <main className="flex-1">
+          <Switch>
           <Route path="/" component={Home} />
           <Route path="/summary" component={Summary} />
           <Route path="/brands" component={Brands} />
@@ -33,10 +35,11 @@ function Router() {
           <Route path="/data-sources" component={DataSources} />
           <Route path="/404" component={NotFound} />
           <Route component={NotFound} />
-        </Switch>
-      </main>
-      <Footer />
-    </div>
+          </Switch>
+        </main>
+        <Footer />
+      </div>
+    </WouterRouter>
   );
 }
 
