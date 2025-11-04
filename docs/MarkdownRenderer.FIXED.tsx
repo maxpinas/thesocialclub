@@ -13,18 +13,18 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
   // Preprocess: merge standalone source references with previous line
   let processed = content.replace(/([^\n])\n+\[(\d+(?:,\s*\d+)*)\]\s*\.?\s*$/gm, '$1 [$2].');
   processed = processed.replace(/([^\n])\n+\[(\d+(?:,\s*\d+)*)\]\s*$/gm, '$1 [$2]');
-  
+
   // CRITICAL: Merge source references that appear on their own line after list items
   const lines = processed.split('\n');
   const mergedLines: string[] = [];
-  
+
   for (let i = 0; i < lines.length; i++) {
     const currentLine = lines[i];
     const nextLine = i + 1 < lines.length ? lines[i + 1] : '';
-    
+
     // Check if next line is ONLY a source reference
     const sourceOnlyMatch = nextLine.trim().match(/^\[(\d+(?:,\s*\d+)*)\]\.?$/);
-    
+
     if (sourceOnlyMatch && currentLine.trim()) {
       // Merge source reference with current line
       mergedLines.push(currentLine + ' ' + nextLine.trim());
@@ -33,13 +33,12 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
       mergedLines.push(currentLine);
     }
   }
-  
+
   processed = mergedLines.join('\n');
 
   // Process markdown to HTML
 
-  // Headings (process from most specific to least specific)
-  processed = processed.replace(/^#### (.+)$/gm, '<h4 class="text-lg font-bold mt-4 mb-2">$1</h4>');
+  // Headings
   processed = processed.replace(/^### (.+)$/gm, '<h3 class="text-xl font-bold mt-6 mb-3">$1</h3>');
   processed = processed.replace(/^## (.+)$/gm, '<h2 class="text-2xl font-bold mt-8 mb-4">$1</h2>');
   processed = processed.replace(/^# (.+)$/gm, '<h1 class="text-3xl font-bold mt-8 mb-4">$1</h1>');
@@ -63,39 +62,6 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
 
   // Horizontal rules
   processed = processed.replace(/^---$/gm, '<hr class="my-6 border-border" />');
-
-  // Tables - convert markdown tables to HTML
-  const tableRegex = /^\|(.+)\|\s*$\n^\|[-:\s|]+\|\s*$\n((?:^\|.+\|\s*$\n?)+)/gm;
-  processed = processed.replace(tableRegex, (match) => {
-    const rows = match.trim().split('\n');
-    if (rows.length < 2) return match;
-
-    // Parse header
-    const headerCells = rows[0].split('|').filter(cell => cell.trim()).map(cell => cell.trim());
-
-    // Parse body rows (skip separator row at index 1)
-    const bodyRows = rows.slice(2).map(row =>
-      row.split('|').filter(cell => cell.trim()).map(cell => cell.trim())
-    );
-
-    // Build HTML table
-    let html = '<table class="min-w-full border-collapse my-6"><thead><tr>';
-    headerCells.forEach(cell => {
-      html += `<th class="border border-gray-300 px-3 py-1.5 bg-gray-100 font-bold text-left text-sm">${cell}</th>`;
-    });
-    html += '</tr></thead><tbody>';
-
-    bodyRows.forEach(row => {
-      html += '<tr>';
-      row.forEach(cell => {
-        html += `<td class="border border-gray-300 px-3 py-1.5 text-sm">${cell}</td>`;
-      });
-      html += '</tr>';
-    });
-
-    html += '</tbody></table>';
-    return html;
-  });
 
   // CRITICAL FIX: Replace source references with non-breaking space + marked sup element BEFORE list processing
   // This prevents them from being split across elements
@@ -158,8 +124,7 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
         !trimmed.startsWith('<h') &&
         !trimmed.startsWith('<ul') &&
         !trimmed.startsWith('<blockquote') &&
-        !trimmed.startsWith('<hr') &&
-        !trimmed.startsWith('<table')
+        !trimmed.startsWith('<hr')
       ) {
         return `<p class="mb-4 leading-relaxed">${trimmed}</p>`;
       }
@@ -199,4 +164,3 @@ export default function MarkdownRenderer({ content, brandId }: MarkdownRendererP
     </TooltipProvider>
   );
 }
-

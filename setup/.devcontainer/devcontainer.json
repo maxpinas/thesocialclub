@@ -1,0 +1,42 @@
+{
+  "name": "Development Container",
+  "forwardPorts": [8080, 4173, 5173],
+  "portsAttributes": {
+    "8080": {
+      "label": "Backend",
+      "onAutoForward": "notify",
+      "visibility": "public"
+    },
+    "4173": {
+      "label": "Frontend",
+      "onAutoForward": "notify",
+      "visibility": "public"
+    },
+    "5173": {
+      "label": "Vite Alt",
+      "onAutoForward": "silent",
+      "visibility": "public"
+    }
+  },
+  "postStartCommand": "chmod +x scripts/*.sh && ./scripts/start-keep-alive-enhanced.sh && ./scripts/start.sh",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.confirmOnExit": "never",
+        "security.workspace.trust.enabled": false,
+        "security.workspace.trust.untrustedFiles": "open",
+        "security.workspace.trust.startupPrompt": "never",
+        "security.workspace.trust.banner": "never",
+        "task.allowAutomaticTasks": "on",
+        "task.autoDetect": "on",
+        "task.promptOnClose": false,
+        "terminal.integrated.confirmOnKill": "never"
+      }
+    }
+  },
+  "containerEnv": {
+    "ANTHROPIC_AUTO_CONFIRM": "true",
+    "CLAUDE_AUTO_ACCEPT": "true",
+    "PYTHONUNBUFFERED": "1"
+  }
+}
