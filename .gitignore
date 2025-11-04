@@ -104,3 +104,10 @@ temp/
 *.db
 *.sqlite
 *.sqlite3
+
+# Playwright test outputs
+playwright-report/
+test-results/
+
+# Lock files (using pnpm)
+package-lock.json
